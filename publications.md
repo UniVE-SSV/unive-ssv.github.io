@@ -4,6 +4,8 @@ title: Publications
 ---
 ## 2024
 
+Luca Olivieri, Fausto Spoto: _"Software verification challenges in the blockchain ecosystem"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00758-x) [[LINK]](https://doi.org/10.1007/s10009-024-00758-x)
+
 Mandira Roy, Raunak Bag, Novarun Deb, Agostino Cortesi, Rituparna Chaki, Nabendu Chaki: _"SCARS: Suturing wounds due to conflicts between non‐functional requirements in autonomous and robotic systems"_, in Software: Practice and Experience [[DOI]](https://doi.org/10.1002/spe.3297) [[LINK]](https://doi.org/10.1002/spe.3297)
 
 Souvick Das, Novarun Deb, Agostino Cortesi, Nabendu Chaki: _"Extracting goal models from natural language requirement specifications"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2024.111981) [[LINK]](https://doi.org/10.1016/j.jss.2024.111981)

@@ -220,7 +220,7 @@ During her Master’s degree, she collaborated with the Department of Food and D
 			<h3>Giacomo Zanatta</h3>
 			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
 			Email: <a href="mailto:giacomo.zanatta@unive.it">giacomo.zanatta@unive.it</a><br/>
-			
+			Website: <a href="https://www.giacomozanatta.com/">https://www.giacomozanatta.com/</a>
 		</div>
 	</div>
 </div>
