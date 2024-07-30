@@ -10,6 +10,8 @@ Mandira Roy, Raunak Bag, Novarun Deb, Agostino Cortesi, Rituparna Chaki, Nabendu
 
 Souvick Das, Novarun Deb, Agostino Cortesi, Nabendu Chaki: _"Extracting goal models from natural language requirement specifications"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2024.111981) [[LINK]](https://doi.org/10.1016/j.jss.2024.111981)
 
+Teresa Scantamburlo, Paolo Falcarin, Alberto Veneri, Alessandro Fabris, Chiara Gallese, Valentina Billa, Francesca Rotolo, Federico Marcuzzi: _"Software Systems Compliance with the AI Act"_, [[DOI]](https://doi.org/10.1145/3643691.3648589) [[LINK]](https://doi.org/10.1145/3643691.3648589)
+
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Thomas Jensen, Fausto Spoto: _"Design and Implementation of Static Analyses for Tezos Smart Contracts"_, in Distributed Ledger Technologies: Research and Practice [[DOI]](https://doi.org/10.1145/3643567) [[LINK]](https://dl.acm.org/doi/10.1145/3643567)
 
 Giacomo Boldini, Alessio Diana, Vincenzo Arceri, Vincenzo Bonnici, Roberto Bagnara: _"A Machine Learning Approach for Source Code Similarity via Graph-Focused Features"_, [[DOI]](https://doi.org/10.1007/978-3-031-53969-5_5) [[LINK]](https://doi.org/10.1007/978-3-031-53969-5_5)
