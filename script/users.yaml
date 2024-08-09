@@ -69,6 +69,11 @@ users:
     from: 2022-09-15
     to: today
     student: yes
+  - id: 0000-0001-8787-9086
+    photo: pfp-mukherjee-aradhita.jpg
+    from: 2024-05-01
+    to: today
+    student: no
 #past_users:
 external_users:
   - id: 0000-0002-5150-0393
