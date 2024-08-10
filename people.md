@@ -264,6 +264,23 @@ My master’s thesis, titled as “Incorporating Multiple Bioassay and Cross Con
 
 I worked as a research fellow at Ca'Foscari University of Venice in the domain of “Data User Security Trust” where the experiment was based on the data leakage static analysis of python scripts extracted from jupyter notebooks containing sensitive Information of public administration using static analyzer LiSA (Library for Static Analysis).
 <br/><br/>
+
+<div class="div-person-table">
+	<div class="div-person-table">
+		<div class="div-person-table-col">
+			<img src="{{ site.baseurl }}/images/pfp-mukherjee-aradhita.jpg"/>
+		</div>
+		<div class="div-person-table-multicol">
+			<h3>Aradhita Mukherjee</h3>
+			<h5></h5>
+			
+			
+		</div>
+	</div>
+</div>
+I earned my M.Tech in Computer Science and Engineering from the University of Calcutta. During my PhD studies, I was fortunate to receive the Visvesvaraya Scholarship from the Ministry of Human Resource Development (MHRD), Government of India, which recognized my academic achievements and research potential.
+I was awarded my PhD from the University of Calcutta in 2024. Following that, I began working as a Postdoctoral Fellow at Ca' Foscari University starting on May 1, 2024, where I continue to engage in advanced research in my field. Prior to my postdoctoral work, I served as an Assistant Professor at Meghnad Saha Institute of Technology from April 2022 to April 2024. During my time there, I had the opportunity to teach and mentor students, further deepening my passion for education and research in computer science and engineering.
+<br/><br/>
 ## External members
 
 <div class="div-person-table">
