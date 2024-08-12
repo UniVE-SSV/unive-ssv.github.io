@@ -18,6 +18,8 @@ jobs:
       run: sudo apt install -y git
     - name: 'Ensure python is installed'
       run: sudo apt install -y python3
+    - name: 'Workaround: ensure requests us up to date to avoid url parsing errors'
+      run: python3 -m pip install --upgrade requests
     - name: 'Checkout all branches'
       uses: actions/checkout@v2
     - name: 'Run python script'
