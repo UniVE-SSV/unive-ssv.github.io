@@ -12,6 +12,8 @@ Souvick Das, Novarun Deb, Agostino Cortesi, Nabendu Chaki: _"Extracting goal mod
 
 Teresa Scantamburlo, Paolo Falcarin, Alberto Veneri, Alessandro Fabris, Chiara Gallese, Valentina Billa, Francesca Rotolo, Federico Marcuzzi: _"Software Systems Compliance with the AI Act"_, [[DOI]](https://doi.org/10.1145/3643691.3648589) [[LINK]](https://doi.org/10.1145/3643691.3648589)
 
+Paolo Falcarin, Fabio Dainese: _"Building a Cybersecurity Knowledge Graph with CyberGraph"_, [[DOI]](https://doi.org/10.1145/3643662.3643962) [[LINK]](https://doi.org/10.1145/3643662.3643962)
+
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Thomas Jensen, Fausto Spoto: _"Design and Implementation of Static Analyses for Tezos Smart Contracts"_, in Distributed Ledger Technologies: Research and Practice [[DOI]](https://doi.org/10.1145/3643567) [[LINK]](https://dl.acm.org/doi/10.1145/3643567)
 
 Giacomo Boldini, Alessio Diana, Vincenzo Arceri, Vincenzo Bonnici, Roberto Bagnara: _"A Machine Learning Approach for Source Code Similarity via Graph-Focused Features"_, [[DOI]](https://doi.org/10.1007/978-3-031-53969-5_5) [[LINK]](https://doi.org/10.1007/978-3-031-53969-5_5)
