@@ -28,6 +28,8 @@ Luca Olivieri, Luca Negrini, Vincenzo Arceri, Badaruddin Chachar, Pietro Ferrara
 
 Missing authors: _"Tarsis: An effective automata-based abstract domain for string analysis"_, [[DOI]](https://doi.org/10.1002/smr.2647) [[LINK]](https://iris.unive.it/handle/10278/5050041)
 
+Missing authors: _"Challenges of software verification: the past, the present, the future"_, [[DOI]](https://doi.org/10.1007/s10009-024-00765-y) [[LINK]](https://iris.unive.it/handle/10278/5070241)
+
 Missing authors: _"A Fragile Watermarking Approach for Earth Observation Data Integrity Protection"_, [[DOI]](https://doi.org/10.1007/978-981-97-0041-7_3) [[LINK]](https://iris.unive.it/handle/10278/5055041)
 
 ## 2023
