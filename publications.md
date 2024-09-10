@@ -96,7 +96,7 @@ Adil Yousef Hussein, Paolo Falcarin, Ahmed T. Sadiq: _"IoT Intrusion Detection U
 
 Arceri, V., Olliaro, M., Cortesi, A., Ferrara, P.: _"Relational String Abstract Domains"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-030-94583-1_2) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85124308681&partnerID=MN8TOARS)
 
-Gort, M.L.P., Olliaro, M., Cortesi, A.: _"Reducing Multiple Occurrences of Meta-Mark Selection in Relational Data Watermarking"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2022.3182099) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85132763783&partnerID=MN8TOARS)
+Maikel Lazaro Perez Gort, Martina Olliaro, Agostino Cortesi: _"Reducing Multiple Occurrences of Meta-Mark Selection in Relational Data Watermarking"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2022.3182099) [[LINK]](https://doi.org/10.1109/ACCESS.2022.3182099)
 
 Cortesi, A., Berionni, C., Veeckman, C., Leonardi, C., Schiavo, G., Zancanaro, M., Cescon, M., Sangiuliano, M., Tampakis, D., Falelakis, M.: _"Families_Share: digital and social innovation for work–life balance"_, in Digital Policy, Regulation and Governance [[DOI]](https://doi.org/10.1108/DPRG-02-2021-0028) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85126040557&partnerID=MN8TOARS)
 
