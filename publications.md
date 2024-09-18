@@ -26,6 +26,8 @@ Roy, S., Raj, S., Chakraborty, T., Chakrabarty, A., Cortesi, A., Sen, S.: _"Effi
 
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Badaruddin Chachar, Pietro Ferrara, Agostino Cortesi: _"Detection of Phantom Reads in Hyperledger Fabric"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2024.3410019) [[LINK]](https://doi.org/10.1109/ACCESS.2024.3410019)
 
+Missing authors: _"Teaching Through Practice: Advanced Static Analysis with LiSA"_, [[DOI]](https://doi.org/10.1007/978-3-031-71379-8_3) [[LINK]](https://iris.unive.it/handle/10278/5072663)
+
 Missing authors: _"Tarsis: An effective automata-based abstract domain for string analysis"_, [[DOI]](https://doi.org/10.1002/smr.2647) [[LINK]](https://iris.unive.it/handle/10278/5050041)
 
 Missing authors: _"Challenges of software verification: the past, the present, the future"_, [[DOI]](https://doi.org/10.1007/s10009-024-00765-y) [[LINK]](https://iris.unive.it/handle/10278/5070241)
