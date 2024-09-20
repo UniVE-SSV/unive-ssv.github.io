@@ -4,6 +4,10 @@ title: Publications
 ---
 ## 2024
 
+Vincenzo Arceri, Saverio Mattia Merenda, Greta Dolcetti, Luca Negrini, Luca Olivieri, Enea Zaffanella: _"Towards a Sound Construction of EVM Bytecode Control-Flow Graphs"_, [[DOI]](https://doi.org/10.1145/3678721.3686227) [[LINK]](https://doi.org/10.1145/3678721.3686227)
+
+Giacomo Zanatta, Pietro Ferrara, Teodors Lisovenko, Luca Negrini, Gianluca Caiazza, Ruffin White: _"Sound Static Analysis for Microservices: Utopia? A Preliminary Experience with LiSA"_, [[DOI]](https://doi.org/10.1145/3678721.3686229) [[LINK]](https://doi.org/10.1145/3678721.3686229)
+
 Luca Olivieri, Fausto Spoto: _"Software verification challenges in the blockchain ecosystem"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00758-x) [[LINK]](https://doi.org/10.1007/s10009-024-00758-x)
 
 Mandira Roy, Raunak Bag, Novarun Deb, Agostino Cortesi, Rituparna Chaki, Nabendu Chaki: _"SCARS: Suturing wounds due to conflicts between non‐functional requirements in autonomous and robotic systems"_, in Software: Practice and Experience [[DOI]](https://doi.org/10.1002/spe.3297) [[LINK]](https://doi.org/10.1002/spe.3297)
