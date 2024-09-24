@@ -36,6 +36,8 @@ Missing authors: _"Tarsis: An effective automata-based abstract domain for strin
 
 Missing authors: _"Challenges of software verification: the past, the present, the future"_, [[DOI]](https://doi.org/10.1007/s10009-024-00765-y) [[LINK]](https://iris.unive.it/handle/10278/5070241)
 
+Missing authors: _"Challenges in Health Information Systems: Health Data Management and Access for Life Sciences Research"_, [[DOI]](https://doi.org/10.1007/978-3-031-71115-2_14) [[LINK]](https://iris.unive.it/handle/10278/5075981)
+
 Missing authors: _"A Fragile Watermarking Approach for Earth Observation Data Integrity Protection"_, [[DOI]](https://doi.org/10.1007/978-981-97-0041-7_3) [[LINK]](https://iris.unive.it/handle/10278/5055041)
 
 ## 2023
