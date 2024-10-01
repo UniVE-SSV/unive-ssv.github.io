@@ -4,6 +4,8 @@ title: Publications
 ---
 ## 2024
 
+Alvise Spanò: _"Flexible and reversible conversion between extensible records and overloading constraints for ML"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2024.112141) [[LINK]](https://doi.org/10.1016/j.jss.2024.112141)
+
 Vincenzo Arceri, Saverio Mattia Merenda, Greta Dolcetti, Luca Negrini, Luca Olivieri, Enea Zaffanella: _"Towards a Sound Construction of EVM Bytecode Control-Flow Graphs"_, [[DOI]](https://doi.org/10.1145/3678721.3686227) [[LINK]](https://doi.org/10.1145/3678721.3686227)
 
 Giacomo Zanatta, Pietro Ferrara, Teodors Lisovenko, Luca Negrini, Gianluca Caiazza, Ruffin White: _"Sound Static Analysis for Microservices: Utopia? A Preliminary Experience with LiSA"_, [[DOI]](https://doi.org/10.1145/3678721.3686229) [[LINK]](https://doi.org/10.1145/3678721.3686229)
