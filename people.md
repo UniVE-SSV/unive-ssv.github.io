@@ -274,12 +274,18 @@ I worked as a research fellow at Ca'Foscari University of Venice in the domain o
 		<div class="div-person-table-multicol">
 			<h3>Teodors Lisovenko</h3>
 			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
+			Email: <a href="mailto:teodors.lisovenko@unive.it">teodors.lisovenko@unive.it</a><br/>
 			
-			Website: <a href="http://teodors.lisovenko@unive.it">http://teodors.lisovenko@unive.it</a>
 		</div>
 	</div>
 </div>
-As a multi-faceted Web Developer, I've established myself in the realm of backend web development, with a focus on crafting robust, scalable solutions and APIs. My professional footprint spans across multiple EU countries, fostering my adaptability and effectiveness in international and multicultural settings.
+Teodors is pursuing a PhD in CS at Università Ca’ Foscari Venezia after completing a professional B.Sc. (2021) and an M.Sc. (2023) in IT from Latvia University of Life Sciences and Technologies. Teodors has gained diverse experience across various domains, including .NET web development in Geographic Information Systems at Latvian State Forests, JavaScript backend development in the FinTech industry, and Java full-stack development in distributed systems integrated with Temenos Transact banking systems.
+
+His academic efforts are equally varied. His bachelor’s thesis explored using OGC standards as an alternative to ArcGIS REST API for serving georeferenced data, while his master’s thesis delved into privacy identification in web browsing through device memory analysis.
+
+Teodors also completed five Erasmus study mobilities across Southern Europe, attending institutions such as The Malta College of Arts, Science & Technology, Universidad de Málaga, and Università di Bari Aldo Moro, where he also did an internship specializing in machine learning and visualization. His most recent stop was an internship at Università Ca’ Foscari, where he was introduced to static analysis, which he now sees how to apply on the web in a distributed context, particularly in microservices.
+
+Throughout his academic and professional journey, Teodor’s core interests have remained focused on APIs, web technologies, and distributed systems.
 <br/><br/>
 
 <div class="div-person-table">
