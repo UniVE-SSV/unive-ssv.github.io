@@ -275,7 +275,7 @@ I worked as a research fellow at Ca'Foscari University of Venice in the domain o
 			<h3>Teodors Lisovenko</h3>
 			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
 			
-			Website: <a href="https://www.linkedin.com/in/teodors-lisovenko">https://www.linkedin.com/in/teodors-lisovenko</a>
+			Website: <a href="http://teodors.lisovenko@unive.it">http://teodors.lisovenko@unive.it</a>
 		</div>
 	</div>
 </div>
