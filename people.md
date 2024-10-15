@@ -269,7 +269,7 @@ I worked as a research fellow at Ca'Foscari University of Venice in the domain o
 <div class="div-person-table">
 	<div class="div-person-table">
 		<div class="div-person-table-col">
-			<img src="{{ site.baseurl }}/images/pfp-pfp-lisovenko-teodors.jpg"/>
+			<img src="{{ site.baseurl }}/images/pfp-lisovenko-teodors.png"/>
 		</div>
 		<div class="div-person-table-multicol">
 			<h3>Teodors Lisovenko</h3>
