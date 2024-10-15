@@ -60,6 +60,8 @@ Mandira Roy, Raunak Bag, Novarun Deb, Agostino Cortesi, Rituparna Chaki, Nabendu
 
 Luca Olivieri, Thomas Jensen, Luca Negrini, Fausto Spoto: _"MichelsonLiSA: A Static Analyzer for Tezos"_, in 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) [[DOI]](https://doi.org/10.1109/percomworkshops56833.2023.10150247) [[LINK]](http://dx.doi.org/10.1109/percomworkshops56833.2023.10150247)
 
+Souvick Das, Novarun Deb, Agostino Cortesi, Nabendu Chaki: _"CoDescribe: An Intelligent Code Analyst for Enhancing Productivity and Software Quality"_, in Lecture Notes in Networks and Systems [[DOI]](https://doi.org/10.1007/978-981-99-7783-3_11) [[LINK]](http://dx.doi.org/10.1007/978-981-99-7783-3_11)
+
 Calzavara, S., Ferrara, P., Lucchese, C.: _"Certifying machine learning models against evasion attacks by program analysis"_, in Journal of Computer Security [[DOI]](https://doi.org/10.3233/JCS-210133) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85164535638&partnerID=MN8TOARS)
 
 Das, S., Deb, N., Cortesi, A., Chaki, N.: _"Zero-shot Learning for Named Entity Recognition in Software Specification Documents"_, in Proceedings of the IEEE International Conference on Requirements Engineering [[DOI]](https://doi.org/10.1109/RE57278.2023.00019) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85174419816&partnerID=MN8TOARS)

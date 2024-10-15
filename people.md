@@ -173,7 +173,8 @@ My research interests include cyber security, software verification, blockchain,
 		</div>
 	</div>
 </div>
-Souvick Das received the BSc and MSc degrees in computer science from West Bengal State University, India in the year 2012 and 2014 respectively. He is a research associate with the Department of Environmental Science, Informatics, and Statistics, of Ca’ Foscari University, Venice, Italy and is currently working toward the PhD degree in Computer Science and Engineering from University of Calcutta, India. He has qualified UGC NET-JRF in the year of 2016
+Dedicated Researcher specializing in the intersection of Artificial Intelligence and Software Engineering with over 6 years of experience. Currently serving as a Research Associate at Ca' Foscari University in Venice, Italy, I am deeply passionate about advancing the field of AI while actively contributing to the software engineering community.
+My expertise spans various areas within AI, including Natural Language Processing (NLP), Generative AI, and the development of RAG/Agentic pipelines. I excel in fine-tuning Large Language Models (LLMs) such as QLORA, LORA, SFT, and DPO to address the nuanced challenges within the software engineering domain. Published 10 articles in esteemed journals and conferences including IEEE Transactions on Software Engineering, IEEE RE, Journal of Systems and Software, Elsevier. I am committed to advancing knowledge and fostering innovation.
 <br/><br/>
 
 <div class="div-person-table">
@@ -263,6 +264,22 @@ I started career as a Ph.D. student at Ca’ Foscari University of Venice, where
 My master’s thesis, titled as “Incorporating Multiple Bioassay and Cross Contamination Avoidance in Digital Microfluidic Biochip ”, centered around the Digital Microfluidic Biochips (DMFBs), commonly referred to as lab-on-a-chip where the research includes VLSI design. The design of a compact chip measuring 15×15 with a mere 13 pins was presented. This chip effectively integrates three distinct assay operations: nPI, PCR, and In-Vitro diagnostics, demonstrating promising completion times compared to existing commercial biochips. By reducing the overall pin count and improving the utilization factor, the chip becomes more cost-effective. Additionally, the routing scheme implemented ensures proficient prevention of cross-contamination issues while maintaining fluidic constraints. 
 
 I worked as a research fellow at Ca'Foscari University of Venice in the domain of “Data User Security Trust” where the experiment was based on the data leakage static analysis of python scripts extracted from jupyter notebooks containing sensitive Information of public administration using static analyzer LiSA (Library for Static Analysis).
+<br/><br/>
+
+<div class="div-person-table">
+	<div class="div-person-table">
+		<div class="div-person-table-col">
+			<img src="{{ site.baseurl }}/images/pfp-pfp-lisovenko-teodors.jpg"/>
+		</div>
+		<div class="div-person-table-multicol">
+			<h3>Teodors Lisovenko</h3>
+			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
+			
+			Website: <a href="https://www.linkedin.com/in/teodors-lisovenko">https://www.linkedin.com/in/teodors-lisovenko</a>
+		</div>
+	</div>
+</div>
+As a multi-faceted Web Developer, I've established myself in the realm of backend web development, with a focus on crafting robust, scalable solutions and APIs. My professional footprint spans across multiple EU countries, fostering my adaptability and effectiveness in international and multicultural settings.
 <br/><br/>
 
 <div class="div-person-table">
