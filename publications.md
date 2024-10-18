@@ -4,6 +4,10 @@ title: Publications
 ---
 ## 2024
 
+Greta Dolcetti, Agostino Cortesi, Caterina Urban, Enea Zaffanella: _"Towards a High Level Linter for Data Science"_, [[DOI]](https://doi.org/10.1145/3689609.3689996) [[LINK]](https://doi.org/10.1145/3689609.3689996)
+
+Luca Negrini, Sofia Presotto, Pietro Ferrara, Enea Zaffanella, Agostino Cortesi: _"Stability: An Abstract Domain for the Trend of Variation of Numerical Variables"_, [[DOI]](https://doi.org/10.1145/3689609.3689995) [[LINK]](https://doi.org/10.1145/3689609.3689995)
+
 Alvise Spanò: _"Flexible and reversible conversion between extensible records and overloading constraints for ML"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2024.112141) [[LINK]](https://doi.org/10.1016/j.jss.2024.112141)
 
 Vincenzo Arceri, Saverio Mattia Merenda, Greta Dolcetti, Luca Negrini, Luca Olivieri, Enea Zaffanella: _"Towards a Sound Construction of EVM Bytecode Control-Flow Graphs"_, [[DOI]](https://doi.org/10.1145/3678721.3686227) [[LINK]](https://doi.org/10.1145/3678721.3686227)
