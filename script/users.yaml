@@ -45,12 +45,12 @@ users:
     to: today
     student: no
   - id: 0009-0008-3592-3186
-    photo: pfp-chachar-badaruddin.jpg
+    photo: pfp-bag-raunak.jpg
     from: 2022-01-01
     to: today
     student: yes
   - id: 0009-0000-2718-1882
-    photo: pfp-bag-raunak.jpg
+    photo: pfp-chachar-badaruddin.jpg
     from: 2023-01-01
     to: today
     student: yes
