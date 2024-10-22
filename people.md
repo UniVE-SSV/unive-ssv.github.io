@@ -180,7 +180,7 @@ My expertise spans various areas within AI, including Natural Language Processin
 <div class="div-person-table">
 	<div class="div-person-table">
 		<div class="div-person-table-col">
-			<img src="{{ site.baseurl }}/images/pfp-chachar-badaruddin.jpg"/>
+			<img src="{{ site.baseurl }}/images/pfp-bag-raunak.jpg"/>
 		</div>
 		<div class="div-person-table-multicol">
 			<h3>Raunak Bag</h3>
@@ -197,7 +197,7 @@ Raunak joined Ca’ Foscari University of Venice as a PhD student in January 202
 <div class="div-person-table">
 	<div class="div-person-table">
 		<div class="div-person-table-col">
-			<img src="{{ site.baseurl }}/images/pfp-bag-raunak.jpg"/>
+			<img src="{{ site.baseurl }}/images/pfp-chachar-badaruddin.jpg"/>
 		</div>
 		<div class="div-person-table-multicol">
 			<h3>Badaruddin Chachar</h3>
