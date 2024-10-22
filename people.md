@@ -180,7 +180,7 @@ My expertise spans various areas within AI, including Natural Language Processin
 <div class="div-person-table">
 	<div class="div-person-table">
 		<div class="div-person-table-col">
-			<img src="{{ site.baseurl }}/images/pfp-bag-raunak.jpg"/>
+			<img src="{{ site.baseurl }}/images/pfp-chachar-badaruddin.jpg"/>
 		</div>
 		<div class="div-person-table-multicol">
 			<h3>Raunak Bag</h3>
@@ -192,6 +192,22 @@ My expertise spans various areas within AI, including Natural Language Processin
 </div>
 Raunak Bag completed his B.Sc. and M.Sc. in Computer Science from the University of Calcutta, India in 2019 and 2021. As part of his masters project he created an online collaboration application which brings people with ideas closer to those who can help them create, design and/or develop it under the supervision of Prof. Nabendu Chaki, University of Calcutta.
 Raunak joined Ca’ Foscari University of Venice as a PhD student in January 2022 under the supervision of Prof. Agostino Cortesi. His research focuses on requirement specification and static analysis of robotic software. His current efforts are focused towards robotic system requirements validation by simulation approach. His other research interests are computer architecture, VLSI design and high-performance computing.
+<br/><br/>
+
+<div class="div-person-table">
+	<div class="div-person-table">
+		<div class="div-person-table-col">
+			<img src="{{ site.baseurl }}/images/pfp-bag-raunak.jpg"/>
+		</div>
+		<div class="div-person-table-multicol">
+			<h3>Badaruddin Chachar</h3>
+			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
+			Email: <a href="mailto:badaruddin.chachar@unive.it">badaruddin.chachar@unive.it</a><br/>
+			
+		</div>
+	</div>
+</div>
+
 <br/><br/>
 
 <div class="div-person-table">
