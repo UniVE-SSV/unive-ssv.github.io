@@ -241,9 +241,7 @@ During her Master’s degree, she collaborated with the Department of Food and D
 		</div>
 	</div>
 </div>
-PhD Student at Ca' Foscari University of Venice, keen in computer science and programming languages. My main research branch is static analysis.
-
-From 2020 to 2023, I was a Software Consultant and Technical Leader at Alpenite, a software company in Venice, focused (but not limited) on building e-commerce systems for luxury brands.
+I am a PhD student in Computer Science, specializing in static analysis and program verification with a focus on robotic software and microservices. I am also exploring the explainability of neural networks using abstract interpretation. Formerly, I was a Technical Leader, managing software projects and leading a team of developers.
 <br/><br/>
 
 <div class="div-person-table">
