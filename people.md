@@ -207,7 +207,11 @@ Raunak joined Ca’ Foscari University of Venice as a PhD student in January 202
 		</div>
 	</div>
 </div>
+Currently, I am pursuing a PhD at Ca' Foscari University of Venice, Italy, under the supervision of Prof. Agostino Cortesi and Prof. Pietro Ferrara. My research focuses on the intersection of blockchain security and AI, specifically on detecting vulnerabilities in Solidity smart contracts through the integration of Large Language Models (LLMs) and static analysis.
 
+I earned a bachelor's degree in Computer Science from COMSATS University Lahore, Pakistan, in 2013, supported by a fully funded National Scholarship for Science and Engineering from Pakistan's Ministry of IT. In 2018, I completed a master’s in Software Engineering at Sukkur IBA University, Pakistan.
+
+Before starting my PhD, I accumulated 8 years of experience as a Lecturer in Computer Science at Sukkur IBA Community College and Shah Abdul Latif University, teaching core courses in Computer Science and Software Engineering.
 <br/><br/>
 
 <div class="div-person-table">
