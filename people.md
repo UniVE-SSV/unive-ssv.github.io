@@ -28,7 +28,7 @@ Agostino Cortesi, PhD, is a full professor of Computer Science at Ca’ Foscari 
 			<h3>Pietro Ferrara</h3>
 			<h5>Associate Professor @ Ca' Foscari University Of Venice</h5>
 			Email: <a href="mailto:pietro.ferrara@unive.it">pietro.ferrara@unive.it</a><br/>
-			Website: <a href="https://www.dais.unive.it/~ferrara/">https://www.dais.unive.it/~ferrara/</a>
+			Website: <a href="https://pietroferrara.github.io/">https://pietroferrara.github.io/</a>
 		</div>
 	</div>
 </div>
