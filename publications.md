@@ -36,6 +36,8 @@ Roy, M., Bag, R., Deb, N., Cortesi, A., Chaki, R., Chaki, N.: _"SCARS: Suturing 
 
 Das, S., Deb, N., Chaki, N., Cortesi, A.: _"Minimising conflicts among run-time non-functional requirements within DevOps"_, in Systems Engineering [[DOI]](https://doi.org/10.1002/sys.21715) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85168145564&partnerID=MN8TOARS)
 
+Luca Olivieri, Vincenzo Arceri, Badaruddin Chachar, Luca Negrini, Fabio Tagliaferro, Fausto Spoto, Pietro Ferrara, Agostino Cortesi: _"General-purpose Languages for Blockchain Smart Contracts Development: A Comprenhensive Study"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2024.3495535) [[LINK]](https://doi.org/10.1109/ACCESS.2024.3495535)
+
 Das, S., Deb, N., Cortesi, A., Chaki, N.: _"Extracting goal models from natural language requirement specifications"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2024.111981) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85183944895&partnerID=MN8TOARS)
 
 Roy, S., Raj, S., Chakraborty, T., Chakrabarty, A., Cortesi, A., Sen, S.: _"Efficient OLAP query processing across cuboids in distributed data warehousing environment"_, in Expert Systems with Applications [[DOI]](https://doi.org/10.1016/j.eswa.2023.122481) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85175824863&partnerID=MN8TOARS)
