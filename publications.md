@@ -8,6 +8,8 @@ Greta Dolcetti, Agostino Cortesi, Caterina Urban, Enea Zaffanella: _"Towards a H
 
 Luca Negrini, Sofia Presotto, Pietro Ferrara, Enea Zaffanella, Agostino Cortesi: _"Stability: An Abstract Domain for the Trend of Variation of Numerical Variables"_, [[DOI]](https://doi.org/10.1145/3689609.3689995) [[LINK]](https://doi.org/10.1145/3689609.3689995)
 
+Vincenzo Arceri, Greta Dolcetti, Enea Zaffanella: _"Speeding up static analysis with the split operator"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00761-2) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00761-2)
+
 Alvise Spanò: _"Flexible and reversible conversion between extensible records and overloading constraints for ML"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2024.112141) [[LINK]](https://doi.org/10.1016/j.jss.2024.112141)
 
 Vincenzo Arceri, Saverio Mattia Merenda, Greta Dolcetti, Luca Negrini, Luca Olivieri, Enea Zaffanella: _"Towards a Sound Construction of EVM Bytecode Control-Flow Graphs"_, [[DOI]](https://doi.org/10.1145/3678721.3686227) [[LINK]](https://doi.org/10.1145/3678721.3686227)
