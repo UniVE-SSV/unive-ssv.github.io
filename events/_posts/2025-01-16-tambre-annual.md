@@ -21,13 +21,25 @@ For the fourth year, we're organizing our yearly workshop in Tambre! And for the
 
 | Time        | What |
 | -           | - |
-| Day 1       | January, 16th |
+| *Day 1*       | *January, 16th* |
 | -           | - |
 | 11:00-12:00  | Arrival and registration |
 | 12:30-14:00 | Lunch |
 | 14:00-14:30 | Agostino Cortesi: "Group Achievements" |
 | 14:30-15:00 | Pietro Ferrara: "Organization of the 4th International Symposium on Challenges of Software Verification – CSV 2025" |
-| 15:00-16:00 | Luca Negrini: "Status of the LiSA project" |
+| 15:00-15:30 | Luca Negrini: "Status of the LiSA project" |
+| 15:30-16:00 | Luca Olivieri: "GoLiSA: wrapping up the project" |
+| 16:00-16:30 | Matteo Zanioli: "Arsenalia and Alpenite: the roadmap" |
+| 16:30-17:00 | Alvise Spano': "PLs for the blockchain" |
+| 17:00-17:30 | Maikel Lazaro Perez Gort: "Digital watermarking: from relational data to software" |
+| 17:30-18:00 | Gianluca Caiazza: "Scalable IIoT software architectures" |
+| 18:00-21:00 | Dinner |
 | -           | - |
-| Day 2       | January, 17th |
+| *Day 2*       | *January, 17th* |
 | -           | - |
+| 10:00-10:30 | Greta Dolcetti: "LLMs for static analysis" |
+| 10:30-11:00 | Giacomo Boldini: "Static analysis of LLVM" |
+| 11:00-11:30 | Giacomo Zanatta: "Static analysis of Microservices" |
+| 11:30-12:00 | Teodors Lisovenko: "Zamperla's software architecture" |
+| 12:00-12:30 | Badaruddin Chachar: "Catching vulnerabilities in smart contracts with LLMs" |
+| 12:30-14:00 | Lunch |
