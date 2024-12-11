@@ -21,7 +21,7 @@ For the fourth year, we're organizing our yearly workshop in Tambre! And for the
 
 | Time        | What |
 | -           | - |
-| *Day 1*       | *January, 16th* |
+| **Day 1**       | **January, 16th** |
 | -           | - |
 | 11:00-12:00  | Arrival and registration |
 | 12:30-14:00 | Lunch |
@@ -35,7 +35,7 @@ For the fourth year, we're organizing our yearly workshop in Tambre! And for the
 | 17:30-18:00 | Gianluca Caiazza: "Scalable IIoT software architectures" |
 | 18:00-21:00 | Dinner |
 | -           | - |
-| *Day 2*       | *January, 17th* |
+| **Day 2**       | **January, 17th** |
 | -           | - |
 | 10:00-10:30 | Greta Dolcetti: "LLMs for static analysis" |
 | 10:30-11:00 | Giacomo Boldini: "Static analysis of LLVM" |
