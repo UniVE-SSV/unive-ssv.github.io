@@ -33,7 +33,7 @@ For the fourth year, we're organizing our yearly workshop in Tambre! And for the
 | 16:30-17:00 | Alvise Spano': "PLs for the blockchain" |
 | 17:00-17:30 | Maikel Lazaro Perez Gort: "Digital watermarking: from relational data to software" |
 | 17:30-18:00 | Gianluca Caiazza: "Scalable IIoT software architectures" |
-| 18.00-18.30 | Aradhita Mucherjee: "Security issues in Cross-chain interoperability" |
+| 18.00-18.30 | Aradhita Mukherjee: "Security issues in Cross-chain interoperability" |
 | 18:30-21:00 | Dinner |
 | -           | - |
 | **Day 2**       | **January, 17th** |
