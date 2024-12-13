@@ -1,15 +1,15 @@
 ---
 layout: page
 title: "2024 (yet 2025!) SSV yearly workshop"
-date: "January 16, 2025"
+date: "January 16-17, 2025"
 ---
 
 Location: Via Roma, 82, 32010 Tambre BL, Italy
 <div class="div-img-table">
   <div class="div-img-table-row">
     <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-01.jpg"/>
-    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-02.png"/>
-    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-03.png"/> 
+    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-02.jpg"/>
+    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-03.jpg"/> 
     <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-04.jpg"/> 
   </div>
   <div class="div-img-table-row">
