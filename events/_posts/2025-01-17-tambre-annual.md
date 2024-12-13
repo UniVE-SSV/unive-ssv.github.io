@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "2024 (yet 2025!) SSV yearly workshop"
-date: "January 16 and 17, 2025"
+date: "January 16, 2025"
 ---
 
 Location: Via Roma, 82, 32010 Tambre BL, Italy
