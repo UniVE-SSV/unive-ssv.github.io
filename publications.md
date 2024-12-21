@@ -28,8 +28,6 @@ Giacomo Boldini, Alessio Diana, Vincenzo Arceri, Vincenzo Bonnici, Roberto Bagna
 
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Badaruddin Chachar, Pietro Ferrara, Agostino Cortesi: _"Detection of Phantom Reads in Hyperledger Fabric"_, in IEEE Access [[DOI]](https://doi.org/10.1109/access.2024.3410019) [[LINK]](http://dx.doi.org/10.1109/access.2024.3410019)
 
-Missing authors: _"Sound Static Analysis for Microservices: Utopia? A Preliminary Experience with LiSA"_, [[DOI]](https://doi.org/10278/5072661) [[LINK]](https://iris.unive.it/handle/10278/5072661.2)
-
 Negrini, L., Arceri, V., Cortesi, A., Ferrara, P.: _"Tarsis: An effective automata-based abstract domain for string analysis"_, in Journal of Software: Evolution and Process [[DOI]](https://doi.org/10.1002/smr.2647) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85185479750&partnerID=MN8TOARS)
 
 Gort, M.L.P., Olliaro, M., Cortesi, A.: _"Study of the Watermark Source's Topology Role on Relational Data Watermarking Robustness"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2024.3364760) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85186167963&partnerID=MN8TOARS)
