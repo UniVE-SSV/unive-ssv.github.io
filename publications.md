@@ -2,6 +2,10 @@
 layout: page
 title: Publications
 ---
+## 2025
+
+Vincenzo Arceri, Luca Negrini, Luca Olivieri, Pietro Ferrara: _"Challenges of software verification"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00778-7) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00778-7)
+
 ## 2024
 
 Greta Dolcetti, Agostino Cortesi, Caterina Urban, Enea Zaffanella: _"Towards a High Level Linter for Data Science"_, [[DOI]](https://doi.org/10.1145/3689609.3689996) [[LINK]](https://doi.org/10.1145/3689609.3689996)
