@@ -32,6 +32,8 @@ Giacomo Boldini, Alessio Diana, Vincenzo Arceri, Vincenzo Bonnici, Roberto Bagna
 
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Badaruddin Chachar, Pietro Ferrara, Agostino Cortesi: _"Detection of Phantom Reads in Hyperledger Fabric"_, in IEEE Access [[DOI]](https://doi.org/10.1109/access.2024.3410019) [[LINK]](http://dx.doi.org/10.1109/access.2024.3410019)
 
+Negrini, L., Arceri, V., Olivieri, L., Cortesi, A., Ferrara, P.: _"Teaching Through Practice: Advanced Static Analysis with LiSA"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-031-71379-8_3) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85204360430&partnerID=MN8TOARS)
+
 Negrini, L., Arceri, V., Cortesi, A., Ferrara, P.: _"Tarsis: An effective automata-based abstract domain for string analysis"_, in Journal of Software: Evolution and Process [[DOI]](https://doi.org/10.1002/smr.2647) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85185479750&partnerID=MN8TOARS)
 
 Gort, M.L.P., Olliaro, M., Cortesi, A.: _"Study of the Watermark Source's Topology Role on Relational Data Watermarking Robustness"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2024.3364760) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85186167963&partnerID=MN8TOARS)
@@ -48,13 +50,11 @@ Roy, S., Raj, S., Chakraborty, T., Chakrabarty, A., Cortesi, A., Sen, S.: _"Effi
 
 Olivieri, L., Negrini, L., Arceri, V., Chachar, B., Ferrara, P., Cortesi, A.: _"Detection of Phantom Reads in Hyperledger Fabric"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2024.3410019) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85195372695&partnerID=MN8TOARS)
 
+Ferrara, P., Arceri, V., Cortesi, A.: _"Challenges of software verification: the past, the present, the future"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00765-y) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85202784303&partnerID=MN8TOARS)
+
+Poggiani, A., Cortesi, A.: _"Challenges in Health Information Systems: Health Data Management and Access for Life Sciences Research"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-031-71115-2_14) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85203872033&partnerID=MN8TOARS)
+
 Pérez Gort, M., Cortesi, A.: _"A Fragile Watermarking Approach for Earth Observation Data Integrity Protection"_, in Studies in Big Data [[DOI]](https://doi.org/10.1007/978-981-97-0041-7_3) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85189069652&partnerID=MN8TOARS)
-
-Missing authors: _"Teaching Through Practice: Advanced Static Analysis with LiSA"_, [[DOI]](https://doi.org/10.1007/978-3-031-71379-8_3) [[LINK]](https://iris.unive.it/handle/10278/5072663)
-
-Missing authors: _"Challenges of software verification: the past, the present, the future"_, [[DOI]](https://doi.org/10.1007/s10009-024-00765-y) [[LINK]](https://iris.unive.it/handle/10278/5070241)
-
-Missing authors: _"Challenges in Health Information Systems: Health Data Management and Access for Life Sciences Research"_, [[DOI]](https://doi.org/10.1007/978-3-031-71115-2_14) [[LINK]](https://iris.unive.it/handle/10278/5075981)
 
 ## 2023
 
@@ -112,15 +112,13 @@ Missing authors: _"Reducing multiple occurrences of meta-mark selection in relat
 
 Ahmed Abdulhasan Alwan, Mihaela Anca Ciupala, Allan J. Brimicombe, Seyed Ali Ghorashi, Andres Baravalle, Paolo Falcarin: _"Data quality challenges in large-scale cyber-physical systems: A systematic review"_, in Information Systems [[DOI]](https://doi.org/10.1016/j.is.2021.101951) [[LINK]](https://doi.org/10.1016/j.is.2021.101951)
 
-Antonio Panfili, Alvise Spanò, Agostino Cortesi: _"A Wearable System for Jump Detection in Inline Figure Skating"_, in Sensors [[DOI]](https://doi.org/10.3390/s22041650) [[LINK]](https://doi.org/10.3390/s22041650)
-
 Missing authors: _"SROS2: Usable Cyber Security Tools for ROS 2"_, [[DOI]](https://doi.org/10.1109/IROS47612.2022.9982129) [[LINK]](https://iris.unive.it/handle/10278/5035211)
 
 Adil Yousef Hussein, Paolo Falcarin, Ahmed T. Sadiq: _"IoT Intrusion Detection Using Modified Random Forest Based on Double Feature Selection Methods"_, [[DOI]](https://doi.org/10.1007/978-3-030-97255-4_5) [[LINK]](https://doi.org/10.1007/978-3-030-97255-4_5)
 
 Arceri, V., Olliaro, M., Cortesi, A., Ferrara, P.: _"Relational String Abstract Domains"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-030-94583-1_2) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85124308681&partnerID=MN8TOARS)
 
-Maikel Lazaro Perez Gort, Martina Olliaro, Agostino Cortesi: _"Reducing Multiple Occurrences of Meta-Mark Selection in Relational Data Watermarking"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2022.3182099) [[LINK]](https://doi.org/10.1109/ACCESS.2022.3182099)
+Gort, M.L.P., Olliaro, M., Cortesi, A.: _"Reducing Multiple Occurrences of Meta-Mark Selection in Relational Data Watermarking"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2022.3182099) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85132763783&partnerID=MN8TOARS)
 
 Cortesi, A., Berionni, C., Veeckman, C., Leonardi, C., Schiavo, G., Zancanaro, M., Cescon, M., Sangiuliano, M., Tampakis, D., Falelakis, M.: _"Families_Share: digital and social innovation for work–life balance"_, in Digital Policy, Regulation and Governance [[DOI]](https://doi.org/10.1108/DPRG-02-2021-0028) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85126040557&partnerID=MN8TOARS)
 
@@ -129,6 +127,8 @@ Olivieri, L., Tagliaferro, F., Arceri, V., Ruaro, M., Negrini, L., Cortesi, A., 
 Olliaro, M., Pérez Gort, M.L., Cortesi, A.: _"Empirical analysis of the impact of queries on watermarked relational databases"_, in Expert Systems with Applications [[DOI]](https://doi.org/10.1016/j.eswa.2022.117491) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85130431255&partnerID=MN8TOARS)
 
 Roy, S., Cortesi, A., Sen, S.: _"Context-aware OLAP for textual data warehouses"_, in International Journal of Information Management Data Insights [[DOI]](https://doi.org/10.1016/j.jjimei.2022.100129) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85140027221&partnerID=MN8TOARS)
+
+Panfili, A., Spanò, A., Cortesi, A.: _"A Wearable System for Jump Detection in Inline Figure Skating"_, in Sensors [[DOI]](https://doi.org/10.3390/s22041650) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85124893141&partnerID=MN8TOARS)
 
 Pérez Gort, M.L., Olliaro, M., Cortesi, A.: _"A Quantile-Based Watermarking Approach for Distortion Minimization"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-031-08147-7_11) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85132986279&partnerID=MN8TOARS)
 
