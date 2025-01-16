@@ -7,10 +7,10 @@ date: "January 16, 2025"
 Location: Via Roma, 82, 32010 Tambre BL, Italy
 <div class="div-img-table">
   <div class="div-img-table-row">
-    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-01.jpg"/>
-    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-02.jpg"/>
-    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-03.jpg"/> 
-    <!-- <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-04.jpg"/> -->
+    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-05.jpg"/>
+    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-06.jpg"/>
+    <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-07.jpg"/> 
+    <!-- <img class="div-img-table-col" src="{{ site.baseurl }}/images/2025-winter-tambre-08.jpg"/> -->
   </div>
   <div class="div-img-table-row">
     <img class="div-img-table-multicol" src="{{ site.baseurl }}/images/2024-summer_fortemarghera_small.jpg"/>
