@@ -257,7 +257,7 @@ I am a PhD student in Computer Science, specializing in static analysis and prog
 			<h3>Giacomo Boldini</h3>
 			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
 			Email: <a href="mailto:giacomo.boldini@unive.it">giacomo.boldini@unive.it</a><br/>
-			
+			Website: <a href="http://giacomoboldini.github.io">http://giacomoboldini.github.io</a>
 		</div>
 	</div>
 </div>
