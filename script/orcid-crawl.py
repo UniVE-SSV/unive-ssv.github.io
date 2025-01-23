@@ -71,9 +71,6 @@
 # - fill up '../publications.md' with works from both present and past users that       #
 #   were published within the time window of at least one of the autors (to avoid       #
 #   duplicates, we discriminate publications based on DOI)                              #
-# - generate a news page under '../news/_posts/' named after the publication date       #
-#   and the hash of the publication's title, containing a brief text to illustrate      #
-#   what was published                                                                  #
 # - generate the includes/index_people.html page with the updated photos of all         #
 #   and external members, but not the past ones                                         #
 #                                                                                       #
@@ -158,22 +155,6 @@ class Pub:
 		doi = f' [[DOI]](https://doi.org/{self.doi})' if self.doi is not None else ''
 		url = f' [[LINK]]({self.url})' if self.url is not None else ''
 		return f'{authors}: _"{self.title}"_,{venue}{doi}{url}\n\n'
-
-	def to_news_page(self):
-		authors = ', '.join(self.contribs) if self.contribs is not None and len(self.contribs) > 0 else 'missing authors'
-		kind = self.readable_kind()
-		starting_kind = kind.capitalize()
-		venue = f' in "{self.where}"' if self.where is not None else ''
-		avail = f' Available [here](https://doi.org/{self.doi}).' if self.doi is not None else (f' Available [here]({self.url}).' if self.url is not None else '')
-		return f'''---
-layout: page
-title: '{starting_kind} published{venue}!'
----
-
-<small>{{{{ page.date | date: "%-d %B %Y" }}}}</small>
-
-The {kind} "{self.title}", by {authors}, has just been published{venue}!{avail}
-'''
 
 def log(*messages):
 	if verbose:
@@ -273,13 +254,6 @@ def parse_work(access_token, min_date, max_date, work):
 	for contributor in access_field(lambda r: r['contributors']['contributor'], workrecord, 'contributors', default=list(), do_log=False):
 		contribs += [access_field(lambda r: r['credit-name']['value'], contributor, 'contributor name')]
 	return Pub(title, pub_date, pub_type, where, doi, url, contribs)
-
-def add_news(publication):
-	name_hash = hashlib.md5(publication.title.encode('utf-8')).hexdigest()
-	news_name = f'{publication.pub_date.year}-{publication.pub_date.month}-{publication.pub_date.day}-paper-{name_hash}'
-	log('Generating news for', publication.title, '(', news_name, ')')
-	with open(f'../news/_posts/{news_name}.md', 'w') as news:
-		news.write(publication.to_news_page())
 
 def populate_publications_page(publications):
 	with open('../publications.md', 'w') as file:
@@ -409,10 +383,3 @@ if __name__ == '__main__':
 	populate_publications_page(reversed(publications))
 	populate_index_people(people, external_people)
 
-	# cleanup news folder
-	if os.path.exists('../news/_posts/'):
-		shutil.rmtree('../news/_posts/')
-	os.makedirs('../news/_posts/')
-
-	for publication in reversed(publications):
-		add_news(publication)

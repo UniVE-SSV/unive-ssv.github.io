@@ -25,15 +25,6 @@ The Software and System Verification group @ Ca’ Foscari University of Venice 
 <div class="row">
 	<div class="column" style="margin-right: 5px">
 		<h2>Latest news</h2>
-		<ul class="list-page">
-{% for post in site.categories.news limit: 2 %}
-			<li>
-				<a href="{{ post.url }}">{{ post.title }}</a><br/>
-				<small>{{ post.date | date: "%-d %B %Y" }}</small>
-			</li>
-{% endfor %}
-		</ul>
-		<a href="{{ site.baseurl }}/news/">All news ({{ site.categories.news.size }}) »</a><br><br>
 	</div>
   	<div class="column" style="margin-left: 5px">
   		<h2>Latest events</h2>
