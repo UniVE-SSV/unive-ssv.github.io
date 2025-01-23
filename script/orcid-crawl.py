@@ -101,30 +101,24 @@ class User:
 		return self.name is not None and self.surname is not None and self.photo is not None
 
 	def dump(self):
+		with open('templates/single-member.template', 'r') as file:
+			content = file.read()
 		position = f'{self.role} @ {self.org}' if self.role is not None and self.org is not None else ''
 		email = f'Email: <a href="mailto:{self.mail}">{self.mail}</a><br/>' if self.mail is not None else ''
 		website = f'Website: <a href="{self.website}">{self.website}</a>' if self.website is not None else ''
 		bio = f'{self.bio}' if self.bio is not None else ''
-		return f'''
-<div class="div-person-table">
-	<div class="div-person-table">
-		<div class="div-person-table-col">
-			<img src="{{{{ site.baseurl }}}}/images/{self.photo}"/>
-		</div>
-		<div class="div-person-table-multicol">
-			<h3>{self.name} {self.surname}</h3>
-			<h5>{position}</h5>
-			{email}
-			{website}
-		</div>
-	</div>
-</div>
-{bio}
-<br/><br/>
-'''
+		return content.replace('${PHOTO}', self.photo) \
+					.replace('${NAME}', self.name) \
+					.replace('${SURNAME}', self.surname) \
+					.replace('${POSITION}', position) \
+					.replace('${EMAIL}', email) \
+					.replace('${WEBSITE}', website) \
+					.replace('${BIO}', bio)
 
-class Pub:
-	def __init__(self, title, pub_date, pub_type, where, doi, url, contribs):
+class Pub(yaml.YAMLObject):
+	yaml_tag = u'!Publication'
+	def __init__(self, workid, title, pub_date, pub_type, where, doi, url, contribs):
+		self.workid = workid
 		self.title = title
 		self.pub_date = pub_date
 		self.pub_type = pub_type
@@ -208,8 +202,15 @@ def parse_user(access_token, user):
 	raw_works = access_field(lambda r: r['works']['group'], record, 'works', default=list(), do_log=False)
 	return User(name, surname, user['photo'], mail, website, role, org, bio, raw_works)
 
-def parse_work(access_token, min_date, max_date, work):
-	workrecord = query_path(access_token, access_field(lambda r: r['work-summary'][0]['path'], work, 'work path', do_log=False), do_log=False)
+def parse_work(access_token, min_date, max_date, work, publications_list, excluded_publications):
+	path = access_field(lambda r: r['work-summary'][0]['path'], work, 'work path', do_log=False)
+	if any(path == pub.workid for pub in publications_list):
+		log(f'Publication {path} already in the database')
+		return
+	if path in excluded_publications:
+		log(f'Publication {path} is in the database of excluded publications')
+		return
+	workrecord = query_path(access_token, path, do_log=False)
 	title = access_field(lambda r: r['title']['title']['value'], workrecord, 'title', do_log=False)
 	log('Processing', title)
 
@@ -225,8 +226,9 @@ def parse_work(access_token, min_date, max_date, work):
 	if year is not None:
 		pub_date = date(year, month, day)
 		if pub_date < min_date or pub_date > max_date:
-			# exclude the publication
-			return Pub(None, None, None, None, None, None, None)
+			log('\tPublication discarded since it is outside of the specified date range')
+			excluded_publications += [path]
+			return
 	elif creation_raw is not None:
 		log('\tMissing date, using creation timestamp instead')
 		# according to the docs, creation_raw should contain a formatted ISO timestamp
@@ -235,8 +237,9 @@ def parse_work(access_token, min_date, max_date, work):
 		pub_date = date(1970, 1, 1) + timedelta(milliseconds=creation_raw)
 		log('\t\tProduced date: ' + str(date))
 	else:
-		# exclude the publication
-		return Pub(None, None, None, None, None, None, None)
+		# we do not exclude it permanently since it might get updated in the future
+		log('\tPublication discarded due to missing publication date')
+		return
 
 	pub_type = access_field(lambda r: r['type'], workrecord, 'type')
 	where = access_field(lambda r: r['journal-title']['value'], workrecord, 'venue')
@@ -253,7 +256,19 @@ def parse_work(access_token, min_date, max_date, work):
 	contribs = list()
 	for contributor in access_field(lambda r: r['contributors']['contributor'], workrecord, 'contributors', default=list(), do_log=False):
 		contribs += [access_field(lambda r: r['credit-name']['value'], contributor, 'contributor name')]
-	return Pub(title, pub_date, pub_type, where, doi, url, contribs)
+	
+	publication = Pub(path, title, pub_date, pub_type, where, doi, url, contribs)
+	if publication.is_out_of_date_period():
+		log('\tPublication discarded since it is outside of the specified date range')
+		excluded_publications += [path]
+	elif not publication.has_necessary_fields() or publication.doi is None:
+		# we do not exclude it permanently since it might get updated in the future
+		log('\tPublication discarded due to missing fields')
+	elif any(publication.doi == pub.doi for pub in publications_list):
+		log('\tPublication discarded due to duplicate doi')
+		excluded_publications += [path]
+	else:
+		publications_list += [publication]
 
 def populate_publications_page(publications):
 	with open('../publications.md', 'w') as file:
@@ -296,7 +311,7 @@ title: People
 				log('Adding', person.name, person.surname, 'to the People page')
 				file.write(person.dump())
 
-def process_user_and_add(user, people_list, publications_list):
+def process_user_and_add(user, people_list, publications_list, excluded_publications):
 	person = parse_user(access_token, user)
 	if person.has_necessary_fields():
 		people_list += [person]
@@ -306,47 +321,22 @@ def process_user_and_add(user, people_list, publications_list):
 	min_date = user['from']
 	max_date = date.today() if user['to'] == 'today' else user['to']
 	for work in person.raw_works:
-		publication = parse_work(access_token, min_date, max_date, work)
-		if publication.is_out_of_date_period():
-			log('\tPublication discarded since it is outside of the specified date range')
-			continue
-		elif not publication.has_necessary_fields():
-			log('\tPublication discarded due to missing fields')
-			continue
-		elif publication.doi is None or any(publication.doi == pub.doi for pub in publications_list):
-			log('\tPublication discarded due to missing or duplicate doi')
-			continue
-		else:
-			publications_list += [publication]
+		parse_work(access_token, min_date, max_date, work, publications_list, excluded_publications)
 
 def populate_index_people(people, external_people):
 	log('Populating ../_includes/index_people.html')
+	with open('templates/index-people.template', 'r') as file:
+		section = file.read()
+	with open('templates/index-people-single.template', 'r') as file:
+		person = file.read()
 	with open('../_includes/index_people.html', 'w') as file:
-		file.write('''<br/>
-<h2>Who we are</h2>
-
-<a href="{{ site.baseurl }}/people.html">More info »</a><br><br>
-
-<div class="teambox-container">''')
-		for person in people:
-			file.write(f'''
-	<div class="teambox-card-container teambox-card-width">
-    	<img class="teambox-img" src="{{{{ site.baseurl }}}}/images/{person.photo}">
-  	</div>''')
-		for person in external_people:
-			file.write(f'''
-	<div class="teambox-card-container teambox-card-width">
-    	<img class="teambox-img" src="{{{{ site.baseurl }}}}/images/{person.photo}">
-  	</div>''')
-		file.write('''
-</div>
-
-<div class="div-img-table">
-  <div class="div-img-table-row">
-    <img class="div-img-table-multicol" src="{{ site.baseurl }}/images/{{ site.groupphoto }}"/>
-  </div>
-</div>
-''')
+		all_people = '\n'.join([person.replace('${PERSON_PHOTO}', p.photo) for p in people])
+		all_people += '\n'
+		all_people += '\n'.join([person.replace('${PERSON_PHOTO}', p.photo) for p in external_people])
+		all_people += '\n'
+		
+		full_section = section.replace('${PEOPLE_FACES}', all_people)
+		file.write(full_section)
 
 def sort_by_date(publication):
 	return publication.pub_date
@@ -366,20 +356,37 @@ if __name__ == '__main__':
 	past_people = list()
 	external_people = list()
 	publications = list()
+	excluded_publications = list()
+	
+	if os.path.isfile('pub_db.yaml'):
+		with open('pub_db.yaml', 'r') as yamlfile:
+			log('Reading publications database')
+			publications = yaml.load(yamlfile, Loader=yaml.FullLoader)
+	if os.path.isfile('excluded_pub_db.yaml'):
+		with open('excluded_pub_db.yaml', 'r') as yamlfile:
+			log('Reading excluded publications database')
+			excluded_publications = yaml.load(yamlfile, Loader=yaml.FullLoader)
 
 	for user in data['users']:
-		process_user_and_add(user, people, publications)
+		process_user_and_add(user, people, publications, excluded_publications)
 
 	if 'external_users' in data:
 		for user in data['external_users']:
-			process_user_and_add(user, external_people, publications)
+			process_user_and_add(user, external_people, publications, excluded_publications)
 
 	if 'past_users' in data:
 		for user in data['past_users']:
-			process_user_and_add(user, past_people, publications)
+			process_user_and_add(user, past_people, publications, excluded_publications)
 
 	publications = sorted(publications, key=sort_by_date)
 	populate_people_page(people, past_people, external_people)
 	populate_publications_page(reversed(publications))
 	populate_index_people(people, external_people)
+
+	with open('pub_db.yaml', 'w') as yamlfile:
+		log('Updating publications database')
+		yamlfile.write(yaml.dump(publications))
+	with open('excluded_pub_db.yaml', 'w') as yamlfile:
+		log('Updating excluded publications database')
+		yamlfile.write(yaml.dump(excluded_publications))
 

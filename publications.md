@@ -8,6 +8,8 @@ Vincenzo Arceri, Luca Negrini, Luca Olivieri, Pietro Ferrara: _"Challenges of so
 
 ## 2024
 
+Luca Olivieri, Aradhita Mukherjee, Nabendu Chaki, Agostino Cortesi: _"Blockchain Interoperability through Bridges: A Token Transfer Perspective"_, in 2024 6th International Conference on Blockchain Computing and Applications (BCCA) [[DOI]](https://doi.org/10.1109/bcca62388.2024.10844425) [[LINK]](http://dx.doi.org/10.1109/bcca62388.2024.10844425)
+
 Greta Dolcetti, Agostino Cortesi, Caterina Urban, Enea Zaffanella: _"Towards a High Level Linter for Data Science"_, [[DOI]](https://doi.org/10.1145/3689609.3689996) [[LINK]](https://doi.org/10.1145/3689609.3689996)
 
 Luca Negrini, Sofia Presotto, Pietro Ferrara, Enea Zaffanella, Agostino Cortesi: _"Stability: An Abstract Domain for the Trend of Variation of Numerical Variables"_, [[DOI]](https://doi.org/10.1145/3689609.3689995) [[LINK]](https://doi.org/10.1145/3689609.3689995)

@@ -1,0 +1,2978 @@
+- !Publication
+  contribs:
+  - Bressan, A.
+  - Cortesi, A.
+  doi: 10.1016/0362-546X(89)90025-4
+  pub_date: 1989-01-01
+  pub_type: journal-article
+  title: Directionally continuous selections in Banach spaces
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-38249024699&partnerID=MN8TOARS
+  where: Nonlinear Analysis
+  workid: /0000-0002-0946-5440/work/18158587
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE9, G."
+  doi: 10.1145/115866.115872
+  pub_date: 1991-01-01
+  pub_type: journal-article
+  title: 'Abstract interpretation of logic programs: An abstract domain for groundness,
+    sharing, freeness and compoundness analysis'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84976666126&partnerID=MN8TOARS
+  where: ACM SIGPLAN Notices
+  workid: /0000-0002-0946-5440/work/26497613
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE8, G."
+  - Winsborough, W.
+  doi: 10.1007/3-540-55719-9_101
+  pub_date: 1992-01-01
+  pub_type: conference-paper
+  title: Comparison of abstract interpretations
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84969174288&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/39405618
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE9, G."
+  doi: 10.1016/0304-3975(93)90172-P
+  pub_date: 1993-01-01
+  pub_type: journal-article
+  title: Graph properties for normal logic programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-43949173645&partnerID=MN8TOARS
+  where: Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158585
+- !Publication
+  contribs:
+  - Van Hentenryck, P.
+  - Cortesi, A.
+  - Le Charlier, B.
+  doi: 10.1016/0743-1066(94)00029-6
+  pub_date: 1995-01-01
+  pub_type: journal-article
+  title: Evaluation of the domain prop
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0040026489&partnerID=MN8TOARS
+  where: The Journal of Logic Programming
+  workid: /0000-0002-0946-5440/work/18158582
+- !Publication
+  contribs:
+  - Van Hentenryck, P.
+  - Cortesi, A.
+  - Le Charlier, B.
+  doi: 10.1016/0743-1066(94)00021-W
+  pub_date: 1995-01-01
+  pub_type: journal-article
+  title: Type analysis of prolog using type graphs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0029267571&partnerID=MN8TOARS
+  where: The Journal of Logic Programming
+  workid: /0000-0002-0946-5440/work/18158581
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - File', G.
+  - Winsborough, W.
+  doi: 10.1016/0743-1066(95)00123-9
+  pub_date: 1996-01-01
+  pub_type: journal-article
+  title: Optimal groundness analysis using propositional logic
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030151621&partnerID=MN8TOARS
+  where: Journal of Logic Programming
+  workid: /0000-0002-0946-5440/work/18158580
+- !Publication
+  contribs:
+  - Charlier, B.L.
+  - "Lecl\xE8re, C."
+  - Rossi, S.
+  - Cortesi, A.
+  doi: 10.1007/3-540-63875-X_55
+  pub_date: 1997-01-01
+  pub_type: conference-paper
+  title: Automated verification of behavioural properties of prolog programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84947926146&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/22489418
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE9, G."
+  - Giacobazzi, R.
+  - Palamidessi, C.
+  - Ranzato, F.
+  doi: 10.1145/239912.239914
+  pub_date: 1997-01-01
+  pub_type: journal-article
+  title: Complementation in Abstract Interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030778191&partnerID=MN8TOARS
+  where: ACM Transactions on Programming Languages and Systems
+  workid: /0000-0002-0946-5440/work/18158579
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - le Charlier, B.
+  - Rossi, S.
+  doi: 10.1007/3-540-62718-9_3
+  pub_date: 1997-01-01
+  pub_type: conference-paper
+  title: Specification-based automatic verification of prolog programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84949430993&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/22489408
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE9, G."
+  - Winsborough, W.
+  doi: 10.1016/S0304-3975(97)00137-0
+  pub_date: 1998-01-01
+  pub_type: journal-article
+  title: The quotient of an abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0000554159&partnerID=MN8TOARS
+  where: Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158578
+- !Publication
+  contribs:
+  - Le Charlier, B.
+  - "Lecl\xE8re, C."
+  - Rossi, S.
+  - Cortesi, A.
+  doi: 10.1016/S0743-1066(98)10032-8
+  pub_date: 1999-01-01
+  pub_type: journal-article
+  title: Automated verification of Prolog programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0344613989&partnerID=MN8TOARS
+  where: Journal of Logic Programming
+  workid: /0000-0002-0946-5440/work/18158577
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE9, G."
+  doi: 10.1007/3-540-48294-6
+  pub_date: 1999-01-01
+  pub_type: book
+  title: Preface
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84957688739&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/22489419
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE9, G."
+  doi: 10.1016/S0743-1066(98)10026-2
+  pub_date: 1999-01-01
+  pub_type: journal-article
+  title: Sharing is optimal
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033101935&partnerID=MN8TOARS
+  where: Journal of Logic Programming
+  workid: /0000-0002-0946-5440/work/18158576
+- !Publication
+  contribs:
+  - Ramachandran, V.
+  - Van Hentenryck, P.
+  - Cortesi, A.
+  doi: 10.1016/S0743-1066(99)00011-4
+  pub_date: 2000-01-01
+  pub_type: journal-article
+  title: Abstract domains for reordering CLP (R<inf>Lin</inf>) programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033924676&partnerID=MN8TOARS
+  where: Journal of Logic Programming
+  workid: /0000-0002-0946-5440/work/18158575
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Charlier, B.L.
+  - Hentenryck, P.V.
+  doi: 10.1016/S0167-6423(99)00045-3
+  pub_date: 2000-01-01
+  pub_type: journal-article
+  title: 'Combinations of abstract domains for logic programming: Open product and
+    generic pattern construction'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0343005923&partnerID=MN8TOARS
+  where: Science of Computer Programming
+  workid: /0000-0002-0946-5440/work/18158574
+- !Publication
+  contribs:
+  - Pollet, I.
+  - Le Charlier, B.
+  - Cortesi, A.
+  doi: 10.1007/3-540-45337-7_5
+  pub_date: 2001-01-01
+  pub_type: conference-paper
+  title: Distinctness and sharing domains for static analysis of Java programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84881389043&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158573
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Focardi, R.
+  doi: 10.1016/S1571-0661(04)00235-X
+  pub_date: 2001-01-01
+  pub_type: conference-paper
+  title: Information flow security in Mobile Ambients
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0011837296&partnerID=MN8TOARS
+  where: Electronic Notes in Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158572
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Rossi, S.
+  - Le Charleir, B.
+  doi: 10.1016/S1571-0661(04)00148-3
+  pub_date: 2001-01-01
+  pub_type: conference-paper
+  title: Operational semantics for reexecution-based analysis of logic programs with
+    delay declarations
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-19144364125&partnerID=MN8TOARS
+  where: Electronic Notes in Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158571
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Le Charlier, B.
+  - Rossi, S.
+  doi: 10.1007/3-540-45575-2_39
+  pub_date: 2001-01-01
+  pub_type: conference-paper
+  title: Reexecution-based analysis of logic programs with delay declarations
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84891463505&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158570
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Focardi, R.
+  doi: 10.1016/S0096-0551(02)00005-X
+  pub_date: 2002-01-01
+  pub_type: journal-article
+  title: Computer languages and security
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036555754&partnerID=MN8TOARS
+  where: Computer Languages
+  workid: /0000-0002-0946-5440/work/18158568
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Dovier, A.
+  - Quintarelli, E.
+  - Tanca, L.
+  doi: 10.1016/S0304-3975(01)00295-X
+  pub_date: 2002-01-01
+  pub_type: journal-article
+  title: Operational and abstract semantics of the query language G-Log
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0037187420&partnerID=MN8TOARS
+  where: Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158566
+- !Publication
+  contribs:
+  - Braghin, C.
+  - Cortesi, A.
+  - Focardi, R.
+  doi: 10.1016/S0096-0551(02)00009-7
+  pub_date: 2002-01-01
+  pub_type: journal-article
+  title: Security boundaries in mobile ambients
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036555708&partnerID=MN8TOARS
+  where: Computer Languages
+  workid: /0000-0002-0946-5440/work/18158564
+- !Publication
+  contribs:
+  - Braghin, C.
+  - Cortesi, A.
+  - Focardi, R.
+  doi: 10.1016/S1571-0661(04)81010-7
+  pub_date: 2003-01-01
+  pub_type: conference-paper
+  title: Information leakage detection in boundary ambients
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-18944374156&partnerID=MN8TOARS
+  where: Electronic Notes in Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158561
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - "Fil\xE9, G."
+  doi: 10.1016/S0167-6423(02)00128-4
+  pub_date: 2003-01-01
+  pub_type: conference-paper
+  title: Static analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-0037400786&partnerID=MN8TOARS
+  where: Science of Computer Programming
+  workid: /0000-0002-0946-5440/work/18158560
+- !Publication
+  contribs:
+  - Braghin, C.
+  - Cortesi, A.
+  - Focardi, R.
+  - Luccio, F.L.
+  - Piazza, C.
+  doi: 10.1016/j.entcs.2004.02.014
+  pub_date: 2004-01-01
+  pub_type: journal-article
+  title: 'Behind BANANA: Design and implementation of a tool for nesting analysis
+    of Mobile Ambients'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-18944380197&partnerID=MN8TOARS
+  where: Electronic Notes in Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158559
+- !Publication
+  contribs:
+  - Braghin, C.
+  - Cortesi, A.
+  - Focardi, R.
+  - Luccio, F.L.
+  - Piazza, C.
+  doi: 10.1016/j.cl.2004.02.004
+  pub_date: 2004-01-01
+  pub_type: conference-paper
+  title: Nesting analysis of mobile ambients
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-3242657066&partnerID=MN8TOARS
+  where: Computer Languages, Systems and Structures
+  workid: /0000-0002-0946-5440/work/18158557
+- !Publication
+  contribs:
+  - Zuck, L.
+  - Attie, P.
+  - Cortesi, A.
+  doi: 10.1007/s10009-004-0144-y
+  pub_date: 2004-01-01
+  pub_type: journal-article
+  title: Preface by the section editors
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84896871665&partnerID=MN8TOARS
+  where: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0002-0946-5440/work/18158556
+- !Publication
+  contribs:
+  - Logozzo, F.
+  - Cortesi, A.
+  doi: 10.1016/j.entcs.2005.01.024
+  pub_date: 2005-01-01
+  pub_type: conference-paper
+  title: 'Abstract interpretation and object-oriented programming: Quo vadis?'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-19044364624&partnerID=MN8TOARS
+  where: Electronic Notes in Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158555
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Logozzo, F.
+  doi: 10.1016/j.entcs.2005.02.010
+  pub_date: 2005-01-01
+  pub_type: conference-paper
+  title: 'Electronic Notes in Theoretical Computer Science: Preface'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-19044386440&partnerID=MN8TOARS
+  where: Electronic Notes in Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158553
+- !Publication
+  contribs:
+  - Braghin, C.
+  - Cortesi, A.
+  doi: 10.1016/j.entcs.2004.11.039
+  pub_date: 2005-01-01
+  pub_type: conference-paper
+  title: Flow-sensitive leakage analysis in mobile ambients
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-18444375316&partnerID=MN8TOARS
+  where: Electronic Notes in Theoretical Computer Science
+  workid: /0000-0002-0946-5440/work/18158552
+- !Publication
+  contribs:
+  - Backes, M.
+  - Cortesi, A.
+  - Focardi, R.
+  - Maffei, M.
+  doi: 10.1145/1314436.1314444
+  pub_date: 2007-01-01
+  pub_type: conference-paper
+  title: A calculus of challenges and responses
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-77952350316&partnerID=MN8TOARS
+  where: FMSE07 - Proceedings of the 2007 ACM Workshop on Formal Methods in Security
+    Engineering
+  workid: /0000-0002-0946-5440/work/18158549
+- !Publication
+  contribs:
+  - Backes, M.
+  - Maffei, M.
+  - Cortesi, A.
+  doi: 10.1109/CSF.2007.11
+  pub_date: 2007-01-01
+  pub_type: conference-paper
+  title: Causality-based abstraction of multiplicity in security protocols
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-35048817493&partnerID=MN8TOARS
+  where: Proceedings - IEEE Computer Security Foundations Symposium
+  workid: /0000-0002-0946-5440/work/18158548
+- !Publication
+  contribs:
+  - Braghin, C.
+  - Cortesi, A.
+  - Focardi, R.
+  doi: 10.1016/j.ic.2007.12.001
+  pub_date: 2008-01-01
+  pub_type: journal-article
+  title: Information flow security in Boundary Ambients
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-40149085356&partnerID=MN8TOARS
+  where: Information and Computation
+  workid: /0000-0002-0946-5440/work/18158546
+- !Publication
+  contribs:
+  - Cortesi, A.
+  doi: 10.1109/SEFM.2008.20
+  pub_date: 2008-01-01
+  pub_type: conference-paper
+  title: Widening operators for abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-58049136272&partnerID=MN8TOARS
+  where: Proceedings - 6th IEEE International Conference on Software Engineering and
+    Formal Methods, SEFM 2008
+  workid: /0000-0002-0946-5440/work/18158545
+- !Publication
+  contribs:
+  - Bhattacharya, S.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-10772-6_19
+  pub_date: 2009-01-01
+  pub_type: conference-paper
+  title: A generic distortion free watermarking technique for relational databases
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-71549145624&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158543
+- !Publication
+  contribs:
+  - "Brus\xF2, M."
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-01244-0_28
+  pub_date: 2009-01-01
+  pub_type: conference-paper
+  title: Non-repudiation analysis with LYSA
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84885051938&partnerID=MN8TOARS
+  where: IFIP Advances in Information and Communication Technology
+  workid: /0000-0002-0946-5440/work/18158541
+- !Publication
+  contribs:
+  - Sen, S.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.1109/ICCIT.2009.185
+  pub_date: 2009-01-01
+  pub_type: conference-paper
+  title: Optimal space and time complexity analysis on the lattice of cuboids using
+    galois connections for data warehousing
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-77749317466&partnerID=MN8TOARS
+  where: ICCIT 2009 - 4th International Conference on Computer Sciences and Convergence
+    Information Technology
+  workid: /0000-0002-0946-5440/work/18158540
+- !Publication
+  contribs: []
+  doi: 10.1109/CNC.2010.72
+  pub_date: 2010-01-01
+  pub_type: conference-paper
+  title: Zero-knowledge SoftwareWatermarking for C Programs
+  url: https://iris.unive.it/handle/10278/23844
+  where: null
+  workid: /0000-0002-0946-5440/work/72762965
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-17714-9_16
+  pub_date: 2010-01-01
+  pub_type: conference-paper
+  title: A persistent public watermarking of relational databases
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-78650899973&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158539
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Halder, R.
+  doi: 10.1145/1868281.1868285
+  pub_date: 2010-01-01
+  pub_type: conference-paper
+  title: Dependence condition graph for semantics-based abstract program slicing
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-78649769232&partnerID=MN8TOARS
+  where: Proceedings of the 10th Workshop on Language Descriptions, Tools and Applications,
+    LDTA 2010
+  workid: /0000-0002-0946-5440/work/18158536
+- !Publication
+  contribs:
+  - Brus, M.
+  - Cortesi, A.
+  doi: 10.1016/j.cl.2010.04.002
+  pub_date: 2010-01-01
+  pub_type: journal-article
+  title: Non-repudiation analysis using LySa with annotations
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-77957862320&partnerID=MN8TOARS
+  where: Computer Languages, Systems and Structures
+  workid: /0000-0002-0946-5440/work/18158535
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1109/ISCC.2010.5546750
+  pub_date: 2010-01-01
+  pub_type: conference-paper
+  title: Obfuscation-based analysis of SQL injection attacks
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-77956499038&partnerID=MN8TOARS
+  where: Proceedings - IEEE Symposium on Computers and Communications
+  workid: /0000-0002-0946-5440/work/18158534
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-18381-2_24
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: Cooperative query answering by abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-78751676175&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158530
+- !Publication
+  contribs:
+  - Maggiore, G.
+  - Torsello, A.
+  - Sartoretto, F.
+  - Cortesi, A.
+  doi: 10.1145/2047594.2047608
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: Engaging high school students in computer science via challenging applications
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-81255203470&partnerID=MN8TOARS
+  where: SIGITE11 - Proceedings of the 2011 ACM Special Interest Group for Information
+    Technology Education Conference
+  workid: /0000-0002-0946-5440/work/18158529
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-29578-2
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: Fine grained access control for relational databases by abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84879465172&partnerID=MN8TOARS
+  where: Communications in Computer and Information Science
+  workid: /0000-0002-0946-5440/work/18158528
+- !Publication
+  contribs:
+  - Zanioli, M.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-18381-2_45
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: Information leakage analysis by abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-78751657392&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158527
+- !Publication
+  contribs:
+  - Candiello, A.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-22878-0_27
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: KPI-supported PDCA model for innovation policy management in local government
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-80052755653&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158526
+- !Publication
+  contribs:
+  - Candiello, A.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-27245-5_24
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: KPIs from web agents for policies' impact analysis and products' brand assessment
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-83755169073&partnerID=MN8TOARS
+  where: Communications in Computer and Information Science
+  workid: /0000-0002-0946-5440/work/18158525
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-27245-5_32
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: Observation-based fine grained access control for XML documents
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-83755171591&partnerID=MN8TOARS
+  where: Communications in Computer and Information Science
+  workid: /0000-0002-0946-5440/work/18158524
+- !Publication
+  contribs:
+  - Costantini, G.
+  - Ferrara, P.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-24559-6_34
+  pub_date: 2011-01-01
+  pub_type: conference-paper
+  title: Static analysis of string values
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-80455162665&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158522
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Logozzo, F.
+  doi: 10.4018/978-1-61350-432-1.ch002
+  pub_date: 2011-01-01
+  pub_type: book-chapter
+  title: Verification of non-functional requirements by abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84899243545&partnerID=MN8TOARS
+  where: 'Handbook of Research on Service-Oriented Systems and Non-Functional Properties:
+    Future Directions'
+  workid: /0000-0002-0946-5440/work/18158520
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Zanioli, M.
+  doi: 10.1016/j.cl.2010.09.001
+  pub_date: 2011-01-01
+  pub_type: journal-article
+  title: Widening and narrowing operators for abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-77957752341&partnerID=MN8TOARS
+  where: Computer Languages, Systems and Structures
+  workid: /0000-0002-0946-5440/work/18158518
+- !Publication
+  contribs: []
+  doi: 10.13140/RG.2.1.4698.8886
+  pub_date: 2012-01-01
+  pub_type: book
+  title: Donne e Tecnologie Informatiche
+  url: https://iris.unive.it/handle/10278/31113
+  where: null
+  workid: /0000-0002-0946-5440/work/72762961
+- !Publication
+  contribs:
+  - Sen, S.
+  - Dutta, A.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-642-33260-9_23
+  pub_date: 2012-01-01
+  pub_type: conference-paper
+  title: A new scale for attribute dependency in large database systems
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84879427812&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158517
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1016/j.cl.2011.10.004
+  pub_date: 2012-01-01
+  pub_type: journal-article
+  title: Abstract interpretation of database query languages
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84859613632&partnerID=MN8TOARS
+  where: Computer Languages, Systems and Structures
+  workid: /0000-0002-0946-5440/work/18158516
+- !Publication
+  contribs:
+  - Costantini, G.
+  - Ferrara, P.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-35182-2_8
+  pub_date: 2012-01-01
+  pub_type: conference-paper
+  title: Linear approximation of continuous systems with trapezoid step functions
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84872249321&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158515
+- !Publication
+  contribs:
+  - Candiello, A.
+  - Albarelli, A.
+  - Cortesi, A.
+  doi: 10.1108/17506161211214859
+  pub_date: 2012-01-01
+  pub_type: journal-article
+  title: Quality and impact monitoring for local eGovernment services
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84858428251&partnerID=MN8TOARS
+  where: 'Transforming Government: People, Process and Policy'
+  workid: /0000-0002-0946-5440/work/18158513
+- !Publication
+  contribs:
+  - Zanioli, M.
+  - Ferrara, P.
+  - Cortesi, A.
+  doi: 10.1145/2245276.2231983
+  pub_date: 2012-01-01
+  pub_type: conference-paper
+  title: 'SAILS: Static analysis of information leakage with sample'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84863566027&partnerID=MN8TOARS
+  where: Proceedings of the ACM Symposium on Applied Computing
+  workid: /0000-0002-0946-5440/work/18158512
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Costantini, G.
+  - Ferrara, P.
+  doi: 10.4204/EPTCS.129.19
+  pub_date: 2013-01-01
+  pub_type: conference-paper
+  title: A survey on product operators in abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84884642591&partnerID=MN8TOARS
+  where: Electronic Proceedings in Theoretical Computer Science, EPTCS
+  workid: /0000-0002-0946-5440/work/18158510
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Halder, R.
+  doi: 10.1007/978-3-642-36071-8_12
+  pub_date: 2013-01-01
+  pub_type: conference-paper
+  title: Abstract interpretation of recursive queries
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84872824126&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158509
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1145/2480362.2480524
+  pub_date: 2013-01-01
+  pub_type: conference-paper
+  title: Abstract program slicing of database query languages
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84877983930&partnerID=MN8TOARS
+  where: Proceedings of the ACM Symposium on Applied Computing
+  workid: /0000-0002-0946-5440/work/18158508
+- !Publication
+  contribs:
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1016/j.scico.2012.05.007
+  pub_date: 2013-01-01
+  pub_type: journal-article
+  title: Abstract program slicing on dependence condition graphs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84878850011&partnerID=MN8TOARS
+  where: Science of Computer Programming
+  workid: /0000-0002-0946-5440/work/18158507
+- !Publication
+  contribs:
+  - Saeed, K.
+  - Chaki, R.
+  - Cortesi, A.
+  - "Wierzcho\u0144, S.T."
+  doi: 10.1007/978-3-642-40925-7
+  pub_date: 2013-01-01
+  pub_type: book
+  title: 'Lecture Notes in Computer Science (including subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics): Preface'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84885214737&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158506
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Ferrara, P.
+  - Chaki, N.
+  doi: 10.1109/ISR.2013.6739742
+  pub_date: 2013-01-01
+  pub_type: conference-paper
+  title: Static analysis techniques for robotics software verification
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84957922002&partnerID=MN8TOARS
+  where: 2013 44th International Symposium on Robotics, ISR 2013
+  workid: /0000-0002-0946-5440/work/22489412
+- !Publication
+  contribs:
+  - Costantini, G.
+  - Ferrara, P.
+  - Maggiore, G.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-41202-8_29
+  pub_date: 2013-01-01
+  pub_type: conference-paper
+  title: The domain of parametric hypercubes for static analysis of computer games
+    software
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84889586504&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158504
+- !Publication
+  contribs:
+  - "Span\xF2, A."
+  - Bugliesi, M.
+  - Cortesi, A.
+  doi: 10.1007/978-3-642-36177-7_10
+  pub_date: 2013-01-01
+  pub_type: conference-paper
+  title: Typing Legacy COBOL Code
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84879737528&partnerID=MN8TOARS
+  where: Communications in Computer and Information Science
+  workid: /0000-0002-0946-5440/work/18158503
+- !Publication
+  contribs:
+  - Chakraborty, M.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.15439/2014F287
+  pub_date: 2014-01-01
+  pub_type: conference-paper
+  title: A new intrusion prevention system for protecting Smart Grids from ICMPv6
+    vulnerabilities
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84912102441&partnerID=MN8TOARS
+  where: 2014 Federated Conference on Computer Science and Information Systems, FedCSIS
+    2014
+  workid: /0000-0002-0946-5440/work/18158502
+- !Publication
+  contribs:
+  - Halder, R.
+  - Zanioli, M.
+  - Cortesi, A.
+  doi: 10.1145/2554850.2554862
+  pub_date: 2014-01-01
+  pub_type: conference-paper
+  title: Information leakage analysis of database query languages
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84905668818&partnerID=MN8TOARS
+  where: Proceedings of the ACM Symposium on Applied Computing
+  workid: /0000-0002-0946-5440/work/18158501
+- !Publication
+  contribs:
+  - Costantini, G.
+  - Ferrara, P.
+  - Cortesi, A.
+  doi: 10.1002/spe.2218
+  pub_date: 2015-01-01
+  pub_type: journal-article
+  title: A suite of abstract domains for static analysis of string values
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84939647076&partnerID=MN8TOARS
+  where: Software - Practice and Experience
+  workid: /0000-0002-0946-5440/work/18158499
+- !Publication
+  contribs:
+  - Abbadi, M.
+  - Di Giacomo, F.
+  - Cortesi, A.
+  - Spronck, P.
+  - Costantini, G.
+  - Maggiore, G.
+  doi: 10.1007/978-3-319-19126-3_11
+  pub_date: 2015-01-01
+  pub_type: conference-paper
+  title: 'Casanova: A simple, high-performance language for game development'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84945960782&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/22489417
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Ferrara, P.
+  - Pistoia, M.
+  - Tripp, O.
+  doi: 10.1007/978-3-662-46081-8_4
+  pub_date: 2015-01-01
+  pub_type: conference-paper
+  title: Datacentric semantics for verification of privacy policy compliance by mobile
+    applications
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84917692789&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/18158498
+- !Publication
+  contribs:
+  - Abbadi, M.
+  - Di Giacomo, F.
+  - Cortesi, A.
+  - Spronck, P.
+  - Giulia, C.
+  - Maggiore, G.
+  - Rotterdam, H.
+  doi: 10.1109/CEEC.2015.7332725
+  pub_date: 2015-01-01
+  pub_type: conference-paper
+  title: High performance encapsulation in Casanova 2
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84963648094&partnerID=MN8TOARS
+  where: 2015 7th Computer Science and Electronic Engineering Conference, CEEC 2015
+    - Conference Proceedings
+  workid: /0000-0002-0946-5440/work/26497610
+- !Publication
+  contribs:
+  - Jana, A.
+  - Halder, R.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.1007/978-3-319-24369-6_22
+  pub_date: 2015-01-01
+  pub_type: book
+  title: Policy-based slicing of hibernate query language
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84959196086&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/26497609
+- !Publication
+  contribs:
+  - Barbon, G.
+  - Cortesi, A.
+  - Ferrara, P.
+  - Pistoia, M.
+  - Tripp, O.
+  doi: 10.1007/978-3-319-24369-6_1
+  pub_date: 2015-01-01
+  pub_type: book
+  title: 'Privacy analysis of Android apps: Implicit flows and quantitative analysis'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84943270480&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/22489420
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Costantini, G.
+  - Ferrara, P.
+  doi: 10.1016/j.cl.2015.04.002
+  pub_date: 2015-01-01
+  pub_type: journal-article
+  title: The abstract domain of Trapezoid Step Functions
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84938740668&partnerID=MN8TOARS
+  where: Computer Languages, Systems and Structures
+  workid: /0000-0002-0946-5440/work/18158497
+- !Publication
+  contribs:
+  - Jana, A.
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.1007/978-3-319-23862-3_12
+  pub_date: 2015-01-01
+  pub_type: conference-paper
+  title: Verification of hibernate query language by abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84945901425&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/22489416
+- !Publication
+  contribs:
+  - Chakraborty, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/s11334-016-0275-9
+  pub_date: 2016-01-01
+  pub_type: journal-article
+  title: A uniform representation of multi-variant data in intensive-query databases
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964045329&partnerID=MN8TOARS
+  where: Innovations in Systems and Software Engineering
+  workid: /0000-0002-0946-5440/work/26497612
+- !Publication
+  contribs:
+  - Sen, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-319-28044-8_2
+  pub_date: 2016-01-01
+  pub_type: book-chapter
+  title: Applications of Hyper-lattice in Real Life
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85111636918&partnerID=MN8TOARS
+  where: SpringerBriefs in Applied Sciences and Technology
+  workid: /0000-0002-0946-5440/work/147868935
+- !Publication
+  contribs:
+  - Sen, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-319-28044-8_4
+  pub_date: 2016-01-01
+  pub_type: book-chapter
+  title: Conclusions
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85111682743&partnerID=MN8TOARS
+  where: SpringerBriefs in Applied Sciences and Technology
+  workid: /0000-0002-0946-5440/work/147868931
+- !Publication
+  contribs:
+  - Barbon, G.
+  - Cortesi, A.
+  - Ferrara, P.
+  - Steffinlongo, E.
+  doi: 10.1007/978-3-319-46598-2_3
+  pub_date: 2016-01-01
+  pub_type: conference-paper
+  title: 'DAPA: Degradation-aware privacy analysis of Android apps'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84989854756&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/35776177
+- !Publication
+  contribs:
+  - Halder, R.
+  - Jana, A.
+  - Cortesi, A.
+  doi: 10.1007/978-3-662-49175-1_2
+  pub_date: 2016-01-01
+  pub_type: book
+  title: Data leakage analysis of the hibernate query language on a propositional
+    formulae domain
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84953449692&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/22489413
+- !Publication
+  contribs:
+  - Sen, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-319-28044-8_3
+  pub_date: 2016-01-01
+  pub_type: book-chapter
+  title: Generating Co-operative Queries Over Concept Hierarchies
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85111621677&partnerID=MN8TOARS
+  where: SpringerBriefs in Applied Sciences and Technology
+  workid: /0000-0002-0946-5440/work/147868932
+- !Publication
+  contribs:
+  - Sen, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-319-28044-8
+  pub_date: 2016-01-01
+  pub_type: book
+  title: Hyper-Lattice Algebraic Model for Data Warehousing
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84959871256&partnerID=MN8TOARS
+  where: Hyper-Lattice Algebraic Model for Data Warehousing
+  workid: /0000-0002-0946-5440/work/26497615
+- !Publication
+  contribs:
+  - Sen, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-319-28044-8_1
+  pub_date: 2016-01-01
+  pub_type: book-chapter
+  title: Hyper-lattice
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85111616590&partnerID=MN8TOARS
+  where: SpringerBriefs in Applied Sciences and Technology
+  workid: /0000-0002-0946-5440/work/147868936
+- !Publication
+  contribs:
+  - Sen, S.
+  - Ghosh, P.
+  - Cortesi, A.
+  doi: 10.1007/978-81-322-2650-5_17
+  pub_date: 2016-01-01
+  pub_type: conference-paper
+  title: Materialized view construction using linearizable nonlinear regression
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84983201877&partnerID=MN8TOARS
+  where: Advances in Intelligent Systems and Computing
+  workid: /0000-0002-0946-5440/work/22489415
+- !Publication
+  contribs:
+  - Sen, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1016/B978-044482521-6/50000-0
+  pub_date: 2016-01-01
+  pub_type: book
+  title: Preface
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85111698475&partnerID=MN8TOARS
+  where: SpringerBriefs in Applied Sciences and Technology
+  workid: /0000-0002-0946-5440/work/147868947
+- !Publication
+  contribs:
+  - Sen, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1109/ICIT.2016.7475025
+  pub_date: 2016-01-01
+  pub_type: conference-paper
+  title: ROLAP based data warehouse schema to XML schema conversion
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84974587980&partnerID=MN8TOARS
+  where: Proceedings of the IEEE International Conference on Industrial Technology
+  workid: /0000-0002-0946-5440/work/26497611
+- !Publication
+  contribs:
+  - Awan, M.K.
+  - Cortesi, A.
+  doi: 10.1007/978-3-319-59105-6_20
+  pub_date: 2017-01-01
+  pub_type: conference-paper
+  title: Blockchain transaction analysis using dominant sets
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85019766983&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/35776179
+- !Publication
+  contribs:
+  - Di Giacomo, F.
+  - Abbadi, M.
+  - Cortesi, A.
+  - Spronck, P.
+  - Maggiore, G.
+  doi: 10.1007/978-3-319-49616-0_22
+  pub_date: 2017-01-01
+  pub_type: conference-paper
+  title: "Building game scripting DSL\u2019s with the Metacasanova metacompiler"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85000461222&partnerID=MN8TOARS
+  where: Lecture Notes of the Institute for Computer Sciences, Social-Informatics
+    and Telecommunications Engineering, LNICST
+  workid: /0000-0002-0946-5440/work/35776178
+- !Publication
+  contribs:
+  - Di Giacomo, F.
+  - Abbadi, M.
+  - Cortesi, A.
+  - Spronck, P.
+  - Costantini, G.
+  - Maggiore, G.
+  doi: 10.1016/j.entcom.2017.03.001
+  pub_date: 2017-01-01
+  pub_type: journal-article
+  title: High performance encapsulation and networking in Casanova 2
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85015405099&partnerID=MN8TOARS
+  where: Entertainment Computing
+  workid: /0000-0002-0946-5440/work/35776174
+- !Publication
+  contribs:
+  - Pathan, A.-S.K.
+  - Zhang, Y.
+  - Bakshi, S.
+  - Siarry, P.
+  - Sa, P.K.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.1007/s11334-017-0307-0
+  pub_date: 2017-01-01
+  pub_type: journal-article
+  title: "Introduction to special issue on \u2018intelligent computing and adaptive\
+    \ systems\u2019"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85032920817&partnerID=MN8TOARS
+  where: Innovations in Systems and Software Engineering
+  workid: /0000-0002-0946-5440/work/39405617
+- !Publication
+  contribs:
+  - Di Giacomo, F.
+  - Abbadi, M.
+  - Cortesi, A.
+  - Spronck, P.
+  - Maggiore, G.
+  doi: 10.1145/3136014.3136015
+  pub_date: 2017-01-01
+  pub_type: conference-paper
+  title: 'Metacasanova: An optimized meta-compiler for domain-specific languages'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85037162173&partnerID=MN8TOARS
+  where: SLE 2017 - Proceedings of the 10th ACM SIGPLAN International Conference on
+    Software Language Engineering, co-located with SPLASH 2017
+  workid: /0000-0002-0946-5440/work/46885874
+- !Publication
+  contribs:
+  - Chaki, R.
+  - Saeed, K.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-981-10-3391-9
+  pub_date: 2017-01-01
+  pub_type: book
+  title: Preface
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85015927301&partnerID=MN8TOARS
+  where: Advances in Intelligent Systems and Computing
+  workid: /0000-0002-0946-5440/work/35776176
+- !Publication
+  contribs:
+  - Eugenio, E.
+  - Cortesi, A.
+  doi: 10.1007/978-3-319-50472-8_3
+  pub_date: 2017-01-01
+  pub_type: conference-paper
+  title: WiFi-related energy consumption analysis of mobile devices in a walkable
+    area by abstract interpretation
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85007268635&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/35776175
+- !Publication
+  contribs: []
+  doi: 10.1007/978-981-10-8180-4
+  pub_date: 2018-01-01
+  pub_type: edited-book
+  title: Advanced Computing and Systems for Security - Volume Five
+  url: https://iris.unive.it/handle/10278/3700880
+  where: null
+  workid: /0000-0002-0946-5440/work/72763199
+- !Publication
+  contribs: []
+  doi: 10.1007/978-981-10-8183-5
+  pub_date: 2018-01-01
+  pub_type: edited-book
+  title: Advanced Computing and Systems for Security - Volume Six
+  url: https://iris.unive.it/handle/10278/3700881
+  where: null
+  workid: /0000-0002-0946-5440/work/72763204
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Cortesi, A.
+  - Spoto, F.
+  doi: 10.1145/3193992.3193994
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: CIL to Java-bytecode Translation for Static Analysis Leveraging
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85059102801&partnerID=MN8TOARS
+  where: Proceedings - 2018 ACM/IEEE Conference on Formal Methods in Software Engineering,
+    FormaliSE 2018
+  workid: /0000-0002-0946-5440/work/57242974
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Ferrara, P.
+  - Halder, R.
+  - Zanioli, M.
+  doi: 10.1007/978-3-662-56499-8_6
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: Combining symbolic and numerical domains for information leakage analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85042545933&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/57242969
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Olliaro, M.
+  doi: 10.1109/TASE.2018.00009
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: 'M-string segmentation: A refined abstract domain for string analysis in
+    C Programs'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85062362809&partnerID=MN8TOARS
+  where: Proceedings - 2018 12th International Symposium on Theoretical Aspects of
+    Software Engineering, TASE 2018
+  workid: /0000-0002-0946-5440/work/57242968
+- !Publication
+  contribs:
+  - Mondin, F.
+  - Cortesi, A.
+  doi: 10.1007/978-3-319-99954-8_38
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: MySQL extension automatic porting to PDO for PHP migration and security improvement
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054343816&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/57242972
+- !Publication
+  contribs:
+  - Samanta, R.
+  - Kumari, C.
+  - Deb, N.
+  - Bose, S.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1109/FMEC.2018.8364071
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: Node localization for indoor tracking using artificial neural network
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85048866516&partnerID=MN8TOARS
+  where: 2018 3rd International Conference on Fog and Mobile Edge Computing, FMEC
+    2018
+  workid: /0000-0002-0946-5440/work/46885873
+- !Publication
+  contribs:
+  - White, R.
+  - Christensen, H.I.
+  - Caiazza, G.
+  - Cortesi, A.
+  doi: 10.1109/IROS.2018.8594462
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: Procedurally Provisioned Access Control for Robotic Systems
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85063003281&partnerID=MN8TOARS
+  where: IEEE International Conference on Intelligent Robots and Systems
+  workid: /0000-0002-0946-5440/work/57242973
+- !Publication
+  contribs:
+  - Salvia, R.
+  - Ferrara, P.
+  - Spoto, F.
+  - Cortesi, A.
+  doi: 10.1109/TrustCom/BigDataSE.2018.00141
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: 'SDLI: Static Detection of Leaks Across Intents'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054101892&partnerID=MN8TOARS
+  where: Proceedings - 17th IEEE International Conference on Trust, Security and Privacy
+    in Computing and Communications and 12th IEEE International Conference on Big
+    Data Science and Engineering, Trustcom/BigDataSE 2018
+  workid: /0000-0002-0946-5440/work/57242970
+- !Publication
+  contribs:
+  - Panarotto, F.
+  - Cortesi, A.
+  - Ferrara, P.
+  - Mandal, A.K.
+  - Spoto, F.
+  doi: 10.1007/978-3-030-05755-8_12
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: Static analysis of android apps interaction with automotive CAN
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85058502174&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/57242976
+- !Publication
+  contribs:
+  - Mandal, A.K.
+  - Cortesi, A.
+  - Ferrara, P.
+  - Panarotto, F.
+  - Spoto, F.
+  doi: 10.1145/3203217.3203278
+  pub_date: 2018-01-01
+  pub_type: conference-paper
+  title: Vulnerability analysis of android auto infotainment apps
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85052242119&partnerID=MN8TOARS
+  where: 2018 ACM International Conference on Computing Frontiers, CF 2018 - Proceedings
+  workid: /0000-0002-0946-5440/work/57242977
+- !Publication
+  contribs:
+  - Sahoo, S.
+  - Fajge, A.M.
+  - Halder, R.
+  - Cortesi, A.
+  doi: 10.3390/app9112343
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: A hierarchical and abstraction-based blockchain model
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85067228024&partnerID=MN8TOARS
+  where: Applied Sciences (Switzerland)
+  workid: /0000-0002-0946-5440/work/61230213
+- !Publication
+  contribs:
+  - White, R.
+  - Caiazza, G.
+  - Cortesi, A.
+  - Cho, Y.I.
+  - Christensen, H.I.
+  doi: 10.1109/LRA.2019.2928780
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: 'Black block recorder: Immutable black box logging for robots via blockchain'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85084954237&partnerID=MN8TOARS
+  where: IEEE Robotics and Automation Letters
+  workid: /0000-0002-0946-5440/work/147868984
+- !Publication
+  contribs:
+  - Arceri, V.
+  - Olliaro, M.
+  - Cortesi, A.
+  - Mastroeni, I.
+  doi: 10.1007/978-3-030-32505-3_15
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: Completeness of Abstract Domains for String Analysis of JavaScript Programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85076142268&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868965
+- !Publication
+  contribs:
+  - Caiazza, G.
+  - White, R.
+  - Cortesi, A.
+  doi: 10.1007/978-981-13-3702-4_1
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: Enhancing Security in ROS
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85061113288&partnerID=MN8TOARS
+  where: Advances in Intelligent Systems and Computing
+  workid: /0000-0002-0946-5440/work/57242967
+- !Publication
+  contribs:
+  - Chakraborty, M.
+  - Spano, A.
+  - Cortesi, A.
+  doi: 10.1007/978-3-030-28957-7_11
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: Geographic location based dynamic and opportunistic RPL for distributed networks
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85072962924&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868954
+- !Publication
+  contribs:
+  - "P\xE9rez Gort, M.L."
+  - Feregrino-Uribe, C.
+  - Cortesi, A.
+  - "Fern\xE1ndez-Pe\xF1a, F."
+  doi: 10.1016/j.eswa.2019.06.058
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: 'HQR-Scheme: A High Quality and resilient virtual primary key generation
+    approach for watermarking relational data'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85069746251&partnerID=MN8TOARS
+  where: Expert Systems with Applications
+  workid: /0000-0002-0946-5440/work/61230210
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Tripp, O.
+  doi: 10.1016/j.cola.2019.03.005
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: 'Introduction to the special issue:SAAP-2017 (Static Analysis of Android
+    Apps: Security and Privacy)'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85065039622&partnerID=MN8TOARS
+  where: Journal of Computer Languages
+  workid: /0000-0002-0946-5440/work/57242971
+- !Publication
+  contribs:
+  - White, R.
+  - Caiazza, G.
+  - Jiang, C.
+  - Ou, X.
+  - Yang, Z.
+  - Cortesi, A.
+  - Christensen, H.
+  doi: 10.1109/EuroSPW.2019.00013
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: Network Reconnaissance and Vulnerability Excavation of Secure DDS Systems
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85071920078&partnerID=MN8TOARS
+  where: Proceedings - 4th IEEE European Symposium on Security and Privacy Workshops,
+    EUROS and PW 2019
+  workid: /0000-0002-0946-5440/work/61631043
+- !Publication
+  contribs:
+  - Gort, M.L.P.
+  - Olliaro, M.
+  - Feregrino-Uribe, C.
+  - Cortesi, A.
+  doi: 10.1007/978-3-030-37632-1_12
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: Preventing Additive Attacks to Relational Database Watermarking
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85077490924&partnerID=MN8TOARS
+  where: Lecture Notes in Business Information Processing
+  workid: /0000-0002-0946-5440/work/147868930
+- !Publication
+  contribs:
+  - Bhattacharya, A.
+  - Choudhury, S.
+  - Cortesi, A.
+  doi: 10.1186/s13677-019-0137-8
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: Replaceability and negotiation in a cloud service ecosystem
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85073059334&partnerID=MN8TOARS
+  where: Journal of Cloud Computing
+  workid: /0000-0002-0946-5440/work/147868940
+- !Publication
+  contribs:
+  - White, R.
+  - Caiazza, G.
+  - Christensen, H.
+  - Cortesi, A.
+  doi: 10.1007/978-3-319-91590-6_11
+  pub_date: 2019-01-01
+  pub_type: book-chapter
+  title: 'SROS1: Using and Developing Secure ROS1 Systems'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85049669395&partnerID=MN8TOARS
+  where: Studies in Computational Intelligence
+  workid: /0000-0002-0946-5440/work/46885872
+- !Publication
+  contribs:
+  - Mandal, A.K.
+  - Panarotto, F.
+  - Cortesi, A.
+  - Ferrara, P.
+  - Spoto, F.
+  doi: 10.1002/spe.2698
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: Static analysis of Android Auto infotainment and on-board diagnostics II
+    apps
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85066079071&partnerID=MN8TOARS
+  where: Software - Practice and Experience
+  workid: /0000-0002-0946-5440/work/61230212
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Lauko, H.
+  - Olliaro, M.
+  - "Ro\u010Dkai, P."
+  doi: 10.1007/978-3-030-30923-7_5
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: String Abstraction for Model Checking of C Programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85075586643&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868946
+- !Publication
+  contribs:
+  - Mandal, A.K.
+  - Cortesi, A.
+  - Sarkar, A.
+  - Chaki, N.
+  doi: 10.1109/INDIN41052.2019.8972241
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: 'Things as a service: Service model for IoT'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85079062842&partnerID=MN8TOARS
+  where: IEEE International Conference on Industrial Informatics (INDIN)
+  workid: /0000-0002-0946-5440/work/147868956
+- !Publication
+  contribs:
+  - "Span\xF2, A."
+  - Cortesi, A.
+  - Zausa, G.
+  doi: 10.1007/978-3-030-28957-7_17
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: Type-driven cross-programming for android and LEGO Mindstorms interoperability
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85072989915&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868957
+- !Publication
+  contribs:
+  - Spoto, F.
+  - Burato, E.
+  - Ernst, M.D.
+  - Ferrara, P.
+  - Lovato, A.
+  - Macedonio, D.
+  - Spiridon, C.
+  doi: 10.1145/3332371
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: Static identification of injection attacks in Java
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85068440875&partnerID=MN8TOARS
+  where: ACM Transactions on Programming Languages and Systems
+  workid: /0000-0002-4678-933X/work/104710454
+- !Publication
+  contribs: []
+  doi: 10.1109/CyberSecPODS.2019.8885094
+  pub_date: 2019-01-01
+  pub_type: conference-paper
+  title: Analysis of Obfuscated Code with Program Slicing
+  url: https://iris.unive.it/handle/10278/3743234
+  where: null
+  workid: /0000-0003-1933-5348/work/103462318
+- !Publication
+  contribs: []
+  doi: 10.1007/s10664-018-9625-6
+  pub_date: 2019-01-01
+  pub_type: journal-article
+  title: Understanding the behaviour of hackers while performing attack tasks in a
+    professional setting and in a public challenge
+  url: https://iris.unive.it/handle/10278/3743230
+  where: null
+  workid: /0000-0003-1933-5348/work/103462241
+- !Publication
+  contribs:
+  - Cataldo Basile
+  - Daniele Canavese
+  - Leonardo Regano
+  - Paolo Falcarin
+  - Bjorn De Sutter
+  doi: 10.1016/j.jss.2018.12.025
+  pub_date: 2019-04-01
+  pub_type: journal-article
+  title: A meta-model for software protections and reverse engineering attacks
+  url: https://doi.org/10.1016/j.jss.2018.12.025
+  where: Journal of Systems and Software
+  workid: /0000-0003-1933-5348/work/98565864
+- !Publication
+  contribs:
+  - Maria Sangiuliano
+  - Agostino Cortesi
+  doi: 10.30687/978-88-6969-334-2
+  pub_date: 2019-12-17
+  pub_type: book
+  title: Institutional Change for Gender Equality in Research Lesson Learned from
+    the Field
+  url: https://doi.org/10.30687/978-88-6969-334-2
+  where: null
+  workid: /0000-0002-0946-5440/work/92254554
+- !Publication
+  contribs:
+  - "P\xE9rez Gort, M.L."
+  - Feregrino-Uribe, C.
+  - Cortesi, A.
+  - "Fern\xE1ndez-Pe\xF1a, F."
+  doi: 10.1109/ACCESS.2020.2979659
+  pub_date: 2020-01-01
+  pub_type: journal-article
+  title: A Double Fragmentation Approach for Improving Virtual Primary Key-Based Watermark
+    Synchronization
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85083306592&partnerID=MN8TOARS
+  where: IEEE Access
+  workid: /0000-0002-0946-5440/work/147868960
+- !Publication
+  contribs:
+  - Lauko, H.
+  - Olliaro, M.
+  - Cortesi, A.
+  - "Ro\u010Dckai, P."
+  doi: 10.3390/app10217853
+  pub_date: 2020-01-01
+  pub_type: journal-article
+  title: Abstracting strings for model checking of C programs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85095681850&partnerID=MN8TOARS
+  where: Applied Sciences (Switzerland)
+  workid: /0000-0002-0946-5440/work/147868955
+- !Publication
+  contribs:
+  - Mandal, A.
+  - Ferrara, P.
+  - Khlyebnikov, Y.
+  - Cortesi, A.
+  - Spoto, F.
+  doi: 10.1145/3341105.3373924
+  pub_date: 2020-01-01
+  pub_type: conference-paper
+  title: Cross-program taint analysis for IoT systems
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85083026576&partnerID=MN8TOARS
+  where: Proceedings of the ACM Symposium on Applied Computing
+  workid: /0000-0002-0946-5440/work/147868975
+- !Publication
+  contribs:
+  - Jana, A.
+  - Halder, R.
+  - Abhishekh, K.V.
+  - Ganni, S.D.
+  - Cortesi, A.
+  doi: 10.1109/TSE.2018.2861707
+  pub_date: 2020-01-01
+  pub_type: journal-article
+  title: Extending Abstract Interpretation to Dependency Analysis of Database Applications
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85050989999&partnerID=MN8TOARS
+  where: IEEE Transactions on Software Engineering
+  workid: /0000-0002-0946-5440/work/57242975
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Cortesi, A.
+  - Spoto, F.
+  doi: 10.1016/j.scico.2020.102392
+  pub_date: 2020-01-01
+  pub_type: journal-article
+  title: 'From CIL to Java bytecode: Semantics-based translation for static analysis
+    leveraging'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85078878251&partnerID=MN8TOARS
+  where: Science of Computer Programming
+  workid: /0000-0002-0946-5440/work/147868982
+- !Publication
+  contribs:
+  - Deb, N.
+  - Roy, M.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.1109/EDCC51268.2020.00029
+  pub_date: 2020-01-01
+  pub_type: conference-paper
+  title: Generation of Safety and Liveness Complaint Automata from Goal Model Specifications
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85097153962&partnerID=MN8TOARS
+  where: Proceedings - 16th European Dependable Computing Conference, EDCC 2020
+  workid: /0000-0002-0946-5440/work/147868933
+- !Publication
+  contribs:
+  - "Span\xF2, A."
+  - Cortesi, A.
+  doi: 10.3390/s20071926
+  pub_date: 2020-01-01
+  pub_type: journal-article
+  title: 'Legodroid: A type-driven library for android and lego mindstorms interoperability'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85082791108&partnerID=MN8TOARS
+  where: Sensors (Switzerland)
+  workid: /0000-0002-0946-5440/work/147868963
+- !Publication
+  contribs:
+  - Dieber, B.
+  - White, R.
+  - Taurer, S.
+  - Breiling, B.
+  - Caiazza, G.
+  - Christensen, H.
+  - Cortesi, A.
+  doi: 10.1007/978-3-030-20190-6_8
+  pub_date: 2020-01-01
+  pub_type: book-chapter
+  title: Penetration Testing ROS
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85068232513&partnerID=MN8TOARS
+  where: Studies in Computational Intelligence
+  workid: /0000-0002-0946-5440/work/61230211
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Olivieri, L.
+  - Spoto, F.
+  doi: 10.1007/978-3-030-39322-9_2
+  pub_date: 2020-01-01
+  pub_type: book
+  title: 'BackFlow: Backward Context-Sensitive Flow Reconstruction of Taint Analysis
+    Results'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85079092608&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-4678-933X/work/104710451
+- !Publication
+  contribs:
+  - Calzavara, S.
+  - Ferrara, P.
+  - Lucchese, C.
+  doi: 10.48550/arxiv.2007.02771
+  pub_date: 2020-01-01
+  pub_type: other
+  title: Certifying Decision Trees Against Evasion Attacks by Program Analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85171229483&partnerID=MN8TOARS
+  where: arXiv
+  workid: /0000-0002-4678-933X/work/145236163
+- !Publication
+  contribs:
+  - Calzavara, S.
+  - Ferrara, P.
+  - Lucchese, C.
+  doi: 10.1007/978-3-030-59013-0_21
+  pub_date: 2020-01-01
+  pub_type: book
+  title: Certifying decision trees against evasion attacks by program analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85091569179&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-4678-933X/work/104710452
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Negrini, L.
+  doi: 10.1007/978-3-030-63618-0_1
+  pub_date: 2020-01-01
+  pub_type: book
+  title: 'SARL: OO Framework Specification for Static Analysis'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85097831935&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-4678-933X/work/104710457
+- !Publication
+  contribs:
+  - Negrini, L.
+  - Arceri, V.
+  - Ferrara, P.
+  - Cortesi, A.
+  doi: 10.48550/arxiv.2006.02715
+  pub_date: 2020-01-01
+  pub_type: other
+  title: Twinning automata and regular expressions for string static analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85170315256&partnerID=MN8TOARS
+  where: arXiv
+  workid: /0000-0002-4678-933X/work/145236162
+- !Publication
+  contribs: []
+  doi: 10.1145/3404891
+  pub_date: 2020-01-01
+  pub_type: journal-article
+  title: Code renewability for native software protection
+  url: https://iris.unive.it/handle/10278/3743229
+  where: null
+  workid: /0000-0003-1933-5348/work/103462355
+- !Publication
+  contribs: []
+  doi: 10.1109/FMEC49853.2020.9144751
+  pub_date: 2020-01-01
+  pub_type: conference-paper
+  title: 'HADES: a Hybrid Anomaly Detection System for Large-Scale Cyber-Physical
+    Systems'
+  url: https://iris.unive.it/handle/10278/3743232
+  where: null
+  workid: /0000-0003-1933-5348/work/103462302
+- !Publication
+  contribs:
+  - Arceri, V.
+  - Mastroeni, I.
+  doi: 10.1145/3341105.3373964
+  pub_date: 2020-01-01
+  pub_type: conference-paper
+  title: A sound abstract interpreter for dynamic code
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85083036879&partnerID=MN8TOARS
+  where: Proceedings of the ACM Symposium on Applied Computing
+  workid: /0000-0002-5150-0393/work/72281568
+- !Publication
+  contribs: []
+  doi: 10.1007/978-3-030-54997-8_9
+  pub_date: 2020-01-01
+  pub_type: book-chapter
+  title: An Abstract Domain for Objects in Dynamic Programming Languages
+  url: http://dx.doi.org/10.1007/978-3-030-54997-8_9
+  where: Lecture Notes in Computer Science
+  workid: /0000-0002-5150-0393/work/83026490
+- !Publication
+  contribs:
+  - Vincenzo Arceri
+  - Isabella Mastroeni
+  - Sunyi Xu
+  doi: 10.3390/app10103525
+  pub_date: 2020-05-01
+  pub_type: journal-article
+  title: Static Analysis for ECMAScript String Manipulation Programs
+  url: https://www.mdpi.com/2076-3417/10/10/3525
+  where: Applied Sciences
+  workid: /0000-0002-5150-0393/work/74531733
+- !Publication
+  contribs:
+  - Mitra, D.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-030-81523-3_5
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: 'ALEA: An Anonymous Leader Election Algorithm for Synchronous Distributed
+    Systems'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85115188573&partnerID=MN8TOARS
+  where: Lecture Notes in Networks and Systems
+  workid: /0000-0002-0946-5440/work/147868967
+- !Publication
+  contribs:
+  - Roy, M.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, R.
+  - Chaki, N.
+  doi: 10.1109/RE51729.2021.00061
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: 'CARO: A Conflict-Aware Requirement Ordering Tool for DevOps'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85123192353&partnerID=MN8TOARS
+  where: Proceedings of the IEEE International Conference on Requirements Engineering
+  workid: /0000-0002-0946-5440/work/147868919
+- !Publication
+  contribs:
+  - Arceri, V.
+  - Olliaro, M.
+  - Cortesi, A.
+  - Mastroeni, I.
+  doi: 10.1016/j.ic.2021.104791
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Completeness of string analysis for dynamic languages
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85114108708&partnerID=MN8TOARS
+  where: Information and Computation
+  workid: /0000-0002-0946-5440/work/147868922
+- !Publication
+  contribs:
+  - Roy, S.
+  - Shit, B.
+  - Sen, S.
+  - Cortesi, A.
+  doi: 10.1007/s11334-021-00404-8
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Construction and distribution of materialized views in Non-binary data space
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85107282325&partnerID=MN8TOARS
+  where: Innovations in Systems and Software Engineering
+  workid: /0000-0002-0946-5440/work/147868928
+- !Publication
+  contribs:
+  - Roy, S.
+  - Shit, B.
+  - Sen, S.
+  - Cortesi, A.
+  doi: 10.1007/978-981-16-4294-4_7
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: Construction of Materialized Views in Non-Binary Data Space
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85116383460&partnerID=MN8TOARS
+  where: Lecture Notes in Networks and Systems
+  workid: /0000-0002-0946-5440/work/147868978
+- !Publication
+  contribs:
+  - Roy, M.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, R.
+  - Chaki, N.
+  doi: 10.1007/978-981-16-4294-4_8
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: Dynamic Prioritization of Software Requirements for Incremental Software
+    Development
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85116341918&partnerID=MN8TOARS
+  where: Lecture Notes in Networks and Systems
+  workid: /0000-0002-0946-5440/work/147868980
+- !Publication
+  contribs:
+  - Chakraborty, M.
+  - "Span\xF2, A."
+  - Cortesi, A.
+  doi: 10.1016/j.adhoc.2021.102689
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Geographic location based secure, dynamic and opportunistic RPL for distributed
+    networks
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85116591082&partnerID=MN8TOARS
+  where: Ad Hoc Networks
+  workid: /0000-0002-0946-5440/work/147868945
+- !Publication
+  contribs:
+  - Salvia, R.
+  - Cortesi, A.
+  - Ferrara, P.
+  - Spoto, F.
+  doi: 10.1007/978-981-15-5747-7_4
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: Intents Analysis of Android Apps for Confidentiality Leakage Detection
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85089235143&partnerID=MN8TOARS
+  where: Advances in Intelligent Systems and Computing
+  workid: /0000-0002-0946-5440/work/147868971
+- !Publication
+  contribs:
+  - Roy, M.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, R.
+  - Chaki, N.
+  doi: 10.1002/sys.21572
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: NFR-aware prioritization of software requirements
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85103587611&partnerID=MN8TOARS
+  where: Systems Engineering
+  workid: /0000-0002-0946-5440/work/147868969
+- !Publication
+  contribs:
+  - Roy, M.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, R.
+  - Chaki, N.
+  doi: 10.1007/s11334-021-00406-6
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Requirement-oriented risk management for incremental software development
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85108363473&partnerID=MN8TOARS
+  where: Innovations in Systems and Software Engineering
+  workid: /0000-0002-0946-5440/work/147868927
+- !Publication
+  contribs:
+  - "P\xE9rez Gort, M.L."
+  - Olliaro, M.
+  - Cortesi, A.
+  - Feregrino Uribe, C.
+  doi: 10.1016/j.eswa.2020.114013
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Semantic-driven watermarking of relational textual databases
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85095990557&partnerID=MN8TOARS
+  where: Expert Systems with Applications
+  workid: /0000-0002-0946-5440/work/147868950
+- !Publication
+  contribs:
+  - Das, S.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/s42979-020-00427-1
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Sentence Embedding Models for Similarity Detection of Software Requirements
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85129699157&partnerID=MN8TOARS
+  where: SN Computer Science
+  workid: /0000-0002-0946-5440/work/147868968
+- !Publication
+  contribs:
+  - Ghosh, P.
+  - Sen, S.
+  - Cortesi, A.
+  doi: 10.1007/s11334-020-00376-1
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Skyline computation over multiple points and dimensions
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85098715540&partnerID=MN8TOARS
+  where: Innovations in Systems and Software Engineering
+  workid: /0000-0002-0946-5440/work/147868976
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Mandal, A.K.
+  - Cortesi, A.
+  - Spoto, F.
+  doi: 10.1007/s10009-020-00592-x
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Static analysis for discovering IoT vulnerabilities
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85096536503&partnerID=MN8TOARS
+  where: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0002-0946-5440/work/147868941
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Negrini, L.
+  - Arceri, V.
+  - Cortesi, A.
+  doi: 10.1145/3460946.3464316
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: 'Static analysis for dummies: Experiencing LiSA'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85110105851&partnerID=MN8TOARS
+  where: SOAP 2021 - Proceedings of the 10th ACM SIGPLAN International Workshop on
+    the State Of the Art in Program Analysis, co-located with PLDI 2021
+  workid: /0000-0002-0946-5440/work/147868985
+- !Publication
+  contribs:
+  - Negrini, L.
+  - Arceri, V.
+  - Ferrara, P.
+  - Cortesi, A.
+  doi: 10.1007/978-3-030-67067-2_13
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: Twinning Automata and Regular Expressions for String Static Analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85101551675&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868948
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Chaki, N.
+  - Chaki, R.
+  doi: 10.1007/s11334-021-00405-7
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: 'Verifiability in Systems and Data Engineering: Preface by the Special Issue
+    Editors'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85107274138&partnerID=MN8TOARS
+  where: Innovations in Systems and Software Engineering
+  workid: /0000-0002-0946-5440/work/147868962
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Olivieri, L.
+  - Spoto, F.
+  doi: 10.1142/S0218194021500303
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Static Privacy Analysis by Flow Reconstruction of Tainted Data
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85111441943&partnerID=MN8TOARS
+  where: International Journal of Software Engineering and Knowledge Engineering
+  workid: /0000-0002-4678-933X/work/104710456
+- !Publication
+  contribs: []
+  doi: 10.21533/pen.v9i3.2204
+  pub_date: 2021-01-01
+  pub_type: journal-article
+  title: Enhancement performance of random forest algorithm via one hot encoding for
+    IoT IDS
+  url: https://iris.unive.it/handle/10278/3746528
+  where: null
+  workid: /0000-0003-1933-5348/work/103496171
+- !Publication
+  contribs:
+  - Mastroeni, I.
+  - Arceri, V.
+  doi: 10.4204/EPTCS.341.2
+  pub_date: 2021-01-01
+  pub_type: conference-paper
+  title: Improving dynamic code analysis by code abstraction
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85115233492&partnerID=MN8TOARS
+  where: Electronic Proceedings in Theoretical Computer Science, EPTCS
+  workid: /0000-0002-5150-0393/work/145344696
+- !Publication
+  contribs:
+  - Mastroeni, I.
+  - Arceri, V.
+  doi: 10.48550/arxiv.2109.02813
+  pub_date: 2021-01-01
+  pub_type: other
+  title: Improving dynamic code analysis by code abstraction
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85170897077&partnerID=MN8TOARS
+  where: arXiv
+  workid: /0000-0002-5150-0393/work/145344694
+- !Publication
+  contribs:
+  - Vincenzo Arceri
+  - Isabella Mastroeni
+  doi: 10.1145/3426470
+  pub_date: 2021-05-31
+  pub_type: journal-article
+  title: Analyzing Dynamic Code
+  url: https://doi.org/10.1145/3426470
+  where: ACM Transactions on Privacy and Security
+  workid: /0000-0002-5150-0393/work/145345909
+- !Publication
+  contribs:
+  - Vincenzo Arceri
+  - Isabella Mastroeni
+  doi: 10.4204/eptcs.341.2
+  pub_date: 2021-09-05
+  pub_type: conference-paper
+  title: Improving Dynamic Code Analysis by Code Abstraction
+  url: http://dx.doi.org/10.4204/eptcs.341.2
+  where: Electronic Proceedings in Theoretical Computer Science
+  workid: /0000-0002-5150-0393/work/99623088
+- !Publication
+  contribs:
+  - Krishnasrija, R.
+  - Mandal, A.Kr.
+  - Cortesi, A.
+  doi: 10.2139/ssrn.4090360
+  pub_date: 2022-01-01
+  pub_type: other
+  title: "A Lightweight Mutual and Transitive\_Authentication Mechanism for Iot Network"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85176980108&partnerID=MN8TOARS
+  where: SSRN
+  workid: /0000-0002-0946-5440/work/147868949
+- !Publication
+  contribs:
+  - "P\xE9rez Gort, M.L."
+  - Olliaro, M.
+  - Cortesi, A.
+  doi: 10.1007/978-3-031-08147-7_11
+  pub_date: 2022-01-01
+  pub_type: conference-paper
+  title: "A Quantile-Based Watermarking Approach for\_Distortion Minimization"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85132986279&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868929
+- !Publication
+  contribs:
+  - Panfili, A.
+  - "Span\xF2, A."
+  - Cortesi, A.
+  doi: 10.3390/s22041650
+  pub_date: 2022-01-01
+  pub_type: journal-article
+  title: A Wearable System for Jump Detection in Inline Figure Skating
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85124893141&partnerID=MN8TOARS
+  where: Sensors
+  workid: /0000-0002-0946-5440/work/147868961
+- !Publication
+  contribs:
+  - Roy, S.
+  - Cortesi, A.
+  - Sen, S.
+  doi: 10.1016/j.jjimei.2022.100129
+  pub_date: 2022-01-01
+  pub_type: journal-article
+  title: Context-aware OLAP for textual data warehouses
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85140027221&partnerID=MN8TOARS
+  where: International Journal of Information Management Data Insights
+  workid: /0000-0002-0946-5440/work/147868926
+- !Publication
+  contribs:
+  - Olliaro, M.
+  - "P\xE9rez Gort, M.L."
+  - Cortesi, A.
+  doi: 10.1016/j.eswa.2022.117491
+  pub_date: 2022-01-01
+  pub_type: journal-article
+  title: Empirical analysis of the impact of queries on watermarked relational databases
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85130431255&partnerID=MN8TOARS
+  where: Expert Systems with Applications
+  workid: /0000-0002-0946-5440/work/147868942
+- !Publication
+  contribs:
+  - Olivieri, L.
+  - Tagliaferro, F.
+  - Arceri, V.
+  - Ruaro, M.
+  - Negrini, L.
+  - Cortesi, A.
+  - Ferrara, P.
+  - Spoto, F.
+  - Talin, E.
+  doi: 10.1145/3520313.3534658
+  pub_date: 2022-01-01
+  pub_type: conference-paper
+  title: 'Ensuring determinism in blockchain software with GoLiSA: an industrial experience
+    report'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85146239568&partnerID=MN8TOARS
+  where: SOAP 2022 - Proceedings of the 11th ACM SIGPLAN International Workshop on
+    the State Of the Art in Program Analysis, co-located with PLDI 2022
+  workid: /0000-0002-0946-5440/work/147868938
+- !Publication
+  contribs:
+  - Cortesi, A.
+  - Berionni, C.
+  - Veeckman, C.
+  - Leonardi, C.
+  - Schiavo, G.
+  - Zancanaro, M.
+  - Cescon, M.
+  - Sangiuliano, M.
+  - Tampakis, D.
+  - Falelakis, M.
+  doi: 10.1108/DPRG-02-2021-0028
+  pub_date: 2022-01-01
+  pub_type: journal-article
+  title: "Families_Share: digital and social innovation for work\u2013life balance"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85126040557&partnerID=MN8TOARS
+  where: Digital Policy, Regulation and Governance
+  workid: /0000-0002-0946-5440/work/147868958
+- !Publication
+  contribs:
+  - Gort, M.L.P.
+  - Olliaro, M.
+  - Cortesi, A.
+  doi: 10.1109/ACCESS.2022.3182099
+  pub_date: 2022-01-01
+  pub_type: journal-article
+  title: Reducing Multiple Occurrences of Meta-Mark Selection in Relational Data Watermarking
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85132763783&partnerID=MN8TOARS
+  where: IEEE Access
+  workid: /0000-0002-0946-5440/work/147868939
+- !Publication
+  contribs:
+  - Arceri, V.
+  - Olliaro, M.
+  - Cortesi, A.
+  - Ferrara, P.
+  doi: 10.1007/978-3-030-94583-1_2
+  pub_date: 2022-01-01
+  pub_type: conference-paper
+  title: Relational String Abstract Domains
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85124308681&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868924
+- !Publication
+  contribs:
+  - Adil Yousef Hussein
+  - Paolo Falcarin
+  - Ahmed T. Sadiq
+  doi: 10.1007/978-3-030-97255-4_5
+  pub_date: 2022-01-01
+  pub_type: book-chapter
+  title: IoT Intrusion Detection Using Modified Random Forest Based on Double Feature
+    Selection Methods
+  url: https://doi.org/10.1007/978-3-030-97255-4_5
+  where: null
+  workid: /0000-0003-1933-5348/work/110646665
+- !Publication
+  contribs: []
+  doi: 10.1109/IROS47612.2022.9982129
+  pub_date: 2022-01-01
+  pub_type: conference-paper
+  title: 'SROS2: Usable Cyber Security Tools for ROS 2'
+  url: https://iris.unive.it/handle/10278/5035211
+  where: null
+  workid: /0000-0002-2820-7121/work/141798955
+- !Publication
+  contribs:
+  - Ahmed Abdulhasan Alwan
+  - Mihaela Anca Ciupala
+  - Allan J. Brimicombe
+  - Seyed Ali Ghorashi
+  - Andres Baravalle
+  - Paolo Falcarin
+  doi: 10.1016/j.is.2021.101951
+  pub_date: 2022-03-01
+  pub_type: journal-article
+  title: 'Data quality challenges in large-scale cyber-physical systems: A systematic
+    review'
+  url: https://doi.org/10.1016/j.is.2021.101951
+  where: Information Systems
+  workid: /0000-0003-1933-5348/work/103776656
+- !Publication
+  contribs: []
+  doi: 10.1109/access.2022.3182099
+  pub_date: 2022-06-10
+  pub_type: journal-article
+  title: Reducing multiple occurrences of meta-mark selection in relational data watermarking
+  url: http://dx.doi.org/10.1109/access.2022.3182099
+  where: IEEE Access
+  workid: /0000-0002-8818-7767/work/114339765
+- !Publication
+  contribs:
+  - Ahmed A. Alwan
+  - Allan J. Brimicombe
+  - Mihaela Anca Ciupala
+  - Seyed Ali Ghorashi
+  - Andres Baravalle
+  - Paolo Falcarin
+  doi: 10.1016/j.comnet.2022.109384
+  pub_date: 2022-12-01
+  pub_type: journal-article
+  title: "Time-series clustering for sensor fault detection in large-scale Cyber\u2013\
+    Physical Systems"
+  url: https://doi.org/10.1016/j.comnet.2022.109384
+  where: Computer Networks
+  workid: /0000-0003-1933-5348/work/120135405
+- !Publication
+  contribs:
+  - Mitra, D.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-3-031-41456-5_29
+  pub_date: 2023-01-01
+  pub_type: conference-paper
+  title: "A Two-Hop Neighborhood Based Berserk Detection Algorithm for\_Probabilistic\
+    \ Model of\_Consensus in\_Distributed Ledger Systems"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85172418851&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/147868977
+- !Publication
+  contribs:
+  - Krishnasrija, R.
+  - Mandal, A.K.
+  - Cortesi, A.
+  doi: 10.1016/j.adhoc.2022.103003
+  pub_date: 2023-01-01
+  pub_type: journal-article
+  title: A lightweight mutual and transitive authentication mechanism for IoT network
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85140137175&partnerID=MN8TOARS
+  where: Ad Hoc Networks
+  workid: /0000-0002-0946-5440/work/147868959
+- !Publication
+  contribs:
+  - Das, S.
+  - Deb, N.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.48550/arXiv.2303.04519
+  pub_date: 2023-01-01
+  pub_type: other
+  title: "An Annexure to the Paper \u201CDriving the Technology Value Stream by Analyzing\
+    \ App Reviews\u201D"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85150608178&partnerID=MN8TOARS
+  where: arXiv
+  workid: /0000-0002-0946-5440/work/147868966
+- !Publication
+  contribs:
+  - Halder, R.
+  - Alam, M.I.
+  - Fajge, A.M.
+  - Singh, N.K.
+  - Cortesi, A.
+  doi: 10.1016/B978-0-323-96146-2.00024-3
+  pub_date: 2023-01-01
+  pub_type: book-chapter
+  title: Analyzing information flow in solidity smart contracts
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85160753944&partnerID=MN8TOARS
+  where: 'Distributed Computing to Blockchain: Architecture, Technology, and Applications'
+  workid: /0000-0002-0946-5440/work/147868910
+- !Publication
+  contribs:
+  - Das, S.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/978-981-99-7783-3_11
+  pub_date: 2023-01-01
+  pub_type: conference-paper
+  title: "CoDescribe: An Intelligent Code Analyst for\_Enhancing Productivity and\_\
+    Software Quality"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85181979572&partnerID=MN8TOARS
+  where: Lecture Notes in Networks and Systems
+  workid: /0000-0002-0946-5440/work/169853392
+- !Publication
+  contribs:
+  - Roy, M.
+  - Das, S.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, R.
+  - Chaki, N.
+  doi: 10.1007/s10270-023-01087-4
+  pub_date: 2023-01-01
+  pub_type: journal-article
+  title: Correlating contexts and NFR conflicts from event logs
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85148895255&partnerID=MN8TOARS
+  where: Software and Systems Modeling
+  workid: /0000-0002-0946-5440/work/147868944
+- !Publication
+  contribs:
+  - Das, S.
+  - Deb, N.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.1109/TSE.2023.3270708
+  pub_date: 2023-01-01
+  pub_type: journal-article
+  title: Driving the Technology Value Stream by Analyzing App Reviews
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85159794537&partnerID=MN8TOARS
+  where: IEEE Transactions on Software Engineering
+  workid: /0000-0002-0946-5440/work/147868964
+- !Publication
+  contribs:
+  - Bag, R.
+  - Roy, M.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1007/s11334-023-00545-y
+  pub_date: 2023-01-01
+  pub_type: journal-article
+  title: Eliciting context-oriented NFR constraints and conflicts in robotic systems
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85178895644&partnerID=MN8TOARS
+  where: Innovations in Systems and Software Engineering
+  workid: /0000-0002-0946-5440/work/169853389
+- !Publication
+  contribs:
+  - "P\xE9rez Gort, M.L."
+  - Olliaro, M.
+  - Cortesi, A.
+  doi: 10.2139/ssrn.4477181
+  pub_date: 2023-01-01
+  pub_type: other
+  title: Empirical Analysis of the Impact of Queries on Watermarked Textual Relational
+    Databases
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85162001439&partnerID=MN8TOARS
+  where: SSRN
+  workid: /0000-0002-0946-5440/work/147868925
+- !Publication
+  contribs:
+  - Olivieri, L.
+  - Arceri, V.
+  - Ferrara, P.
+  - Spoto, F.
+  - Negrini, L.
+  - Tagliaferro, F.
+  - Cortesi, A.
+  doi: 10.4230/LIPIcs.ECOOP.2023.23
+  pub_date: 2023-01-01
+  pub_type: conference-paper
+  title: Information Flow Analysis for Detecting Non-Determinism in Blockchain
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85168869129&partnerID=MN8TOARS
+  where: Leibniz International Proceedings in Informatics, LIPIcs
+  workid: /0000-0002-0946-5440/work/147868937
+- !Publication
+  contribs:
+  - Negrini, L.
+  - Ferrara, P.
+  - Arceri, V.
+  - Cortesi, A.
+  doi: 10.1007/978-981-19-9601-6_2
+  pub_date: 2023-01-01
+  pub_type: book-chapter
+  title: 'LiSA: A Generic Framework for Multilanguage Static Analysis'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85171468841&partnerID=MN8TOARS
+  where: Intelligent Systems Reference Library
+  workid: /0000-0002-0946-5440/work/147868923
+- !Publication
+  contribs:
+  - Olliaro, M.
+  - Arceri, V.
+  - Cortesi, A.
+  - Ferrara, P.
+  doi: 10.1007/978-981-19-9601-6_7
+  pub_date: 2023-01-01
+  pub_type: book-chapter
+  title: Lifting String Analysis Domains
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85171442830&partnerID=MN8TOARS
+  where: Intelligent Systems Reference Library
+  workid: /0000-0002-0946-5440/work/147868921
+- !Publication
+  contribs:
+  - "P\xE9rez Gort, M.L."
+  - Olliaro, M.
+  - Cortesi, A.
+  doi: 10.1016/j.eswa.2022.118713
+  pub_date: 2023-01-01
+  pub_type: journal-article
+  title: Relational data watermarking resilience to brute force attacks in untrusted
+    environments
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85138046698&partnerID=MN8TOARS
+  where: Expert Systems with Applications
+  workid: /0000-0002-0946-5440/work/147868970
+- !Publication
+  contribs:
+  - Das, S.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1109/RE57278.2023.00019
+  pub_date: 2023-01-01
+  pub_type: conference-paper
+  title: Zero-shot Learning for Named Entity Recognition in Software Specification
+    Documents
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85174419816&partnerID=MN8TOARS
+  where: Proceedings of the IEEE International Conference on Requirements Engineering
+  workid: /0000-0002-0946-5440/work/147868943
+- !Publication
+  contribs:
+  - Calzavara, S.
+  - Ferrara, P.
+  - Lucchese, C.
+  doi: 10.3233/JCS-210133
+  pub_date: 2023-01-01
+  pub_type: journal-article
+  title: Certifying machine learning models against evasion attacks by program analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85164535638&partnerID=MN8TOARS
+  where: Journal of Computer Security
+  workid: /0000-0002-4678-933X/work/145236161
+- !Publication
+  contribs:
+  - Luca Olivieri
+  - Thomas Jensen
+  - Luca Negrini
+  - Fausto Spoto
+  doi: 10.1109/percomworkshops56833.2023.10150247
+  pub_date: 2023-03-13
+  pub_type: conference-paper
+  title: 'MichelsonLiSA: A Static Analyzer for Tezos'
+  url: http://dx.doi.org/10.1109/percomworkshops56833.2023.10150247
+  where: 2023 IEEE International Conference on Pervasive Computing and Communications
+    Workshops and other Affiliated Events (PerCom Workshops)
+  workid: /0000-0001-9930-8854/work/137709583
+- !Publication
+  contribs:
+  - Mandira Roy
+  - Raunak Bag
+  - Novarun Deb
+  - Agostino Cortesi
+  - Rituparna Chaki
+  - Nabendu Chaki
+  doi: 10.22541/au.168566796.65339187/v1
+  pub_date: 2023-06-02
+  pub_type: preprint
+  title: 'SCARS: Suturing Wounds due to Conflicts between Non-Functional Requirements
+    in Robotic Systems'
+  url: https://doi.org/10.22541/au.168566796.65339187/v1
+  where: null
+  workid: /0000-0002-0946-5440/work/136165425
+- !Publication
+  contribs:
+  - Luca Negrini
+  - Guruprerana Shabadi
+  - Caterina Urban
+  doi: 10.1145/3589250.3596145
+  pub_date: 2023-06-06
+  pub_type: conference-paper
+  title: Static Analysis of Data Transformations in Jupyter Notebooks
+  url: http://dx.doi.org/10.1145/3589250.3596145
+  where: Proceedings of the 12th ACM SIGPLAN International Workshop on the State Of
+    the Art in Program Analysis
+  workid: /0000-0001-9930-8854/work/137709562
+- !Publication
+  contribs:
+  - SOUVICK DAS
+  - Novarun Deb
+  - Nabendu Chaki
+  - Agostino Cortesi
+  doi: 10.1109/tse.2023.3270708
+  pub_date: 2023-07-01
+  pub_type: journal-article
+  title: Driving the Technology Value Stream by Analyzing App Reviews
+  url: http://dx.doi.org/10.1109/tse.2023.3270708
+  where: IEEE Transactions on Software Engineering
+  workid: /0000-0002-3314-2537/work/148028897
+- !Publication
+  contribs:
+  - Luca Olivieri
+  - Luca Negrini
+  - Vincenzo Arceri
+  - Fabio Tagliaferro
+  - Pietro Ferrara
+  - Agostino Cortesi
+  - Fausto Spoto
+  doi: 10.4230/LIPICS.ECOOP.2023.23
+  pub_date: 2023-07-11
+  pub_type: journal-article
+  title: Information Flow Analysis for Detecting Non-Determinism in Blockchain
+  url: https://drops.dagstuhl.de/opus/volltexte/2023/18216/
+  where: "Schloss Dagstuhl - Leibniz-Zentrum f\xFCr Informatik"
+  workid: /0000-0001-9930-8854/work/138466841
+- !Publication
+  contribs:
+  - Souvick Das
+  - Novarun Deb
+  - Agostino Cortesi
+  - Nabendu Chaki
+  doi: 10.1109/re57278.2023.00019
+  pub_date: 2023-09-01
+  pub_type: conference-paper
+  title: Zero-shot Learning for Named Entity Recognition in Software Specification
+    Documents
+  url: http://dx.doi.org/10.1109/re57278.2023.00019
+  where: 2023 IEEE 31st International Requirements Engineering Conference (RE)
+  workid: /0000-0002-3314-2537/work/148028919
+- !Publication
+  contribs:
+  - "Alvise Span\xF2"
+  - Lorenzo Fanton
+  - Davide Pizzolato
+  - Jacopo Moi
+  - Francesco Vinci
+  - Alberto Pesce
+  - Cedrix J. Dongmo Foumthuim
+  - Achille Giacometti
+  - Marta Simeoni
+  doi: 10.1186/s12859-023-05466-y
+  pub_date: 2023-09-11
+  pub_type: journal-article
+  title: 'Rinmaker: a fast, versatile and reliable tool to determine residue interaction
+    networks in proteins'
+  url: http://dx.doi.org/10.1186/s12859-023-05466-y
+  where: BMC Bioinformatics
+  workid: /0000-0002-6905-2736/work/147892739
+- !Publication
+  contribs:
+  - Marco Crosara
+  - Luca Olivieri
+  - Fausto Spoto
+  - Fabio Tagliaferro
+  doi: 10.1007/s10586-022-03756-3
+  pub_date: 2023-10-01
+  pub_type: journal-article
+  title: Fungible and non-fungible tokens with snapshots in Java
+  url: https://doi.org/10.1007/s10586-022-03756-3
+  where: Cluster Computing
+  workid: /0000-0001-8074-8980/work/120275745
+- !Publication
+  contribs:
+  - "P\xE9rez\_Gort, M."
+  - Cortesi, A.
+  doi: 10.1007/978-981-97-0041-7_3
+  pub_date: 2024-01-01
+  pub_type: book-chapter
+  title: "A Fragile Watermarking Approach for\_Earth Observation Data Integrity Protection"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85189069652&partnerID=MN8TOARS
+  where: Studies in Big Data
+  workid: /0000-0002-0946-5440/work/169853387
+- !Publication
+  contribs:
+  - Poggiani, A.
+  - Cortesi, A.
+  doi: 10.1007/978-3-031-71115-2_14
+  pub_date: 2024-01-01
+  pub_type: conference-paper
+  title: 'Challenges in Health Information Systems: Health Data Management and Access
+    for Life Sciences Research'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85203872033&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/169853395
+- !Publication
+  contribs:
+  - Ferrara, P.
+  - Arceri, V.
+  - Cortesi, A.
+  doi: 10.1007/s10009-024-00765-y
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: 'Challenges of software verification: the past, the present, the future'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85202784303&partnerID=MN8TOARS
+  where: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0002-0946-5440/work/169853385
+- !Publication
+  contribs:
+  - Olivieri, L.
+  - Negrini, L.
+  - Arceri, V.
+  - Chachar, B.
+  - Ferrara, P.
+  - Cortesi, A.
+  doi: 10.1109/ACCESS.2024.3410019
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: Detection of Phantom Reads in Hyperledger Fabric
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85195372695&partnerID=MN8TOARS
+  where: IEEE Access
+  workid: /0000-0002-0946-5440/work/169853384
+- !Publication
+  contribs:
+  - Roy, S.
+  - Raj, S.
+  - Chakraborty, T.
+  - Chakrabarty, A.
+  - Cortesi, A.
+  - Sen, S.
+  doi: 10.1016/j.eswa.2023.122481
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: Efficient OLAP query processing across cuboids in distributed data warehousing
+    environment
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85175824863&partnerID=MN8TOARS
+  where: Expert Systems with Applications
+  workid: /0000-0002-0946-5440/work/147868953
+- !Publication
+  contribs:
+  - Das, S.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.1016/j.jss.2024.111981
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: Extracting goal models from natural language requirement specifications
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85183944895&partnerID=MN8TOARS
+  where: Journal of Systems and Software
+  workid: /0000-0002-0946-5440/work/169853390
+- !Publication
+  contribs:
+  - Luca Olivieri
+  - Vincenzo Arceri
+  - Badaruddin Chachar
+  - Luca Negrini
+  - Fabio Tagliaferro
+  - Fausto Spoto
+  - Pietro Ferrara
+  - Agostino Cortesi
+  doi: 10.1109/ACCESS.2024.3495535
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: 'General-Purpose Languages for Blockchain Smart Contracts Development: A
+    Comprehensive Study'
+  url: https://doi.org/10.1109/ACCESS.2024.3495535
+  where: IEEE Access
+  workid: /0000-0002-0946-5440/work/171451967
+- !Publication
+  contribs:
+  - Das, S.
+  - Deb, N.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.1002/sys.21715
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: Minimising conflicts among run-time non-functional requirements within DevOps
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85168145564&partnerID=MN8TOARS
+  where: Systems Engineering
+  workid: /0000-0002-0946-5440/work/147868951
+- !Publication
+  contribs:
+  - Roy, M.
+  - Bag, R.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, R.
+  - Chaki, N.
+  doi: 10.1002/spe.3297
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: 'SCARS: Suturing wounds due to conflicts between non-functional requirements
+    in autonomous and robotic systems'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85179913384&partnerID=MN8TOARS
+  where: Software - Practice and Experience
+  workid: /0000-0002-0946-5440/work/169853388
+- !Publication
+  contribs:
+  - Gort, M.L.P.
+  - Olliaro, M.
+  - Cortesi, A.
+  doi: 10.1109/ACCESS.2024.3364760
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: Study of the Watermark Source's Topology Role on Relational Data Watermarking
+    Robustness
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85186167963&partnerID=MN8TOARS
+  where: IEEE Access
+  workid: /0000-0002-0946-5440/work/169853391
+- !Publication
+  contribs:
+  - Negrini, L.
+  - Arceri, V.
+  - Cortesi, A.
+  - Ferrara, P.
+  doi: 10.1002/smr.2647
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: 'Tarsis: An effective automata-based abstract domain for string analysis'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85185479750&partnerID=MN8TOARS
+  where: 'Journal of Software: Evolution and Process'
+  workid: /0000-0002-0946-5440/work/169853386
+- !Publication
+  contribs:
+  - Negrini, L.
+  - Arceri, V.
+  - Olivieri, L.
+  - Cortesi, A.
+  - Ferrara, P.
+  doi: 10.1007/978-3-031-71379-8_3
+  pub_date: 2024-01-01
+  pub_type: conference-paper
+  title: "Teaching Through Practice: Advanced Static Analysis with\_LiSA"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85204360430&partnerID=MN8TOARS
+  where: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial
+    Intelligence and Lecture Notes in Bioinformatics)
+  workid: /0000-0002-0946-5440/work/169853393
+- !Publication
+  contribs:
+  - Luca Olivieri
+  - Luca Negrini
+  - Vincenzo Arceri
+  - Badaruddin Chachar
+  - Pietro Ferrara
+  - Agostino Cortesi
+  doi: 10.1109/access.2024.3410019
+  pub_date: 2024-01-01
+  pub_type: journal-article
+  title: Detection of Phantom Reads in Hyperledger Fabric
+  url: http://dx.doi.org/10.1109/access.2024.3410019
+  where: IEEE Access
+  workid: /0000-0001-8074-8980/work/161038271
+- !Publication
+  contribs:
+  - Giacomo Boldini
+  - Alessio Diana
+  - Vincenzo Arceri
+  - Vincenzo Bonnici
+  - Roberto Bagnara
+  doi: 10.1007/978-3-031-53969-5_5
+  pub_date: 2024-01-01
+  pub_type: book-chapter
+  title: "A Machine Learning Approach for\_Source Code Similarity via\_Graph-Focused\
+    \ Features"
+  url: https://doi.org/10.1007/978-3-031-53969-5_5
+  where: null
+  workid: /0009-0006-4741-0033/work/153253216
+- !Publication
+  contribs:
+  - Luca Olivieri
+  - Luca Negrini
+  - Vincenzo Arceri
+  - Thomas Jensen
+  - Fausto Spoto
+  doi: 10.1145/3643567
+  pub_date: 2024-01-29
+  pub_type: journal-article
+  title: Design and Implementation of Static Analyses for Tezos Smart Contracts
+  url: https://dl.acm.org/doi/10.1145/3643567
+  where: 'Distributed Ledger Technologies: Research and Practice'
+  workid: /0000-0001-9930-8854/work/162871760
+- !Publication
+  contribs:
+  - Paolo Falcarin
+  - Fabio Dainese
+  doi: 10.1145/3643662.3643962
+  pub_date: 2024-04-15
+  pub_type: conference-paper
+  title: Building a Cybersecurity Knowledge Graph with CyberGraph
+  url: https://doi.org/10.1145/3643662.3643962
+  where: null
+  workid: /0000-0003-1933-5348/work/166229712
+- !Publication
+  contribs:
+  - Teresa Scantamburlo
+  - Paolo Falcarin
+  - Alberto Veneri
+  - Alessandro Fabris
+  - Chiara Gallese
+  - Valentina Billa
+  - Francesca Rotolo
+  - Federico Marcuzzi
+  doi: 10.1145/3643691.3648589
+  pub_date: 2024-04-16
+  pub_type: conference-paper
+  title: Software Systems Compliance with the AI Act
+  url: https://doi.org/10.1145/3643691.3648589
+  where: null
+  workid: /0000-0003-1933-5348/work/164494688
+- !Publication
+  contribs:
+  - Luca Olivieri
+  - Fausto Spoto
+  doi: 10.1007/s10009-024-00758-x
+  pub_date: 2024-08-01
+  pub_type: journal-article
+  title: Software verification challenges in the blockchain ecosystem
+  url: https://doi.org/10.1007/s10009-024-00758-x
+  where: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0001-8074-8980/work/163490463
+- !Publication
+  contribs:
+  - Giacomo Zanatta
+  - Pietro Ferrara
+  - Teodors Lisovenko
+  - Luca Negrini
+  - Gianluca Caiazza
+  - Ruffin White
+  doi: 10.1145/3678721.3686229
+  pub_date: 2024-09-20
+  pub_type: conference-paper
+  title: 'Sound Static Analysis for Microservices: Utopia? A Preliminary Experience
+    with LiSA'
+  url: https://doi.org/10.1145/3678721.3686229
+  where: null
+  workid: /0000-0002-4678-933X/work/167380861
+- !Publication
+  contribs:
+  - Vincenzo Arceri
+  - Saverio Mattia Merenda
+  - Greta Dolcetti
+  - Luca Negrini
+  - Luca Olivieri
+  - Enea Zaffanella
+  doi: 10.1145/3678721.3686227
+  pub_date: 2024-09-20
+  pub_type: conference-paper
+  title: Towards a Sound Construction of EVM Bytecode Control-Flow Graphs
+  url: https://doi.org/10.1145/3678721.3686227
+  where: null
+  workid: /0000-0001-9930-8854/work/167374912
+- !Publication
+  contribs:
+  - "Alvise Span\xF2"
+  doi: 10.1016/j.jss.2024.112141
+  pub_date: 2024-10-01
+  pub_type: journal-article
+  title: Flexible and reversible conversion between extensible records and overloading
+    constraints for ML
+  url: https://doi.org/10.1016/j.jss.2024.112141
+  where: Journal of Systems and Software
+  workid: /0000-0002-6905-2736/work/162344491
+- !Publication
+  contribs:
+  - Vincenzo Arceri
+  - Greta Dolcetti
+  - Enea Zaffanella
+  doi: 10.1007/s10009-024-00761-2
+  pub_date: 2024-10-01
+  pub_type: journal-article
+  title: Speeding up static analysis with the split operator
+  url: http://dx.doi.org/10.1007/s10009-024-00761-2
+  where: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0002-2983-9251/work/172993783
+- !Publication
+  contribs:
+  - Luca Negrini
+  - Sofia Presotto
+  - Pietro Ferrara
+  - Enea Zaffanella
+  - Agostino Cortesi
+  doi: 10.1145/3689609.3689995
+  pub_date: 2024-10-17
+  pub_type: conference-paper
+  title: 'Stability: An Abstract Domain for the Trend of Variation of Numerical Variables'
+  url: https://doi.org/10.1145/3689609.3689995
+  where: null
+  workid: /0000-0002-0946-5440/work/169757813
+- !Publication
+  contribs:
+  - Greta Dolcetti
+  - Agostino Cortesi
+  - Caterina Urban
+  - Enea Zaffanella
+  doi: 10.1145/3689609.3689996
+  pub_date: 2024-10-17
+  pub_type: conference-paper
+  title: Towards a High Level Linter for Data Science
+  url: https://doi.org/10.1145/3689609.3689996
+  where: null
+  workid: /0000-0002-0946-5440/work/169757811
+- !Publication
+  contribs:
+  - Luca Olivieri
+  - Aradhita Mukherjee
+  - Nabendu Chaki
+  - Agostino Cortesi
+  doi: 10.1109/bcca62388.2024.10844425
+  pub_date: 2024-11-26
+  pub_type: conference-paper
+  title: 'Blockchain Interoperability through Bridges: A Token Transfer Perspective'
+  url: http://dx.doi.org/10.1109/bcca62388.2024.10844425
+  where: 2024 6th International Conference on Blockchain Computing and Applications
+    (BCCA)
+  workid: /0000-0001-8074-8980/work/176461873
+- !Publication
+  contribs:
+  - Vincenzo Arceri
+  - Luca Negrini
+  - Luca Olivieri
+  - Pietro Ferrara
+  doi: 10.1007/s10009-024-00778-7
+  pub_date: 2025-01-08
+  pub_type: journal-article
+  title: Challenges of software verification
+  url: http://dx.doi.org/10.1007/s10009-024-00778-7
+  where: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0001-8074-8980/work/175352849

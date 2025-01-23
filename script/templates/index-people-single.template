@@ -1,0 +1,3 @@
+<div class="teambox-card-container teambox-card-width">
+  <img class="teambox-img" src="{{ site.baseurl }}/images/${PERSON_PHOTO}">
+</div>

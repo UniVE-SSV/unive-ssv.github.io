@@ -1,0 +1,16 @@
+
+<div class="div-person-table">
+	<div class="div-person-table">
+		<div class="div-person-table-col">
+			<img src="{{ site.baseurl }}/images/${PHOTO}"/>
+		</div>
+		<div class="div-person-table-multicol">
+			<h3>${NAME} ${SURNAME}</h3>
+			<h5>${POSITION}</h5>
+			${EMAIL}
+			${WEBSITE}
+		</div>
+	</div>
+</div>
+${BIO}
+<br/><br/>
