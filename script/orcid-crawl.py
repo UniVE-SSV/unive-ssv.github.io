@@ -432,28 +432,26 @@ if __name__ == '__main__':
 		print('Updating incomplete publications database')
 		yamlfile.write(yaml.dump(incomplete_publications))
 
-	new_publications = [p for p in publications if p not in old_publications]
-	new_incomplete = [incomplete_publications[k] for k in incomplete_publications if k not in old_incomplete_publications]
 	webhook_url = f'https://discord.com/api/webhooks/{webhook_id}/{webhook_token}'
-	for pub in new_publications:
-		data = {
-			"content": f"**New publication available online!**\n\n{pub.dump()}\n\n",
-			"username": "New Papers Bot"
-		}
-		response = requests.post(webhook_url, json=data)
-		if response.status_code == 204:
-			print(f"Message sent for new publication {pub.title}")
-		else:
-			print(f"Failed to send message: {response.status_code}")
-	for pub in new_incomplete:
-		missing = ', '.join(pub[2])
-		data = {
-			"content": f"**New incomplete publication found:**\nOwner: {pub[0]}\nPublication: {pub[1]}\nMissing fields: {missing}\n",
-			"username": "New Papers Bot"
-		}
-		response = requests.post(webhook_url, json=data)
-		if response.status_code == 204:
-			print(f"Message sent for incomplete publication {pub[0]}")
-		else:
-			print(f"Failed to send message: {response.status_code}")
-
+	new_publications = [p.dump() for p in publications if p not in old_publications]
+	data = {
+		"content": "**New publications available online!**\n\n" + "\n\n".join(new_publications),
+		"username": "New Papers Bot"
+	}
+	response = requests.post(webhook_url, json=data)
+	if response.status_code == 204:
+		print(f"Message sent for new publications")
+	else:
+		raise ValueError(f"Failed to send message for new publications: {response.status_code}")
+			
+	new_incomplete = [incomplete_publications[k] for k in incomplete_publications if k not in old_incomplete_publications]
+	incomplete_str = [f"Owner: {pub[0]}\nPublication: _{pub[1]}_\nMissing fields: " + ', '.join(pub[2]) for pub in new_incomplete]
+	data = {
+		"content": f"**New incomplete publications found:**\n\n" + "\n\n".join(incomplete_str),
+		"username": "New Papers Bot"
+	}
+	response = requests.post(webhook_url, json=data)
+	if response.status_code == 204:
+		print(f"Message sent for incomplete publications")
+	else:
+		raise ValueError(f"Failed to send message for incomplete publications: {response.status_code}")
