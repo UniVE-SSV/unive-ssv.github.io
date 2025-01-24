@@ -122,12 +122,8 @@ class Pub(yaml.YAMLObject):
 		self.doi = doi
 		self.url = url
 		self.contribs = contribs
-		if self.venue is None:
-			raise ValueError()
 
 	def dump(self):
-		if self.venue is None:
-			raise ValueError()
 		authors = ', '.join(self.contribs)
 		link = f' [[LINK]]({self.url})' if self.url is not None else ''
 		return f'{authors}: _"{self.title}"_, in {self.venue} [[DOI]](https://doi.org/{self.doi}){link}'
@@ -294,9 +290,6 @@ def parse_work(access_token, owner, min_date, max_date, work, publications_list,
 		# and we can remove it from the database
 		del incomplete_publications[path]
 	
-	if where is None:
-		raise ValueError()
-	
 	if any(doi == pub.doi for pub in publications_list):
 		print('\tPublication discarded due to duplicate doi')
 		excluded_publications += [path]
@@ -438,8 +431,6 @@ if __name__ == '__main__':
 	with open('incomplete_pub_db.yaml', 'w') as yamlfile:
 		print('Updating incomplete publications database')
 		yamlfile.write(yaml.dump(incomplete_publications))
-
-	exit()
 
 	new_publications = [p for p in publications if p not in old_publications]
 	new_incomplete = [incomplete_publications[k] for k in incomplete_publications if k not in old_incomplete_publications]
