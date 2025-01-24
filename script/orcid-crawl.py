@@ -434,24 +434,26 @@ if __name__ == '__main__':
 
 	webhook_url = f'https://discord.com/api/webhooks/{webhook_id}/{webhook_token}'
 	new_publications = [p.dump() for p in publications if p not in old_publications]
-	data = {
-		"content": "**New publications available online!**\n\n" + "\n\n".join(new_publications),
-		"username": "New Papers Bot"
-	}
-	response = requests.post(webhook_url, json=data)
-	if response.status_code == 204:
-		print(f"Message sent for new publications")
-	else:
-		raise ValueError(f"Failed to send message for new publications: {response.status_code}")
+	if len(new_publications) > 0:
+		data = {
+			"content": "**New publications available online!**\n\n" + json.dumps("\n\n".join(new_publications)),
+			"username": "New Papers Bot"
+		}
+		response = requests.post(webhook_url, json=data)
+		if response.status_code == 204:
+			print(f"Message sent for new publications")
+		else:
+			raise ValueError(f"Failed to send message for new publications: {response.status_code}")
 			
 	new_incomplete = [incomplete_publications[k] for k in incomplete_publications if k not in old_incomplete_publications]
-	incomplete_str = [f"Owner: {pub[0]}\nPublication: _{pub[1]}_\nMissing fields: " + ', '.join(pub[2]) for pub in new_incomplete]
-	data = {
-		"content": f"**New incomplete publications found:**\n\n" + "\n\n".join(incomplete_str),
-		"username": "New Papers Bot"
-	}
-	response = requests.post(webhook_url, json=data)
-	if response.status_code == 204:
-		print(f"Message sent for incomplete publications")
-	else:
-		raise ValueError(f"Failed to send message for incomplete publications: {response.status_code}")
+	if len(new_incomplete) > 0:
+		incomplete_str = [f"Owner: {pub[0]}\nPublication: _{pub[1]}_\nMissing fields: " + ', '.join(pub[2]) for pub in new_incomplete]
+		data = {
+			"content": f"**New incomplete publications found:**\n\n" + json.dumps("\n\n".join(incomplete_str)),
+			"username": "New Papers Bot"
+		}
+		response = requests.post(webhook_url, json=data)
+		if response.status_code == 204:
+			print(f"Message sent for incomplete publications")
+		else:
+			raise ValueError(f"Failed to send message for incomplete publications: {response.status_code}")
