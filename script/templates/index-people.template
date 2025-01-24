@@ -1,14 +1,3 @@
-<br/>
-<h2>Who we are</h2>
-
-<a href="{{ site.baseurl }}/people.html">More info »</a><br><br>
-
 <div class="teambox-container">
 ${PEOPLE_FACES}
-</div>
-
-<div class="div-img-table">
-  <div class="div-img-table-row">
-    <img class="div-img-table-multicol" src="{{ site.baseurl }}/images/{{ site.groupphoto }}"/>
-  </div>
 </div>

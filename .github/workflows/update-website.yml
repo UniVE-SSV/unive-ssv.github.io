@@ -4,7 +4,7 @@ on:
   schedule:
     - cron:  '0 0 * * *'
   push:
-    branches: 
+    branches:
       - 'master'
   workflow_dispatch:
 
@@ -23,7 +23,7 @@ jobs:
     - name: 'Checkout all branches'
       uses: actions/checkout@v2
     - name: 'Run python script'
-      run: cd script && python3 orcid-crawl.py ${{ secrets.ORCID_ACCESS_TOKEN }} 
+      run: cd script && python3 orcid-crawl.py ${{ secrets.ORCID_ACCESS_TOKEN }} ${{ secrets.DISCORD_WEBHOOK_ID }} ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
     - name: 'Check for changes and commit them'
       run: |
         lines=$(git status --porcelain=v1 | wc -l)

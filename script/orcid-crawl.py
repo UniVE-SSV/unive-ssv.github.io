@@ -97,9 +97,6 @@ class User:
 		self.bio = bio
 		self.raw_works = raw_works
 
-	def has_necessary_fields(self):
-		return self.name is not None and self.surname is not None and self.photo is not None
-
 	def dump(self):
 		with open('templates/single-member.template', 'r') as file:
 			content = file.read()
@@ -117,38 +114,37 @@ class User:
 
 class Pub(yaml.YAMLObject):
 	yaml_tag = u'!Publication'
-	def __init__(self, workid, title, pub_date, pub_type, where, doi, url, contribs):
+	def __init__(self, workid, title, pub_date, where, doi, url, contribs):
 		self.workid = workid
 		self.title = title
 		self.pub_date = pub_date
-		self.pub_type = pub_type
-		self.where = where
+		self.venue = where
 		self.doi = doi
 		self.url = url
 		self.contribs = contribs
-
-	def is_out_of_date_period(self):
-		return self.pub_date is None
-
-	def has_necessary_fields(self):
-		return self.title is not None
-
-	def readable_kind(self):
-		if self.pub_type is None:
-			return 'article'
-		r = self.pub_type.lower().replace('_', ' ').replace('-', ' ')
-		if r == 'book':
-			r = 'book chapter'
-		elif r == 'other':
-			r = 'article'
-		return r
+		if self.venue is None:
+			raise ValueError()
 
 	def dump(self):
-		authors = ', '.join(self.contribs) if self.contribs is not None and len(self.contribs) > 0 else 'Missing authors'
-		venue = f' in {self.where}' if self.where is not None else ''
-		doi = f' [[DOI]](https://doi.org/{self.doi})' if self.doi is not None else ''
-		url = f' [[LINK]]({self.url})' if self.url is not None else ''
-		return f'{authors}: _"{self.title}"_,{venue}{doi}{url}\n\n'
+		if self.venue is None:
+			raise ValueError()
+		authors = ', '.join(self.contribs)
+		link = f' [[LINK]]({self.url})' if self.url is not None else ''
+		return f'{authors}: _"{self.title}"_, in {self.venue} [[DOI]](https://doi.org/{self.doi}){link}'
+
+	def __repr__(self):
+		return self.__str__()
+
+	def __str__(self):
+		authors = ', '.join(self.contribs)
+		link = f'\nLINK: {self.url}' if self.url is not None else ''
+		return f'''AUTHORS: {authors}
+TITLE: _"{self.title}"_
+IN: {self.venue}
+DOI: https://doi.org/{self.doi}{link}'''
+
+	def __eq__(self, other):
+		return isinstance(other, Pub) and self.workid == other.workid
 
 def log(*messages):
 	if verbose:
@@ -180,7 +176,7 @@ def access_field(accessor, element, field, default=None, do_log=True):
 
 def parse_user(access_token, user):
 	user_id = user['id']
-	log('Processing', user_id)
+	print('Processing', user_id)
 
 	record = query_api(access_token, user_id, 'person')
 	name = access_field(lambda r: r['name']['given-names']['value'], record, 'name')
@@ -202,17 +198,22 @@ def parse_user(access_token, user):
 	raw_works = access_field(lambda r: r['works']['group'], record, 'works', default=list(), do_log=False)
 	return User(name, surname, user['photo'], mail, website, role, org, bio, raw_works)
 
-def parse_work(access_token, min_date, max_date, work, publications_list, excluded_publications):
+def parse_work(access_token, owner, min_date, max_date, work, publications_list, excluded_publications, incomplete_publications):
 	path = access_field(lambda r: r['work-summary'][0]['path'], work, 'work path', do_log=False)
 	if any(path == pub.workid for pub in publications_list):
-		log(f'Publication {path} already in the database')
+		print(f'Publication {path} already in the database')
 		return
 	if path in excluded_publications:
-		log(f'Publication {path} is in the database of excluded publications')
+		print(f'Publication {path} is in the database of excluded publications')
 		return
+	incomplete = False
+	in_incomplete = (path in incomplete_publications)
+
 	workrecord = query_path(access_token, path, do_log=False)
 	title = access_field(lambda r: r['title']['title']['value'], workrecord, 'title', do_log=False)
-	log('Processing', title)
+	print('Processing', title)
+	if incomplete:
+		print(f'\tPublication is in the database of incomplete publications, trying to parse it again')
 
 	creation_raw = access_field(lambda r: r['created-date']['value'], workrecord, 'creation')
 	year_raw = access_field(lambda r: r['publication-date']['year']['value'], workrecord, 'year')
@@ -225,10 +226,6 @@ def parse_work(access_token, min_date, max_date, work, publications_list, exclud
 
 	if year is not None:
 		pub_date = date(year, month, day)
-		if pub_date < min_date or pub_date > max_date:
-			log('\tPublication discarded since it is outside of the specified date range')
-			excluded_publications += [path]
-			return
 	elif creation_raw is not None:
 		log('\tMissing date, using creation timestamp instead')
 		# according to the docs, creation_raw should contain a formatted ISO timestamp
@@ -238,10 +235,18 @@ def parse_work(access_token, min_date, max_date, work, publications_list, exclud
 		log('\t\tProduced date: ' + str(date))
 	else:
 		# we do not exclude it permanently since it might get updated in the future
-		log('\tPublication discarded due to missing publication date')
+		print('\tMissing publication date')
+		if not in_incomplete:
+			incomplete_publications[path] = (owner, title, set())
+			in_incomplete = True
+		incomplete = True
+		incomplete_publications[path][2].add('publication date')
+
+	if pub_date < min_date or pub_date > max_date:
+		print('\tPublication discarded since it is outside of the specified date range')
+		excluded_publications += [path]
 		return
 
-	pub_type = access_field(lambda r: r['type'], workrecord, 'type')
 	where = access_field(lambda r: r['journal-title']['value'], workrecord, 'venue')
 	if where is not None:
 		where = where.replace("'", "")
@@ -256,19 +261,49 @@ def parse_work(access_token, min_date, max_date, work, publications_list, exclud
 	contribs = list()
 	for contributor in access_field(lambda r: r['contributors']['contributor'], workrecord, 'contributors', default=list(), do_log=False):
 		contribs += [access_field(lambda r: r['credit-name']['value'], contributor, 'contributor name')]
-	
-	publication = Pub(path, title, pub_date, pub_type, where, doi, url, contribs)
-	if publication.is_out_of_date_period():
-		log('\tPublication discarded since it is outside of the specified date range')
-		excluded_publications += [path]
-	elif not publication.has_necessary_fields() or publication.doi is None:
+
+	if doi is None:
 		# we do not exclude it permanently since it might get updated in the future
-		log('\tPublication discarded due to missing fields')
-	elif any(publication.doi == pub.doi for pub in publications_list):
-		log('\tPublication discarded due to duplicate doi')
+		print('\tMissing doi')
+		if not in_incomplete:
+			incomplete_publications[path] = (owner, title, set())
+			in_incomplete = True
+		incomplete = True
+		incomplete_publications[path][2].add('doi')
+	if where is None:
+		# we do not exclude it permanently since it might get updated in the future
+		print('\tMissing journal/conference')
+		if not in_incomplete:
+			incomplete_publications[path] = (owner, title, set())
+			in_incomplete = True
+		incomplete = True
+		incomplete_publications[path][2].add('journal/conference')
+	if contribs is None or len(contribs) < 1:
+		# we do not exclude it permanently since it might get updated in the future
+		print('\tMissing authors')
+		if not in_incomplete:
+			incomplete_publications[path] = (owner, title, set())
+			in_incomplete = True
+		incomplete = True
+		incomplete_publications[path][2].add('authors')
+	if incomplete:
+		print('\tPublication discarded due to missing fields')
+		return
+	elif in_incomplete:
+		# this was previously in incomplete_publications, but now we found all fields
+		# and we can remove it from the database
+		del incomplete_publications[path]
+	
+	if where is None:
+		raise ValueError()
+	
+	if any(doi == pub.doi for pub in publications_list):
+		print('\tPublication discarded due to duplicate doi')
 		excluded_publications += [path]
-	else:
-		publications_list += [publication]
+		return
+
+	publication = Pub(path, title, pub_date, where, doi, url, contribs)
+	publications_list += [publication]
 
 def populate_publications_page(publications):
 	with open('../publications.md', 'w') as file:
@@ -288,7 +323,7 @@ title: Publications
 				file.write(f'## {curryear}\n\n')
 
 			log('Adding', publication.title, 'to the Publications page')
-			file.write(publication.dump())
+			file.write(publication.dump() + '\n\n')
 
 def populate_people_page(people, past_people, external_people):
 	with open('../people.md', 'w') as file:
@@ -311,20 +346,24 @@ title: People
 				log('Adding', person.name, person.surname, 'to the People page')
 				file.write(person.dump())
 
-def process_user_and_add(user, people_list, publications_list, excluded_publications):
+def process_user_and_add(user, people_list, publications_list, excluded_publications, incomplete_publications):
 	person = parse_user(access_token, user)
-	if person.has_necessary_fields():
-		people_list += [person]
+	if person.name is None:
+		raise ValueError(f'User {person.surname} discarded due to missing name')
+	elif person.surname is None:
+		raise ValueError(f'User {person.name} discarded due to missing surname')
+	elif person.photo is None:
+		raise ValueError(f'User {person.name} {person.surname} discarded due to missing photo')
 	else:
-		log('\tUser discarded due to missing fields')
+		people_list += [person]
 
 	min_date = user['from']
 	max_date = date.today() if user['to'] == 'today' else user['to']
 	for work in person.raw_works:
-		parse_work(access_token, min_date, max_date, work, publications_list, excluded_publications)
+		parse_work(access_token, f'{person.name} {person.surname}', min_date, max_date, work, publications_list, excluded_publications, incomplete_publications)
 
 def populate_index_people(people, external_people):
-	log('Populating ../_includes/index_people.html')
+	print('Populating ../_includes/index_people.html')
 	with open('templates/index-people.template', 'r') as file:
 		section = file.read()
 	with open('templates/index-people-single.template', 'r') as file:
@@ -334,59 +373,96 @@ def populate_index_people(people, external_people):
 		all_people += '\n'
 		all_people += '\n'.join([person.replace('${PERSON_PHOTO}', p.photo) for p in external_people])
 		all_people += '\n'
-		
+
 		full_section = section.replace('${PEOPLE_FACES}', all_people)
 		file.write(full_section)
 
-def sort_by_date(publication):
-	return publication.pub_date
-
 if __name__ == '__main__':
 	access_token = sys.argv[1]
+	webhook_id = sys.argv[2]
+	webhook_token = sys.argv[3]
 	global verbose
 	verbose = False
-	if len(sys.argv) > 2 and sys.argv[2] == 'verbose':
+	if len(sys.argv) > 4 and sys.argv[4] == 'verbose':
 		verbose = True
 
 	with open('users.yaml', 'r') as yamlfile:
 		data = yaml.load(yamlfile, Loader=yaml.FullLoader)
-	log('Configuration read successfully')
+	print('Configuration read successfully')
 
 	people = list()
 	past_people = list()
 	external_people = list()
 	publications = list()
 	excluded_publications = list()
+	incomplete_publications = dict()
 	
 	if os.path.isfile('pub_db.yaml'):
 		with open('pub_db.yaml', 'r') as yamlfile:
-			log('Reading publications database')
+			print('Reading publications database')
 			publications = yaml.load(yamlfile, Loader=yaml.FullLoader)
 	if os.path.isfile('excluded_pub_db.yaml'):
 		with open('excluded_pub_db.yaml', 'r') as yamlfile:
-			log('Reading excluded publications database')
+			print('Reading excluded publications database')
 			excluded_publications = yaml.load(yamlfile, Loader=yaml.FullLoader)
+	if os.path.isfile('incomplete_pub_db.yaml'):
+		with open('incomplete_pub_db.yaml', 'r') as yamlfile:
+			print('Reading incomplete publications database')
+			incomplete_publications = yaml.load(yamlfile, Loader=yaml.FullLoader)
+
+	old_publications = publications.copy()
+	old_incomplete_publications = incomplete_publications.copy()
 
 	for user in data['users']:
-		process_user_and_add(user, people, publications, excluded_publications)
+		process_user_and_add(user, people, publications, excluded_publications, incomplete_publications)
 
 	if 'external_users' in data:
 		for user in data['external_users']:
-			process_user_and_add(user, external_people, publications, excluded_publications)
+			process_user_and_add(user, external_people, publications, excluded_publications, incomplete_publications)
 
 	if 'past_users' in data:
 		for user in data['past_users']:
-			process_user_and_add(user, past_people, publications, excluded_publications)
+			process_user_and_add(user, past_people, publications, excluded_publications, incomplete_publications)
 
-	publications = sorted(publications, key=sort_by_date)
+	publications = sorted(publications, key=lambda p: p.pub_date)
 	populate_people_page(people, past_people, external_people)
 	populate_publications_page(reversed(publications))
 	populate_index_people(people, external_people)
 
 	with open('pub_db.yaml', 'w') as yamlfile:
-		log('Updating publications database')
+		print('Updating publications database')
 		yamlfile.write(yaml.dump(publications))
 	with open('excluded_pub_db.yaml', 'w') as yamlfile:
-		log('Updating excluded publications database')
+		print('Updating excluded publications database')
 		yamlfile.write(yaml.dump(excluded_publications))
+	with open('incomplete_pub_db.yaml', 'w') as yamlfile:
+		print('Updating incomplete publications database')
+		yamlfile.write(yaml.dump(incomplete_publications))
+
+	exit()
+
+	new_publications = [p for p in publications if p not in old_publications]
+	new_incomplete = [incomplete_publications[k] for k in incomplete_publications if k not in old_incomplete_publications]
+	webhook_url = f'https://discord.com/api/webhooks/{webhook_id}/{webhook_token}'
+	for pub in new_publications:
+		data = {
+			"content": f"**New publication available online!**\n\n{pub.dump()}\n\n",
+			"username": "New Papers Bot"
+		}
+		response = requests.post(webhook_url, json=data)
+		if response.status_code == 204:
+			print(f"Message sent for new publication {pub.title}")
+		else:
+			print(f"Failed to send message: {response.status_code}")
+	for pub in new_incomplete:
+		missing = ', '.join(pub[2])
+		data = {
+			"content": f"**New incomplete publication found:**\nOwner: {pub[0]}\nPublication: {pub[1]}\nMissing fields: {missing}\n",
+			"username": "New Papers Bot"
+		}
+		response = requests.post(webhook_url, json=data)
+		if response.status_code == 204:
+			print(f"Message sent for incomplete publication {pub[0]}")
+		else:
+			print(f"Failed to send message: {response.status_code}")
 

@@ -22,14 +22,13 @@ The Software and System Verification group @ Ca’ Foscari University of Venice 
 }
 </style>
 
+{%- include index_people.html -%}
+
 <div class="row">
-	<div class="column" style="margin-right: 5px">
-		<h2>Latest news</h2>
-	</div>
-  	<div class="column" style="margin-left: 5px">
-  		<h2>Latest events</h2>
+	<div class="column" style="margin-left: 5px">
+		<h2>Latest events</h2>
 		<ul class="list-page">
-{% for post in site.categories.events limit: 2 %}
+{% for post in site.categories.events limit: 5 %}
 			<li>
 				<a href="{{ post.url }}">{{ post.title }}</a><br/>
 				<small>{{ post.date | date: "%-d %B %Y" }}</small>
@@ -38,6 +37,14 @@ The Software and System Verification group @ Ca’ Foscari University of Venice 
 		</ul>
 		<a href="{{ site.baseurl }}/events/">All events ({{ site.categories.events.size }}) »</a><br><br>
 	</div>
-</div> 
+	<div class="column" style="margin-right: 5px">
+	</div>
+</div>
 
-{%- include index_people.html -%}
+<br>
+
+<div class="div-img-table">
+	<div class="div-img-table-row">
+		<img class="div-img-table-multicol" src="{{ site.baseurl }}/images/{{ site.groupphoto }}"/>
+	</div>
+</div>

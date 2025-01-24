@@ -10,27 +10,13 @@ Vincenzo Arceri, Luca Negrini, Luca Olivieri, Pietro Ferrara: _"Challenges of so
 
 Luca Olivieri, Aradhita Mukherjee, Nabendu Chaki, Agostino Cortesi: _"Blockchain Interoperability through Bridges: A Token Transfer Perspective"_, in 2024 6th International Conference on Blockchain Computing and Applications (BCCA) [[DOI]](https://doi.org/10.1109/bcca62388.2024.10844425) [[LINK]](http://dx.doi.org/10.1109/bcca62388.2024.10844425)
 
-Greta Dolcetti, Agostino Cortesi, Caterina Urban, Enea Zaffanella: _"Towards a High Level Linter for Data Science"_, [[DOI]](https://doi.org/10.1145/3689609.3689996) [[LINK]](https://doi.org/10.1145/3689609.3689996)
-
-Luca Negrini, Sofia Presotto, Pietro Ferrara, Enea Zaffanella, Agostino Cortesi: _"Stability: An Abstract Domain for the Trend of Variation of Numerical Variables"_, [[DOI]](https://doi.org/10.1145/3689609.3689995) [[LINK]](https://doi.org/10.1145/3689609.3689995)
-
 Vincenzo Arceri, Greta Dolcetti, Enea Zaffanella: _"Speeding up static analysis with the split operator"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00761-2) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00761-2)
 
 Alvise Spanò: _"Flexible and reversible conversion between extensible records and overloading constraints for ML"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2024.112141) [[LINK]](https://doi.org/10.1016/j.jss.2024.112141)
 
-Vincenzo Arceri, Saverio Mattia Merenda, Greta Dolcetti, Luca Negrini, Luca Olivieri, Enea Zaffanella: _"Towards a Sound Construction of EVM Bytecode Control-Flow Graphs"_, [[DOI]](https://doi.org/10.1145/3678721.3686227) [[LINK]](https://doi.org/10.1145/3678721.3686227)
-
-Giacomo Zanatta, Pietro Ferrara, Teodors Lisovenko, Luca Negrini, Gianluca Caiazza, Ruffin White: _"Sound Static Analysis for Microservices: Utopia? A Preliminary Experience with LiSA"_, [[DOI]](https://doi.org/10.1145/3678721.3686229) [[LINK]](https://doi.org/10.1145/3678721.3686229)
-
 Luca Olivieri, Fausto Spoto: _"Software verification challenges in the blockchain ecosystem"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00758-x) [[LINK]](https://doi.org/10.1007/s10009-024-00758-x)
 
-Teresa Scantamburlo, Paolo Falcarin, Alberto Veneri, Alessandro Fabris, Chiara Gallese, Valentina Billa, Francesca Rotolo, Federico Marcuzzi: _"Software Systems Compliance with the AI Act"_, [[DOI]](https://doi.org/10.1145/3643691.3648589) [[LINK]](https://doi.org/10.1145/3643691.3648589)
-
-Paolo Falcarin, Fabio Dainese: _"Building a Cybersecurity Knowledge Graph with CyberGraph"_, [[DOI]](https://doi.org/10.1145/3643662.3643962) [[LINK]](https://doi.org/10.1145/3643662.3643962)
-
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Thomas Jensen, Fausto Spoto: _"Design and Implementation of Static Analyses for Tezos Smart Contracts"_, in Distributed Ledger Technologies: Research and Practice [[DOI]](https://doi.org/10.1145/3643567) [[LINK]](https://dl.acm.org/doi/10.1145/3643567)
-
-Giacomo Boldini, Alessio Diana, Vincenzo Arceri, Vincenzo Bonnici, Roberto Bagnara: _"A Machine Learning Approach for Source Code Similarity via Graph-Focused Features"_, [[DOI]](https://doi.org/10.1007/978-3-031-53969-5_5) [[LINK]](https://doi.org/10.1007/978-3-031-53969-5_5)
 
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Badaruddin Chachar, Pietro Ferrara, Agostino Cortesi: _"Detection of Phantom Reads in Hyperledger Fabric"_, in IEEE Access [[DOI]](https://doi.org/10.1109/access.2024.3410019) [[LINK]](http://dx.doi.org/10.1109/access.2024.3410019)
 
@@ -72,8 +58,6 @@ SOUVICK DAS, Novarun Deb, Nabendu Chaki, Agostino Cortesi: _"Driving the Technol
 
 Luca Negrini, Guruprerana Shabadi, Caterina Urban: _"Static Analysis of Data Transformations in Jupyter Notebooks"_, in Proceedings of the 12th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis [[DOI]](https://doi.org/10.1145/3589250.3596145) [[LINK]](http://dx.doi.org/10.1145/3589250.3596145)
 
-Mandira Roy, Raunak Bag, Novarun Deb, Agostino Cortesi, Rituparna Chaki, Nabendu Chaki: _"SCARS: Suturing Wounds due to Conflicts between Non-Functional Requirements in Robotic Systems"_, [[DOI]](https://doi.org/10.22541/au.168566796.65339187/v1) [[LINK]](https://doi.org/10.22541/au.168566796.65339187/v1)
-
 Luca Olivieri, Thomas Jensen, Luca Negrini, Fausto Spoto: _"MichelsonLiSA: A Static Analyzer for Tezos"_, in 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) [[DOI]](https://doi.org/10.1109/percomworkshops56833.2023.10150247) [[LINK]](http://dx.doi.org/10.1109/percomworkshops56833.2023.10150247)
 
 Calzavara, S., Ferrara, P., Lucchese, C.: _"Certifying machine learning models against evasion attacks by program analysis"_, in Journal of Computer Security [[DOI]](https://doi.org/10.3233/JCS-210133) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85164535638&partnerID=MN8TOARS)
@@ -110,13 +94,7 @@ Mitra, D., Cortesi, A., Chaki, N.: _"A Two-Hop Neighborhood Based Berserk Detect
 
 Ahmed A. Alwan, Allan J. Brimicombe, Mihaela Anca Ciupala, Seyed Ali Ghorashi, Andres Baravalle, Paolo Falcarin: _"Time-series clustering for sensor fault detection in large-scale Cyber–Physical Systems"_, in Computer Networks [[DOI]](https://doi.org/10.1016/j.comnet.2022.109384) [[LINK]](https://doi.org/10.1016/j.comnet.2022.109384)
 
-Missing authors: _"Reducing multiple occurrences of meta-mark selection in relational data watermarking"_, in IEEE Access [[DOI]](https://doi.org/10.1109/access.2022.3182099) [[LINK]](http://dx.doi.org/10.1109/access.2022.3182099)
-
 Ahmed Abdulhasan Alwan, Mihaela Anca Ciupala, Allan J. Brimicombe, Seyed Ali Ghorashi, Andres Baravalle, Paolo Falcarin: _"Data quality challenges in large-scale cyber-physical systems: A systematic review"_, in Information Systems [[DOI]](https://doi.org/10.1016/j.is.2021.101951) [[LINK]](https://doi.org/10.1016/j.is.2021.101951)
-
-Missing authors: _"SROS2: Usable Cyber Security Tools for ROS 2"_, [[DOI]](https://doi.org/10.1109/IROS47612.2022.9982129) [[LINK]](https://iris.unive.it/handle/10278/5035211)
-
-Adil Yousef Hussein, Paolo Falcarin, Ahmed T. Sadiq: _"IoT Intrusion Detection Using Modified Random Forest Based on Double Feature Selection Methods"_, [[DOI]](https://doi.org/10.1007/978-3-030-97255-4_5) [[LINK]](https://doi.org/10.1007/978-3-030-97255-4_5)
 
 Arceri, V., Olliaro, M., Cortesi, A., Ferrara, P.: _"Relational String Abstract Domains"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-030-94583-1_2) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85124308681&partnerID=MN8TOARS)
 
@@ -145,8 +123,6 @@ Vincenzo Arceri, Isabella Mastroeni: _"Analyzing Dynamic Code"_, in ACM Transact
 Mastroeni, I., Arceri, V.: _"Improving dynamic code analysis by code abstraction"_, in arXiv [[DOI]](https://doi.org/10.48550/arxiv.2109.02813) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85170897077&partnerID=MN8TOARS)
 
 Mastroeni, I., Arceri, V.: _"Improving dynamic code analysis by code abstraction"_, in Electronic Proceedings in Theoretical Computer Science, EPTCS [[DOI]](https://doi.org/10.4204/EPTCS.341.2) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85115233492&partnerID=MN8TOARS)
-
-Missing authors: _"Enhancement performance of random forest algorithm via one hot encoding for IoT IDS"_, [[DOI]](https://doi.org/10.21533/pen.v9i3.2204) [[LINK]](https://iris.unive.it/handle/10278/3746528)
 
 Ferrara, P., Olivieri, L., Spoto, F.: _"Static Privacy Analysis by Flow Reconstruction of Tainted Data"_, in International Journal of Software Engineering and Knowledge Engineering [[DOI]](https://doi.org/10.1142/S0218194021500303) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85111441943&partnerID=MN8TOARS)
 
@@ -188,13 +164,7 @@ Mitra, D., Cortesi, A., Chaki, N.: _"ALEA: An Anonymous Leader Election Algorith
 
 Vincenzo Arceri, Isabella Mastroeni, Sunyi Xu: _"Static Analysis for ECMAScript String Manipulation Programs"_, in Applied Sciences [[DOI]](https://doi.org/10.3390/app10103525) [[LINK]](https://www.mdpi.com/2076-3417/10/10/3525)
 
-Missing authors: _"An Abstract Domain for Objects in Dynamic Programming Languages"_, in Lecture Notes in Computer Science [[DOI]](https://doi.org/10.1007/978-3-030-54997-8_9) [[LINK]](http://dx.doi.org/10.1007/978-3-030-54997-8_9)
-
 Arceri, V., Mastroeni, I.: _"A sound abstract interpreter for dynamic code"_, in Proceedings of the ACM Symposium on Applied Computing [[DOI]](https://doi.org/10.1145/3341105.3373964) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85083036879&partnerID=MN8TOARS)
-
-Missing authors: _"HADES: a Hybrid Anomaly Detection System for Large-Scale Cyber-Physical Systems"_, [[DOI]](https://doi.org/10.1109/FMEC49853.2020.9144751) [[LINK]](https://iris.unive.it/handle/10278/3743232)
-
-Missing authors: _"Code renewability for native software protection"_, [[DOI]](https://doi.org/10.1145/3404891) [[LINK]](https://iris.unive.it/handle/10278/3743229)
 
 Negrini, L., Arceri, V., Ferrara, P., Cortesi, A.: _"Twinning automata and regular expressions for string static analysis"_, in arXiv [[DOI]](https://doi.org/10.48550/arxiv.2006.02715) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85170315256&partnerID=MN8TOARS)
 
@@ -224,13 +194,7 @@ Pérez Gort, M.L., Feregrino-Uribe, C., Cortesi, A., Fernández-Peña, F.: _"A D
 
 ## 2019
 
-Maria Sangiuliano, Agostino Cortesi: _"Institutional Change for Gender Equality in Research Lesson Learned from the Field"_, [[DOI]](https://doi.org/10.30687/978-88-6969-334-2) [[LINK]](https://doi.org/10.30687/978-88-6969-334-2)
-
 Cataldo Basile, Daniele Canavese, Leonardo Regano, Paolo Falcarin, Bjorn De Sutter: _"A meta-model for software protections and reverse engineering attacks"_, in Journal of Systems and Software [[DOI]](https://doi.org/10.1016/j.jss.2018.12.025) [[LINK]](https://doi.org/10.1016/j.jss.2018.12.025)
-
-Missing authors: _"Understanding the behaviour of hackers while performing attack tasks in a professional setting and in a public challenge"_, [[DOI]](https://doi.org/10.1007/s10664-018-9625-6) [[LINK]](https://iris.unive.it/handle/10278/3743230)
-
-Missing authors: _"Analysis of Obfuscated Code with Program Slicing"_, [[DOI]](https://doi.org/10.1109/CyberSecPODS.2019.8885094) [[LINK]](https://iris.unive.it/handle/10278/3743234)
 
 Spoto, F., Burato, E., Ernst, M.D., Ferrara, P., Lovato, A., Macedonio, D., Spiridon, C.: _"Static identification of injection attacks in Java"_, in ACM Transactions on Programming Languages and Systems [[DOI]](https://doi.org/10.1145/3332371) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85068440875&partnerID=MN8TOARS)
 
@@ -283,10 +247,6 @@ Cortesi, A., Olliaro, M.: _"M-string segmentation: A refined abstract domain for
 Cortesi, A., Ferrara, P., Halder, R., Zanioli, M.: _"Combining symbolic and numerical domains for information leakage analysis"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-662-56499-8_6) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85042545933&partnerID=MN8TOARS)
 
 Ferrara, P., Cortesi, A., Spoto, F.: _"CIL to Java-bytecode Translation for Static Analysis Leveraging"_, in Proceedings - 2018 ACM/IEEE Conference on Formal Methods in Software Engineering, FormaliSE 2018 [[DOI]](https://doi.org/10.1145/3193992.3193994) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85059102801&partnerID=MN8TOARS)
-
-Missing authors: _"Advanced Computing and Systems for Security - Volume Six"_, [[DOI]](https://doi.org/10.1007/978-981-10-8183-5) [[LINK]](https://iris.unive.it/handle/10278/3700881)
-
-Missing authors: _"Advanced Computing and Systems for Security - Volume Five"_, [[DOI]](https://doi.org/10.1007/978-981-10-8180-4) [[LINK]](https://iris.unive.it/handle/10278/3700880)
 
 ## 2017
 
@@ -382,8 +342,6 @@ Halder, R., Cortesi, A.: _"Abstract interpretation of database query languages"_
 
 Sen, S., Dutta, A., Cortesi, A., Chaki, N.: _"A new scale for attribute dependency in large database systems"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-642-33260-9_23) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-84879427812&partnerID=MN8TOARS)
 
-Missing authors: _"Donne e Tecnologie Informatiche"_, [[DOI]](https://doi.org/10.13140/RG.2.1.4698.8886) [[LINK]](https://iris.unive.it/handle/10278/31113)
-
 ## 2011
 
 Cortesi, A., Zanioli, M.: _"Widening and narrowing operators for abstract interpretation"_, in Computer Languages, Systems and Structures [[DOI]](https://doi.org/10.1016/j.cl.2010.09.001) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-77957752341&partnerID=MN8TOARS)
@@ -415,8 +373,6 @@ Brus, M., Cortesi, A.: _"Non-repudiation analysis using LySa with annotations"_,
 Cortesi, A., Halder, R.: _"Dependence condition graph for semantics-based abstract program slicing"_, in Proceedings of the 10th Workshop on Language Descriptions, Tools and Applications, LDTA 2010 [[DOI]](https://doi.org/10.1145/1868281.1868285) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-78649769232&partnerID=MN8TOARS)
 
 Halder, R., Cortesi, A.: _"A persistent public watermarking of relational databases"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-642-17714-9_16) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-78650899973&partnerID=MN8TOARS)
-
-Missing authors: _"Zero-knowledge SoftwareWatermarking for C Programs"_, [[DOI]](https://doi.org/10.1109/CNC.2010.72) [[LINK]](https://iris.unive.it/handle/10278/23844)
 
 ## 2009
 
