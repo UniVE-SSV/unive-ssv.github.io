@@ -126,6 +126,19 @@
 - Preface
 - !!set
   doi: null
+/0000-0002-0946-5440/work/172006059: !!python/tuple
+- Agostino Cortesi
+- 'General-Purpose Languages for Blockchain Smart Contracts Development: A Comprehensive
+  Study'
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/176862642: !!python/tuple
+- Agostino Cortesi
+- 'Blockchain Interoperability through Bridges: A Token Transfer Perspective'
+- !!set
+  authors: null
+  journal/conference: null
 /0000-0002-0946-5440/work/18158500: !!python/tuple
 - Agostino Cortesi
 - Information-flow analysis of hibernate query language
