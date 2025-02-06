@@ -18,6 +18,10 @@ Luca Olivieri, Fausto Spoto: _"Software verification challenges in the blockchai
 
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Thomas Jensen, Fausto Spoto: _"Design and Implementation of Static Analyses for Tezos Smart Contracts"_, in Distributed Ledger Technologies: Research and Practice [[DOI]](https://doi.org/10.1145/3643567) [[LINK]](https://dl.acm.org/doi/10.1145/3643567)
 
+Biswas, C., Das, S.: _"ARIA-QA: AI-agent based requirements inspection and analysis through question answering"_, in Innovations in Systems and Software Engineering [[DOI]](https://doi.org/10.1007/s11334-024-00589-8) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85206979358&partnerID=MN8TOARS)
+
+Biswas, C., Das, S.: _"ARIA-QA: AI-Agent based Requirements Inspection and Analysis through Question Answering"_, in Research Square [[DOI]](https://doi.org/10.21203/rs.3.rs-4399368/v1) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85197169390&partnerID=MN8TOARS)
+
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Badaruddin Chachar, Pietro Ferrara, Agostino Cortesi: _"Detection of Phantom Reads in Hyperledger Fabric"_, in IEEE Access [[DOI]](https://doi.org/10.1109/access.2024.3410019) [[LINK]](http://dx.doi.org/10.1109/access.2024.3410019)
 
 Negrini, L., Arceri, V., Olivieri, L., Cortesi, A., Ferrara, P.: _"Teaching Through Practice: Advanced Static Analysis with LiSA"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-031-71379-8_3) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85204360430&partnerID=MN8TOARS)

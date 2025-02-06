@@ -2448,6 +2448,28 @@
   workid: /0000-0001-8074-8980/work/161038271
 - !Publication
   contribs:
+  - Biswas, C.
+  - Das, S.
+  doi: 10.21203/rs.3.rs-4399368/v1
+  pub_date: 2024-01-01
+  title: 'ARIA-QA: AI-Agent based Requirements Inspection and Analysis through Question
+    Answering'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85197169390&partnerID=MN8TOARS
+  venue: Research Square
+  workid: /0000-0002-3314-2537/work/177405603
+- !Publication
+  contribs:
+  - Biswas, C.
+  - Das, S.
+  doi: 10.1007/s11334-024-00589-8
+  pub_date: 2024-01-01
+  title: 'ARIA-QA: AI-agent based requirements inspection and analysis through question
+    answering'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85206979358&partnerID=MN8TOARS
+  venue: Innovations in Systems and Software Engineering
+  workid: /0000-0002-3314-2537/work/177405607
+- !Publication
+  contribs:
   - Luca Olivieri
   - Luca Negrini
   - Vincenzo Arceri
