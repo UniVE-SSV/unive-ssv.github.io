@@ -8,7 +8,11 @@ Vincenzo Arceri, Luca Negrini, Luca Olivieri, Pietro Ferrara: _"Challenges of so
 
 ## 2024
 
+Giacomo Zanatta, Gianluca Caiazza, Pietro Ferrara, Luca Negrini: _"Inference of access policies through static analysis"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00777-8) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00777-8)
+
 Luca Olivieri, Aradhita Mukherjee, Nabendu Chaki, Agostino Cortesi: _"Blockchain Interoperability through Bridges: A Token Transfer Perspective"_, in 2024 6th International Conference on Blockchain Computing and Applications (BCCA) [[DOI]](https://doi.org/10.1109/bcca62388.2024.10844425) [[LINK]](http://dx.doi.org/10.1109/bcca62388.2024.10844425)
+
+Giacomo Zanatta, Gianluca Caiazza, Pietro Ferrara, Luca Negrini, Ruffin White: _"Automating ROS2 Security Policies Extraction through Static Analysis"_, in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) [[DOI]](https://doi.org/10.1109/iros58592.2024.10802507) [[LINK]](http://dx.doi.org/10.1109/iros58592.2024.10802507)
 
 Vincenzo Arceri, Greta Dolcetti, Enea Zaffanella: _"Speeding up static analysis with the split operator"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00761-2) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00761-2)
 

@@ -2514,6 +2514,20 @@
   workid: /0000-0002-2983-9251/work/172993783
 - !Publication
   contribs:
+  - Giacomo Zanatta
+  - Gianluca Caiazza
+  - Pietro Ferrara
+  - Luca Negrini
+  - Ruffin White
+  doi: 10.1109/iros58592.2024.10802507
+  pub_date: 2024-10-14
+  title: Automating ROS2 Security Policies Extraction through Static Analysis
+  url: http://dx.doi.org/10.1109/iros58592.2024.10802507
+  venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  workid: /0000-0001-9930-8854/work/178794406
+- !Publication
+  contribs:
   - Luca Olivieri
   - Aradhita Mukherjee
   - Nabendu Chaki
@@ -2525,6 +2539,18 @@
   venue: 2024 6th International Conference on Blockchain Computing and Applications
     (BCCA)
   workid: /0000-0001-8074-8980/work/176461873
+- !Publication
+  contribs:
+  - Giacomo Zanatta
+  - Gianluca Caiazza
+  - Pietro Ferrara
+  - Luca Negrini
+  doi: 10.1007/s10009-024-00777-8
+  pub_date: 2024-12-01
+  title: Inference of access policies through static analysis
+  url: http://dx.doi.org/10.1007/s10009-024-00777-8
+  venue: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0001-9930-8854/work/178794554
 - !Publication
   contribs:
   - Vincenzo Arceri
