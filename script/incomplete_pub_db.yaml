@@ -139,6 +139,11 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0002-0946-5440/work/179117052: !!python/tuple
+- Agostino Cortesi
+- "Contextual Correlation Inference in\_Multi-fleet Robotic Systems"
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/18158500: !!python/tuple
 - Agostino Cortesi
 - Information-flow analysis of hibernate query language
