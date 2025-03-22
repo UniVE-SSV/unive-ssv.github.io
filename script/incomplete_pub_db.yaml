@@ -144,6 +144,30 @@
 - "Contextual Correlation Inference in\_Multi-fleet Robotic Systems"
 - !!set
   journal/conference: null
+/0000-0002-0946-5440/work/180529494: !!python/tuple
+- Agostino Cortesi
+- A robust scheme for securing relational data incremental watermarking
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/180529495: !!python/tuple
+- Agostino Cortesi
+- "Risk Assessment in\_Agile Software Development"
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/180529496: !!python/tuple
+- Agostino Cortesi
+- Static Detection of Untrusted Cross-Contract Invocations in Go Smart Contracts
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/180529500: !!python/tuple
+- Agostino Cortesi
+- Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts
+- !!set
+  authors: null
+  journal/conference: null
 /0000-0002-0946-5440/work/18158500: !!python/tuple
 - Agostino Cortesi
 - Information-flow analysis of hibernate query language
@@ -741,6 +765,12 @@
 /0009-0008-3592-3186/work/148981386: !!python/tuple
 - Raunak Bag
 - Eliciting context-oriented NFR constraints and conflicts in robotic systems
+- !!set
+  authors: null
+  journal/conference: null
+/0009-0008-3592-3186/work/180529490: !!python/tuple
+- Raunak Bag
+- "Contextual Correlation Inference in\_Multi-fleet Robotic Systems"
 - !!set
   authors: null
   journal/conference: null
