@@ -168,6 +168,14 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0002-0946-5440/work/180881293: !!python/tuple
+- Agostino Cortesi
+- "Enhancing Deep Learning Model Privacy Against Membership Inference Attacks Using\
+  \ Privacy\u2011Preserving Oversampling"
+- !!set
+  authors: null
+  doi: null
+  journal/conference: null
 /0000-0002-0946-5440/work/18158500: !!python/tuple
 - Agostino Cortesi
 - Information-flow analysis of hibernate query language
@@ -637,6 +645,12 @@
 - !!set
   authors: null
   doi: null
+  journal/conference: null
+/0000-0002-2820-7121/work/180961987: !!python/tuple
+- Gianluca Caiazza
+- Inference of access policies through static analysis
+- !!set
+  authors: null
   journal/conference: null
 /0000-0002-2983-9251/work/167380848: !!python/tuple
 - Greta Dolcetti
