@@ -277,11 +277,7 @@ Giacomo Boldini is a Ph.D. student at Ca' Foscari University of Venice, where hi
 		</div>
 	</div>
 </div>
-I started career as a Ph.D. student at Ca’ Foscari University of Venice, where the primary research area belongs from the domains of taint analysis, relational tainting, static analysis, abstract interpretation, and program verification. I received both of my Bachelor’s and Master’s degrees in Computer Science and Engineering at the University of Calcutta, India. 
-
-My master’s thesis, titled as “Incorporating Multiple Bioassay and Cross Contamination Avoidance in Digital Microfluidic Biochip ”, centered around the Digital Microfluidic Biochips (DMFBs), commonly referred to as lab-on-a-chip where the research includes VLSI design. The design of a compact chip measuring 15×15 with a mere 13 pins was presented. This chip effectively integrates three distinct assay operations: nPI, PCR, and In-Vitro diagnostics, demonstrating promising completion times compared to existing commercial biochips. By reducing the overall pin count and improving the utilization factor, the chip becomes more cost-effective. Additionally, the routing scheme implemented ensures proficient prevention of cross-contamination issues while maintaining fluidic constraints. 
-
-I worked as a research fellow at Ca'Foscari University of Venice in the domain of “Data User Security Trust” where the experiment was based on the data leakage static analysis of python scripts extracted from jupyter notebooks containing sensitive Information of public administration using static analyzer LiSA (Library for Static Analysis).
+Purbasha Chowdhury is currently pursuing her PhD in the Department of Computer Science at Ca' Foscari University, Venice. Her current research focuses on Natural Language Processing (NLP), specifically developing AI-based strategies for verifying the compliance of system requirements specification documents with legal frameworks. Prior to her doctoral studies, she served as a research fellow in information leakage static analysis at the same institution. She completed her Master’s degree in Computer Science and Engineering from the University of Calcutta. During her postgraduate studies, she specialized in designing multifunctional biochips with optimized pin counts and assay completion times while minimizing the risk of cross-contamination.
 <br/><br/>
 
 <div class="div-person-table">
