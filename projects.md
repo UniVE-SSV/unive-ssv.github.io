@@ -31,7 +31,7 @@ The objective of this project is to identify and implement advanced and sophisti
 
 # Blockchain Interoperability and Security
 
-_People involved: Aradhita Mukherjee, Luca Olivieri, Agostino Cortesi, Nabendu Chaki (University of Calcutta, India)
+_People involved: Aradhita Mukherjee, Luca Olivieri, Agostino Cortesi, Nabendu Chaki (University of Calcutta, India)_
 
 As blockchain networks continue to evolve independently, the lack of standardized communication protocols poses significant challenges to scalability and widespread adoption, highlighting the critical need for effective interoperability solutions. This project aims to investigate blockchain interoperability and cross-chain mechanisms, aiming to identify, evaluate, and implement solutions to enable secure and seamless interactions between heterogeneous blockchain networks.
 
