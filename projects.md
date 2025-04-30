@@ -35,7 +35,7 @@ _People involved: Aradhita Mukherjee, Luca Olivieri, Agostino Cortesi, Nabendu C
 
 As blockchain networks continue to evolve independently, the lack of standardized communication protocols poses significant challenges to scalability and widespread adoption, highlighting the critical need for effective interoperability solutions. This project aims to investigate blockchain interoperability and cross-chain mechanisms, aiming to identify, evaluate, and implement solutions to enable secure and seamless interactions between heterogeneous blockchain networks.
 
-- - L. Olivieri, A. Mukherjee, N. Chaki, A. Cortesi: “Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges”, in Proceedings of the Joint Italian National Conference on Cybersecurity (ITASEC \& SERICS), 2025.
+- L. Olivieri, A. Mukherjee, N. Chaki, A. Cortesi: “Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges”, in Proceedings of the Joint Italian National Conference on Cybersecurity (ITASEC \& SERICS), 2025.
 - L. Olivieri, A. Mukherjee, N. Chaki, A. Cortesi: “Blockchain Interoperability through Bridges: A Token Transfer Perspective”, in Proceedings of the 6th International Conference on Blockchain Computing and Applications (BCCA), 2024.
 
 ## Static Security Analysis of IoT Systems
