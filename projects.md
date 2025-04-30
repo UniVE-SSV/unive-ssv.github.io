@@ -13,12 +13,30 @@ Building an analyzer upon LiSA boils down to writing a parser for the language t
 
 ## Security and reliability analysis of Smart Contracts
 
-_People involved: Vincenzo Arceri, Fabio Tagliaferro, Imran Alam, Agostino Cortesi, Pietro Ferrara_
+_People involved: Luca Olivieri, Vincenzo Arceri, Luca Negrini, Fabio Tagliaferro, Imran Alam, Badaruddin Chachar, Fausto Spoto (University of Verona, Italy), Agostino Cortesi, Pietro Ferrara_
 
 Blockchain and Smart Contracts are growing more and more in popularity thanks to the hype built around these technologies and the wide range of their applications, such as cryptocurrencies, digital securities and identity management.
 The possibility of implementing Smart Contract infrastructures using general-purpose programming languages has become widespread, such as in Cosmos or Hyperledger, where, for example, Go language can be involved to build blockchain applications within these frameworks.
 Nevertheless, the design of such languages did not have blockchain development as a goal: their use in such context intrinsically inherits the well known general-purpose programming languages problems. Besides, new blockchain-related vulnerabilities arise in such a context: representatives are transaction ordering and timestamp manipulation.
 The objective of this project is to identify and implement advanced and sophisticated program analysis approaches to enhance the quality of applications, remaining in the context of general-purpose programming languages.
+
+- L. Olivieri, L. Negrini, V. Arceri, P. Ferrara, A. Cortesi, F. Spoto: “Static Detection of Untrusted Cross-Contract Invocations in Go Smart Contracts”, in Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC), 2025.
+- L. Olivieri, L. Negrini, V. Arceri, P. Ferrara, A. Cortesi: “Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts”, in Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC), 2025.
+- L. Olivieri, V. Arceri, B. Chachar, L. Negrini, F. Tagliaferro, F. Spoto, P. Ferrara, A. Cortesi: “General-Purpose Languages for Blockchain Smart Contracts Development: A Comprehensive Study”, in IEEE Access, vol. 12, pp. 166855-166869, 2024.
+- L. Olivieri, L. Negrini, V. Arceri, B. Chachar, P. Ferrara, A. Cortesi: “Detection of Phantom Reads in Hyperledger Fabric," in IEEE Access, vol. 12, pp. 80687-80697, 2024.
+- L. Olivieri, F. Spoto: “Software verification challenges in the blockchain ecosystem”, in International Journal on Software Tools for Technology Transfer, vol. 26, 431–444, 2024.
+- L. Olivieri, L. Negrini, V. Arceri, F. Tagliaferro, P. Ferrara, A. Cortesi, F. Spoto: “Information flow analysis for detecting non-determinism in blockchain”, in Proceedings of the 37th European Conference on Object-Oriented Programming (ECOOP), 2023.
+- L. Olivieri, F. Tagliaferro, V. Arceri, M. Ruaro, L. Negrini, A. Cortesi, P. Ferrara, F. Spoto, E. Talin: “Ensuring determinism in blockchain software with GoLiSA: an industrial experience report”, in Proceedings of the 11th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis (SOAP), 2022.
+
+
+# Blockchain Interoperability and Security
+
+_People involved: Aradhita Mukherjee, Luca Olivieri, Agostino Cortesi, Nabendu Chaki (University of Calcutta, India)
+
+As blockchain networks continue to evolve independently, the lack of standardized communication protocols poses significant challenges to scalability and widespread adoption, highlighting the critical need for effective interoperability solutions. This project aims to investigate blockchain interoperability and cross-chain mechanisms, aiming to identify, evaluate, and implement solutions to enable secure and seamless interactions between heterogeneous blockchain networks.
+
+- - L. Olivieri, A. Mukherjee, N. Chaki, A. Cortesi: “Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges”, in Proceedings of the Joint Italian National Conference on Cybersecurity (ITASEC \& SERICS), 2025.
+- L. Olivieri, A. Mukherjee, N. Chaki, A. Cortesi: “Blockchain Interoperability through Bridges: A Token Transfer Perspective”, in Proceedings of the 6th International Conference on Blockchain Computing and Applications (BCCA), 2024.
 
 ## Static Security Analysis of IoT Systems
 
