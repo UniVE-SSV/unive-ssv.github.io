@@ -309,6 +309,14 @@
 - 'Prop revisited: Propositional formula as abstract domain for groundness analysis'
 - !!set
   doi: null
+/0000-0002-0946-5440/work/184006007: !!python/tuple
+- Agostino Cortesi
+- 'Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and
+  Challenges'
+- !!set
+  authors: null
+  doi: null
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
