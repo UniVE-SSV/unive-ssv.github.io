@@ -2553,6 +2553,21 @@
   workid: /0000-0001-9930-8854/work/178794554
 - !Publication
   contribs:
+  - Partha Ghosh
+  - Subhashis Das
+  - Subhankar Roy
+  - Ankur Bhattacharjee
+  - Agostino Cortesi
+  - Soumya Sen
+  doi: 10.1109/ACCESS.2025.3570080
+  pub_date: 2025-01-01
+  title: 'SentiTSMixer: A Specific Model for Sales Forecasting Using Sentiment Analysis
+    of Customer'
+  url: https://doi.org/10.1109/ACCESS.2025.3570080
+  venue: IEEE Access
+  workid: /0000-0002-0946-5440/work/184064260
+- !Publication
+  contribs:
   - Vincenzo Arceri
   - Luca Negrini
   - Luca Olivieri

@@ -6,6 +6,8 @@ title: Publications
 
 Vincenzo Arceri, Luca Negrini, Luca Olivieri, Pietro Ferrara: _"Challenges of software verification"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00778-7) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00778-7)
 
+Partha Ghosh, Subhashis Das, Subhankar Roy, Ankur Bhattacharjee, Agostino Cortesi, Soumya Sen: _"SentiTSMixer: A Specific Model for Sales Forecasting Using Sentiment Analysis of Customer"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2025.3570080) [[LINK]](https://doi.org/10.1109/ACCESS.2025.3570080)
+
 ## 2024
 
 Giacomo Zanatta, Gianluca Caiazza, Pietro Ferrara, Luca Negrini: _"Inference of access policies through static analysis"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00777-8) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00777-8)

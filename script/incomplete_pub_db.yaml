@@ -8,6 +8,16 @@
 - Towards a Sound Construction of EVM Bytecode Control-Flow Graphs
 - !!set
   journal/conference: null
+/0000-0001-8074-8980/work/184066755: !!python/tuple
+- Luca Olivieri
+- Static Detection of Untrusted Cross-Contract Invocations in Go Smart Contracts
+- !!set
+  journal/conference: null
+/0000-0001-8074-8980/work/184066756: !!python/tuple
+- Luca Olivieri
+- Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts
+- !!set
+  journal/conference: null
 /0000-0001-9930-8854/work/133860769: !!python/tuple
 - Luca Negrini
 - Twinning automata and regular expressions for string static analysis
@@ -34,6 +44,16 @@
 - 'European Union Data Act and Blockchain Technology: Challenges and New Directions'
 - !!set
   doi: null
+/0000-0001-9930-8854/work/184065185: !!python/tuple
+- Luca Negrini
+- Static Detection of Untrusted Cross-Contract Invocations in Go Smart Contracts
+- !!set
+  journal/conference: null
+/0000-0001-9930-8854/work/184065186: !!python/tuple
+- Luca Negrini
+- Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/136165425: !!python/tuple
 - Agostino Cortesi
 - 'SCARS: Suturing Wounds due to Conflicts between Non-Functional Requirements in
@@ -704,6 +724,16 @@
 /0000-0002-4678-933X/work/169756035: !!python/tuple
 - Pietro Ferrara
 - 'Stability: An Abstract Domain for the Trend of Variation of Numerical Variables'
+- !!set
+  journal/conference: null
+/0000-0002-4678-933X/work/184064737: !!python/tuple
+- Pietro Ferrara
+- Static Detection of Untrusted Cross-Contract Invocations in Go Smart Contracts
+- !!set
+  journal/conference: null
+/0000-0002-4678-933X/work/184064739: !!python/tuple
+- Pietro Ferrara
+- Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts
 - !!set
   journal/conference: null
 /0000-0002-5150-0393/work/83026490: !!python/tuple
