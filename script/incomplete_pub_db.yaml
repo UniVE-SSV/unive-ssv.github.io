@@ -337,6 +337,32 @@
   authors: null
   doi: null
   journal/conference: null
+/0000-0002-0946-5440/work/186571675: !!python/tuple
+- Agostino Cortesi
+- Finding Vulnerabilities in Solidity Smart Contracts with In-Context Learning
+- !!set
+  doi: null
+/0000-0002-0946-5440/work/186571676: !!python/tuple
+- Agostino Cortesi
+- Preface
+- !!set
+  doi: null
+/0000-0002-0946-5440/work/186571677: !!python/tuple
+- Agostino Cortesi
+- 'Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and
+  Challenges'
+- !!set
+  doi: null
+/0000-0002-0946-5440/work/186571678: !!python/tuple
+- Agostino Cortesi
+- Preface
+- !!set
+  doi: null
+/0000-0002-0946-5440/work/186571679: !!python/tuple
+- Agostino Cortesi
+- Preface
+- !!set
+  doi: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
@@ -411,6 +437,12 @@
 - !!set
   authors: null
   doi: null
+  journal/conference: null
+/0000-0002-0946-5440/work/72762864: !!python/tuple
+- Agostino Cortesi
+- Fine Grained Access Control for Relational Databases by Abstract Interpretation
+- !!set
+  authors: null
   journal/conference: null
 /0000-0002-0946-5440/work/72762898: !!python/tuple
 - Agostino Cortesi

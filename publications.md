@@ -24,6 +24,8 @@ Luca Olivieri, Fausto Spoto: _"Software verification challenges in the blockchai
 
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Thomas Jensen, Fausto Spoto: _"Design and Implementation of Static Analyses for Tezos Smart Contracts"_, in Distributed Ledger Technologies: Research and Practice [[DOI]](https://doi.org/10.1145/3643567) [[LINK]](https://dl.acm.org/doi/10.1145/3643567)
 
+Dolcetti, G., Arceri, V., Iotti, E., Maffeis, S., Cortesi, A., Zaffanella, E.: _"Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis"_, in Arxiv [[DOI]](https://doi.org/10.48550/arXiv.2412.14841) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85213123751&partnerID=MN8TOARS)
+
 Biswas, C., Das, S.: _"ARIA-QA: AI-agent based requirements inspection and analysis through question answering"_, in Innovations in Systems and Software Engineering [[DOI]](https://doi.org/10.1007/s11334-024-00589-8) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85206979358&partnerID=MN8TOARS)
 
 Biswas, C., Das, S.: _"ARIA-QA: AI-Agent based Requirements Inspection and Analysis through Question Answering"_, in Research Square [[DOI]](https://doi.org/10.21203/rs.3.rs-4399368/v1) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85197169390&partnerID=MN8TOARS)
@@ -105,6 +107,8 @@ Mitra, D., Cortesi, A., Chaki, N.: _"A Two-Hop Neighborhood Based Berserk Detect
 Ahmed A. Alwan, Allan J. Brimicombe, Mihaela Anca Ciupala, Seyed Ali Ghorashi, Andres Baravalle, Paolo Falcarin: _"Time-series clustering for sensor fault detection in large-scale Cyber–Physical Systems"_, in Computer Networks [[DOI]](https://doi.org/10.1016/j.comnet.2022.109384) [[LINK]](https://doi.org/10.1016/j.comnet.2022.109384)
 
 Ahmed Abdulhasan Alwan, Mihaela Anca Ciupala, Allan J. Brimicombe, Seyed Ali Ghorashi, Andres Baravalle, Paolo Falcarin: _"Data quality challenges in large-scale cyber-physical systems: A systematic review"_, in Information Systems [[DOI]](https://doi.org/10.1016/j.is.2021.101951) [[LINK]](https://doi.org/10.1016/j.is.2021.101951)
+
+Sarkar, P., Chaki, R., Cortesi, A.: _"A Patient-Centric Nurse Scheduling Algorithm"_, in SN Computer Science [[DOI]](https://doi.org/10.1007/s42979-021-00820-4) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-105000402574&partnerID=MN8TOARS)
 
 Arceri, V., Olliaro, M., Cortesi, A., Ferrara, P.: _"Relational String Abstract Domains"_, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) [[DOI]](https://doi.org/10.1007/978-3-030-94583-1_2) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85124308681&partnerID=MN8TOARS)
 

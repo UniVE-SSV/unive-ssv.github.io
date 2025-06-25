@@ -1965,6 +1965,17 @@
   workid: /0000-0002-0946-5440/work/147868924
 - !Publication
   contribs:
+  - Sarkar, P.
+  - Chaki, R.
+  - Cortesi, A.
+  doi: 10.1007/s42979-021-00820-4
+  pub_date: 2022-01-01
+  title: A Patient-Centric Nurse Scheduling Algorithm
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-105000402574&partnerID=MN8TOARS
+  venue: SN Computer Science
+  workid: /0000-0002-0946-5440/work/186571684
+- !Publication
+  contribs:
   - Ahmed Abdulhasan Alwan
   - Mihaela Anca Ciupala
   - Allan J. Brimicombe
@@ -2468,6 +2479,21 @@
   url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85206979358&partnerID=MN8TOARS
   venue: Innovations in Systems and Software Engineering
   workid: /0000-0002-3314-2537/work/177405607
+- !Publication
+  contribs:
+  - Dolcetti, G.
+  - Arceri, V.
+  - Iotti, E.
+  - Maffeis, S.
+  - Cortesi, A.
+  - Zaffanella, E.
+  doi: 10.48550/arXiv.2412.14841
+  pub_date: 2024-01-01
+  title: Helping LLMs Improve Code Generation Using Feedback from Testing and Static
+    Analysis
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85213123751&partnerID=MN8TOARS
+  venue: Arxiv
+  workid: /0000-0002-0946-5440/work/186571692
 - !Publication
   contribs:
   - Luca Olivieri
