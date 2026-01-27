@@ -45,3 +45,8 @@ For the fifth year, we're organizing our yearly workshop in Tambre! And for the 
 | 11:30-12:00 | Gianluca Caiazza: "The Zamperla project" |
 | 12:00-12:30 | Badaruddin Chachar: "Catching vulnerabilities in smart contracts with LLMs" |
 | 12:30-14:00 | Lunch |
+
+**Organizers**
+
+- Maikel Lazaro Perez Gort, Ca' Foscari University of Venice
+- Pietro Ferrara, Ca' Foscari University of Venice
