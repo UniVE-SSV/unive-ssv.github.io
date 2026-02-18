@@ -16,7 +16,7 @@ title: People
 		</div>
 	</div>
 </div>
-Agostino Cortesi, PhD, is a full professor of Computer Science at Ca’ Foscari University, Venice, Italy. He has held the position of visiting professor at several universities and research centers, including Ecole Normale Supérieure Paris, Ecole Polytechnique Palaiseau, IBM T.J.Watson Research Center, and University of Calcutta. His main research interests concern software engineering and static analysis techniques, with particular emphasis on security issues. He has also investigated the impact of semantics-based approaches in different applicative scenarios (watermarking, relational databases, robotics, etc.). He published more than 200 papers in high level international journals (including ACM TOPLAS and IEEE TSE) and proceedings of international conferences (including ACM POPL, ACM PLDI and  IEEE LICS). His current h-index is 23 according to Scopus, and 32 according to Google Scholar. Currently, he serves as co-Editor in Chief of the book series “Services and Business Process Reengineering” published by Springer-Nature.
+Agostino Cortesi, PhD, is a full professor of Computer Science at Ca’ Foscari University, Venice, Italy. He has held the position of visiting professor at several universities and research centers, including Ecole Normale Supérieure Paris, Ecole Polytechnique Palaiseau, IBM T.J.Watson Research Center, and University of Calcutta. His main research interests concern software engineering and static analysis techniques, with particular emphasis on security issues. He has also investigated the impact of semantics-based approaches in different applicative scenarios (watermarking, relational databases, robotics, etc.). He published more than 200 papers in high level international journals (including ACM TOPLAS and IEEE TSE) and proceedings of international conferences (including ACM POPL, ACM PLDI and  IEEE LICS). His current h-index is 26 according to Scopus, and 35 according to Google Scholar. Currently, he serves as co-Editor in Chief of the book series “Services and Business Process Reengineering” published by Springer-Nature.
 <br/><br/>
 
 <div class="div-person-table">
@@ -167,14 +167,14 @@ My research interests include cyber security, software verification, blockchain,
 		</div>
 		<div class="div-person-table-multicol">
 			<h3>Souvick Das</h3>
-			<h5>Research Associate @ Università Ca' Foscari Venezia</h5>
+			<h5>Postdoctoral Researcher @ University Of Luxembourg</h5>
 			Email: <a href="mailto:souvik.cmsa019@gmail.com">souvik.cmsa019@gmail.com</a><br/>
 			Website: <a href="https://github.com/svk-cu-nlp">https://github.com/svk-cu-nlp</a>
 		</div>
 	</div>
 </div>
-Dedicated Researcher specializing in the intersection of Artificial Intelligence and Software Engineering with over 6 years of experience. Currently serving as a Research Associate at Ca' Foscari University in Venice, Italy, I am deeply passionate about advancing the field of AI while actively contributing to the software engineering community.
-My expertise spans various areas within AI, including Natural Language Processing (NLP), Generative AI, and the development of RAG/Agentic pipelines. I excel in fine-tuning Large Language Models (LLMs) such as QLORA, LORA, SFT, and DPO to address the nuanced challenges within the software engineering domain. Published 10 articles in esteemed journals and conferences including IEEE Transactions on Software Engineering, IEEE RE, Journal of Systems and Software, Elsevier. I am committed to advancing knowledge and fostering innovation.
+Dedicated Researcher specializing in the intersection of Artificial Intelligence and Software Engineering. Currently serving as a a Postdoctoral Researcher at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg. I am deeply passionate about advancing the field of AI while actively contributing to the software engineering community.
+My expertise spans various areas within AI, including Natural Language Processing (NLP), Generative AI, and the development of RAG/Agentic pipelines. I excel in fine-tuning Large Language Models (LLMs) such as QLORA, LORA, SFT, and DPO to address the nuanced challenges within the software engineering domain.
 <br/><br/>
 
 <div class="div-person-table">

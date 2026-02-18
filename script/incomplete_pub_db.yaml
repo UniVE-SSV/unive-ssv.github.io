@@ -18,6 +18,22 @@
 - Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts
 - !!set
   journal/conference: null
+/0000-0001-8074-8980/work/200793921: !!python/tuple
+- Luca Olivieri
+- 'Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and
+  Challenges'
+- !!set
+  doi: null
+/0000-0001-8074-8980/work/200793922: !!python/tuple
+- Luca Olivieri
+- 'European Union Data Act and Blockchain Technology: Challenges and New Directions'
+- !!set
+  doi: null
+/0000-0001-8074-8980/work/202124501: !!python/tuple
+- Luca Olivieri
+- "An Overview of\_Termination in\_the\_Ethereum Blockchain"
+- !!set
+  journal/conference: null
 /0000-0001-9930-8854/work/133860769: !!python/tuple
 - Luca Negrini
 - Twinning automata and regular expressions for string static analysis
@@ -52,6 +68,11 @@
 /0000-0001-9930-8854/work/184065186: !!python/tuple
 - Luca Negrini
 - Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts
+- !!set
+  journal/conference: null
+/0000-0001-9930-8854/work/202122388: !!python/tuple
+- Luca Negrini
+- "An Overview of\_Termination in\_the\_Ethereum Blockchain"
 - !!set
   journal/conference: null
 /0000-0002-0946-5440/work/136165425: !!python/tuple
@@ -363,6 +384,36 @@
 - Preface
 - !!set
   doi: null
+/0000-0002-0946-5440/work/190840286: !!python/tuple
+- Agostino Cortesi
+- 'Mapping system requirements to emotional impact: a semi-automated approach'
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/193190423: !!python/tuple
+- Agostino Cortesi
+- "Introducing Pyra: A High-Level Linter for\_Data Science Software"
+- !!set
+  journal/conference: null
+/0000-0002-0946-5440/work/195645548: !!python/tuple
+- Agostino Cortesi
+- Zero-shot Learning for Named Entity Recognition in Software Specification Documents
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/197362230: !!python/tuple
+- Agostino Cortesi
+- A Dynamic Context-Aware and Role-Capability Based Access Control Mechanism for Internet
+  of Things
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/198419340: !!python/tuple
+- Agostino Cortesi
+- 'TOWARDS A SUSTAINABLE DIGITAL FUTURE: A TRANSNATIONAL STUDY ON EMBEDDING DIGITAL
+  SUSTAINABILITY IN UNIVERSITY CURRICULA'
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
@@ -712,6 +763,12 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0002-2820-7121/work/194766183: !!python/tuple
+- Gianluca Caiazza
+- 'From Legacy to Intelligent IIoT Systems: Automation, Scalability and Elasticity'
+- !!set
+  authors: null
+  journal/conference: null
 /0000-0002-2983-9251/work/167380848: !!python/tuple
 - Greta Dolcetti
 - Towards a Sound Construction of EVM Bytecode Control-Flow Graphs
@@ -768,6 +825,11 @@
 - Detection of Read-Write Issues in Hyperledger Fabric Smart Contracts
 - !!set
   journal/conference: null
+/0000-0002-4678-933X/work/202120001: !!python/tuple
+- Pietro Ferrara
+- "An Overview of\_Termination in\_the\_Ethereum Blockchain"
+- !!set
+  journal/conference: null
 /0000-0002-5150-0393/work/83026490: !!python/tuple
 - Vincenzo Arceri
 - An Abstract Domain for Objects in Dynamic Programming Languages
@@ -778,6 +840,12 @@
 - 'Analyzing Dynamic Code: A Sound Abstract Interpreter for Evil Eval'
 - !!set
   doi: null
+/0000-0002-6905-2736/work/202123343: !!python/tuple
+- "Alvise Span\xF2"
+- "Advanced Large Language Models Prompting Strategies for\_Reentrancy Classification\
+  \ and\_Explanation in\_Smart Contracts"
+- !!set
+  journal/conference: null
 /0000-0002-8818-7767/work/107963215: !!python/tuple
 - "Maikel L\xE1zaro P\xE9rez Gort"
 - Semantic-driven watermarking of relational textual databases
@@ -841,6 +909,18 @@
 - Building a Cybersecurity Knowledge Graph with CyberGraph
 - !!set
   journal/conference: null
+/0000-0003-1933-5348/work/194825539: !!python/tuple
+- Paolo Falcarin
+- Detection of Reverse Engineering Activities Before the Attack
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0003-1933-5348/work/194825541: !!python/tuple
+- Paolo Falcarin
+- Legal Requirements Compliance using NLP and Knowledge Graphs
+- !!set
+  authors: null
+  journal/conference: null
 /0009-0006-4741-0033/work/153253216: !!python/tuple
 - Giacomo Boldini
 - "A Machine Learning Approach for\_Source Code Similarity via\_Graph-Focused Features"
@@ -857,4 +937,11 @@
 - "Contextual Correlation Inference in\_Multi-fleet Robotic Systems"
 - !!set
   authors: null
+  journal/conference: null
+/0009-0008-3592-3186/work/199512319: !!python/tuple
+- Raunak Bag
+- Enhancing Non-functional Requirements Elicitation and Analysis of Robotic Systems
+- !!set
+  authors: null
+  doi: null
   journal/conference: null

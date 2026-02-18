@@ -2,9 +2,31 @@
 layout: page
 title: Publications
 ---
+## 2026
+
+Luca Negrini: _"Whole-value analysis by abstract interpretation"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1655377) [[LINK]](http://dx.doi.org/10.3389/fcomp.2025.1655377)
+
 ## 2025
 
+Souvick Das, Novarun Deb, Nabendu Chaki, Agostino Cortesi: _"A Multi-Agent RAG Framework for Regulatory Compliance Checking of Software Requirements"_, in ACM Transactions on Software Engineering and Methodology [[DOI]](https://doi.org/10.1145/3785472) [[LINK]](https://doi.org/10.1145/3785472)
+
+Luca Olivieri, Luca Negrini: _"Don’t Panic: Error Handling Patterns in Go Smart Contracts and Blockchain Software"_, in 2025 7th Conference on Blockchain Research &amp;amp; Applications for Innovative Networks and Services (BRAINS) [[DOI]](https://doi.org/10.1109/brains67003.2025.11302935) [[LINK]](http://dx.doi.org/10.1109/brains67003.2025.11302935)
+
+Maikel Lázaro Pérez Gort: _"Input parameters authentication through dynamic software watermarking"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1643075) [[LINK]](http://dx.doi.org/10.3389/fcomp.2025.1643075)
+
+Luca Olivieri: _"Detection of Cross-Channel Invocation Risks in Hyperledger Fabric"_, in 2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE) [[DOI]](https://doi.org/10.1109/issre66568.2025.00023) [[LINK]](http://dx.doi.org/10.1109/issre66568.2025.00023)
+
+Luca Olivieri, David Beste, Luca Negrini, Lea Schönherr, Antonio Emanuele Cinà, Pietro Ferrara: _"Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric"_, in 2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE) [[DOI]](https://doi.org/10.1109/issre66568.2025.00034) [[LINK]](http://dx.doi.org/10.1109/issre66568.2025.00034)
+
+Vincenzo Arceri, Saverio Mattia Merenda, Luca Negrini, Luca Olivieri, Enea Zaffanella: _"EVMLiSA: Sound Static Control-Flow Graph Construction for EVM Bytecode"_, in Blockchain: Research and Applications [[DOI]](https://doi.org/10.1016/j.bcra.2025.100384) [[LINK]](https://doi.org/10.1016/j.bcra.2025.100384)
+
+Dalila Ressi, Alvise Spanò, Lorenzo Benetollo, Michele Bugliesi, Carla Piazza, Sabina Rossi: _"Vulnerability Detection in Solidity Smart Contracts via Machine Learning: A Qualitative Analysis"_, in Blockchain: Research and Applications [[DOI]](https://doi.org/10.1016/j.bcra.2025.100390) [[LINK]](https://doi.org/10.1016/j.bcra.2025.100390)
+
+Aradhita Mukherjee, Luca Olivieri, Nabendu Chaki, Agostino Cortesi: _"Double-Spending Attacks in Cross-Blockchain Ecosystems"_, in Blockchain: Research and Applications [[DOI]](https://doi.org/10.1016/j.bcra.2025.100378) [[LINK]](https://doi.org/10.1016/j.bcra.2025.100378)
+
 Vincenzo Arceri, Luca Negrini, Luca Olivieri, Pietro Ferrara: _"Challenges of software verification"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00778-7) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00778-7)
+
+Olivieri, L., Spoto, F., Tagliaferro, F.: _"An application layer with protocol-based java smart contract verification"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1596804) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-105016473125&partnerID=MN8TOARS)
 
 Partha Ghosh, Subhashis Das, Subhankar Roy, Ankur Bhattacharjee, Agostino Cortesi, Soumya Sen: _"SentiTSMixer: A Specific Model for Sales Forecasting Using Sentiment Analysis of Customer"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2025.3570080) [[LINK]](https://doi.org/10.1109/ACCESS.2025.3570080)
 
@@ -23,6 +45,8 @@ Alvise Spanò: _"Flexible and reversible conversion between extensible records a
 Luca Olivieri, Fausto Spoto: _"Software verification challenges in the blockchain ecosystem"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00758-x) [[LINK]](https://doi.org/10.1007/s10009-024-00758-x)
 
 Luca Olivieri, Luca Negrini, Vincenzo Arceri, Thomas Jensen, Fausto Spoto: _"Design and Implementation of Static Analyses for Tezos Smart Contracts"_, in Distributed Ledger Technologies: Research and Practice [[DOI]](https://doi.org/10.1145/3643567) [[LINK]](https://dl.acm.org/doi/10.1145/3643567)
+
+Olivieri, L., Mukherjee, A., Chaki, N., Cortesi, A.: _"Blockchain Interoperability through Bridges: A Token Transfer Perspective"_, in 2024 6th International Conference on Blockchain Computing and Applications Bcca 2024 [[DOI]](https://doi.org/10.1109/BCCA62388.2024.10844425) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85218127927&partnerID=MN8TOARS)
 
 Dolcetti, G., Arceri, V., Iotti, E., Maffeis, S., Cortesi, A., Zaffanella, E.: _"Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis"_, in Arxiv [[DOI]](https://doi.org/10.48550/arXiv.2412.14841) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85213123751&partnerID=MN8TOARS)
 
