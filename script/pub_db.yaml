@@ -2737,3 +2737,14 @@
   url: http://dx.doi.org/10.3389/fcomp.2025.1655377
   venue: Frontiers in Computer Science
   workid: /0000-0001-9930-8854/work/203101877
+- !Publication
+  contribs:
+  - "Maikel L\xE1zaro P\xE9rez Gort"
+  - Agostino Cortesi
+  doi: 10.1016/j.ins.2026.123359
+  pub_date: 2026-03-01
+  title: A qualitative and quantitative comparative study of VPK schemes for relational
+    data watermarking
+  url: https://doi.org/10.1016/j.ins.2026.123359
+  venue: Information Sciences
+  workid: /0000-0002-0946-5440/work/208036157

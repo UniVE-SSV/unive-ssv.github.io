@@ -4,6 +4,8 @@ title: Publications
 ---
 ## 2026
 
+Maikel Lázaro Pérez Gort, Agostino Cortesi: _"A qualitative and quantitative comparative study of VPK schemes for relational data watermarking"_, in Information Sciences [[DOI]](https://doi.org/10.1016/j.ins.2026.123359) [[LINK]](https://doi.org/10.1016/j.ins.2026.123359)
+
 Luca Negrini: _"Whole-value analysis by abstract interpretation"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1655377) [[LINK]](http://dx.doi.org/10.3389/fcomp.2025.1655377)
 
 ## 2025
