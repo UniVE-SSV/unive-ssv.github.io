@@ -414,6 +414,12 @@
   SUSTAINABILITY IN UNIVERSITY CURRICULA'
 - !!set
   journal/conference: null
+/0000-0002-0946-5440/work/211025845: !!python/tuple
+- Agostino Cortesi
+- Earth observation data provenance protection through self-recalibrated watermarking
+- !!set
+  authors: null
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
