@@ -420,6 +420,19 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0002-0946-5440/work/211531775: !!python/tuple
+- Agostino Cortesi
+- 'Towards Image-OLAP Integration: Leveraging Deep Learning Based Facial Emotion Classification
+  for Advanced Image Data Warehousing'
+- !!set
+  authors: null
+  journal/conference: null
+/0000-0002-0946-5440/work/211531786: !!python/tuple
+- Agostino Cortesi
+- Multi-Robot system environmental constraint analysis by petri nets
+- !!set
+  authors: null
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
