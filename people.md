@@ -185,13 +185,18 @@ My expertise spans various areas within AI, including Natural Language Processin
 		<div class="div-person-table-multicol">
 			<h3>Raunak Bag</h3>
 			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
-			
+			Email: <a href="mailto:raunak.bag@unive.it">raunak.bag@unive.it</a><br/>
 			Website: <a href="https://pctechscribble.blogspot.com">https://pctechscribble.blogspot.com</a>
 		</div>
 	</div>
 </div>
-Raunak Bag completed his B.Sc. and M.Sc. in Computer Science from the University of Calcutta, India in 2019 and 2021. As part of his masters project he created an online collaboration application which brings people with ideas closer to those who can help them create, design and/or develop it under the supervision of Prof. Nabendu Chaki, University of Calcutta.
-Raunak joined Ca’ Foscari University of Venice as a PhD student in January 2022 under the supervision of Prof. Agostino Cortesi. His research focuses on requirement specification and static analysis of robotic software. His current efforts are focused towards robotic system requirements validation by simulation approach. His other research interests are computer architecture, VLSI design and high-performance computing.
+Under the supervision of Prof. Agostino Cortesi, Raunak Bag earned his PhD from Ca’ Foscari University of Venice in July 2025. His thesis specialized in enhancing the elicitation and analysis of non-functional requirements within robotic systems.
+
+Raunak earned his B.Sc. (2019) and M.Sc. (2021) in Computer Science from the University of Calcutta. Under the supervision of Prof. Nabendu Chaki, his Master’s project involved developing a collaborative platform designed to bridge the gap between project ideation and technical execution.
+
+His current research focuses on privacy and security vulnerabilities in beamforming technology from WiFi-5 (802.11ac) onward, particularly on plaintext broadcasting of Beamforming Feedback Information (BFI). The research analyzes privacy risks arising from behavioral pattern association, evaluating how exposed BFI data can be exploited to infer user behavior and compromise privacy through systematic association analysis. Contribution to the literature review for Health-AI Erasmus+ project has been made as well during this period. 
+
+Additionally, his broader research interests encompass computer architecture, VLSI Design and Semiconductor Technology, Robotic Automations in Astronomy, and high-performance computing (HPC).
 <br/><br/>
 
 <div class="div-person-table">
