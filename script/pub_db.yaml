@@ -2748,3 +2748,17 @@
   url: https://doi.org/10.1016/j.ins.2026.123359
   venue: Information Sciences
   workid: /0000-0002-0946-5440/work/208036157
+- !Publication
+  contribs:
+  - "Alvise Span\xF2"
+  - Lorenzo Benetollo
+  - Michele Bugliesi
+  - Silvia Crafa
+  - Dalila Ressi
+  - Sabina Rossi
+  doi: 10.1016/j.bcra.2026.100485
+  pub_date: 2026-04-01
+  title: 'AlgoMove: Typed Abstractions for Algorand Smart Contracts'
+  url: https://doi.org/10.1016/j.bcra.2026.100485
+  venue: 'Blockchain: Research and Applications'
+  workid: /0000-0002-6905-2736/work/211844097

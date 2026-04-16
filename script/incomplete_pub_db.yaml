@@ -34,6 +34,11 @@
 - "An Overview of\_Termination in\_the\_Ethereum Blockchain"
 - !!set
   journal/conference: null
+/0000-0001-8074-8980/work/211785663: !!python/tuple
+- Luca Olivieri
+- 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
+- !!set
+  journal/conference: null
 /0000-0001-9930-8854/work/133860769: !!python/tuple
 - Luca Negrini
 - Twinning automata and regular expressions for string static analysis
@@ -73,6 +78,11 @@
 /0000-0001-9930-8854/work/202122388: !!python/tuple
 - Luca Negrini
 - "An Overview of\_Termination in\_the\_Ethereum Blockchain"
+- !!set
+  journal/conference: null
+/0000-0001-9930-8854/work/211799186: !!python/tuple
+- Luca Negrini
+- 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
 - !!set
   journal/conference: null
 /0000-0002-0946-5440/work/136165425: !!python/tuple
@@ -849,6 +859,11 @@
 - "An Overview of\_Termination in\_the\_Ethereum Blockchain"
 - !!set
   journal/conference: null
+/0000-0002-4678-933X/work/211797666: !!python/tuple
+- Pietro Ferrara
+- 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
+- !!set
+  journal/conference: null
 /0000-0002-5150-0393/work/83026490: !!python/tuple
 - Vincenzo Arceri
 - An Abstract Domain for Objects in Dynamic Programming Languages
@@ -939,6 +954,11 @@
 - Legal Requirements Compliance using NLP and Knowledge Graphs
 - !!set
   authors: null
+  journal/conference: null
+/0009-0005-6644-1049/work/211795966: !!python/tuple
+- Teodors Lisovenko
+- 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
+- !!set
   journal/conference: null
 /0009-0006-4741-0033/work/153253216: !!python/tuple
 - Giacomo Boldini
