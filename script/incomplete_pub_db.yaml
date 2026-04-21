@@ -443,6 +443,13 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0002-0946-5440/work/212246968: !!python/tuple
+- Agostino Cortesi
+- 'Intelligent Systems: Emerging Trends and Challenges in Deep Neuro-Fuzzy Models
+  and Explainable Artificial Intelligence'
+- !!set
+  authors: null
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
