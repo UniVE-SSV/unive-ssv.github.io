@@ -4,6 +4,8 @@ title: Publications
 ---
 ## 2026
 
+Soumik Das, Punyasha Chatterjee, Agostino Cortesi: _"A Recommendation System for Requirements Tuning of BVLoS Drones"_, in Expert Systems with Applications [[DOI]](https://doi.org/10.1016/j.eswa.2026.132506) [[LINK]](https://doi.org/10.1016/j.eswa.2026.132506)
+
 Alvise Spanò, Lorenzo Benetollo, Michele Bugliesi, Silvia Crafa, Dalila Ressi, Sabina Rossi: _"AlgoMove: Typed Abstractions for Algorand Smart Contracts"_, in Blockchain: Research and Applications [[DOI]](https://doi.org/10.1016/j.bcra.2026.100485) [[LINK]](https://doi.org/10.1016/j.bcra.2026.100485)
 
 Maikel Lázaro Pérez Gort, Agostino Cortesi: _"A qualitative and quantitative comparative study of VPK schemes for relational data watermarking"_, in Information Sciences [[DOI]](https://doi.org/10.1016/j.ins.2026.123359) [[LINK]](https://doi.org/10.1016/j.ins.2026.123359)

@@ -2762,3 +2762,14 @@
   url: https://doi.org/10.1016/j.bcra.2026.100485
   venue: 'Blockchain: Research and Applications'
   workid: /0000-0002-6905-2736/work/211844097
+- !Publication
+  contribs:
+  - Soumik Das
+  - Punyasha Chatterjee
+  - Agostino Cortesi
+  doi: 10.1016/j.eswa.2026.132506
+  pub_date: 2026-04-01
+  title: A Recommendation System for Requirements Tuning of BVLoS Drones
+  url: https://doi.org/10.1016/j.eswa.2026.132506
+  venue: Expert Systems with Applications
+  workid: /0000-0002-0946-5440/work/212580261
