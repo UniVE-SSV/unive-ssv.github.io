@@ -450,6 +450,14 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0002-0946-5440/work/212710074: !!python/tuple
+- Agostino Cortesi
+- 'The Double Spending Dilemma: From Traditional Cash Systems to Interoperable Blockchain
+  Systems'
+- !!set
+  authors: null
+  doi: null
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
