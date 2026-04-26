@@ -458,6 +458,12 @@
   authors: null
   doi: null
   journal/conference: null
+/0000-0002-0946-5440/work/212839499: !!python/tuple
+- Agostino Cortesi
+- Helping LLMs improve code generation using feedback from testing and static analysis
+- !!set
+  authors: null
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
