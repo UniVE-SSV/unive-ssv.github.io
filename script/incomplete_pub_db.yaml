@@ -976,6 +976,11 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0003-1933-5348/work/213914277: !!python/tuple
+- Paolo Falcarin
+- "Security Management of\_Threats with\_CyberGraph"
+- !!set
+  journal/conference: null
 /0009-0005-6644-1049/work/211795966: !!python/tuple
 - Teodors Lisovenko
 - 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
