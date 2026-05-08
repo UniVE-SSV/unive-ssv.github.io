@@ -981,6 +981,11 @@
 - "Security Management of\_Threats with\_CyberGraph"
 - !!set
   journal/conference: null
+/0009-0003-4022-9766/work/213938451: !!python/tuple
+- Purbasha Chowdhury
+- "Security Management of\_Threats with\_CyberGraph"
+- !!set
+  journal/conference: null
 /0009-0005-6644-1049/work/211795966: !!python/tuple
 - Teodors Lisovenko
 - 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
