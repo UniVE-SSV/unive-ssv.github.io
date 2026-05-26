@@ -232,9 +232,11 @@ Before starting my PhD, I accumulated 8 years of experience as a Lecturer in Com
 		</div>
 	</div>
 </div>
-Greta Dolcetti obtained a Bachelor’s Degree (September 2021) and a Master’s Degree (July 2023) in Computer Science, both issued by the University of Parma. She started working in the static analysis by abstract interpretation field during her Master’s thesis  “Abstract Compilation Techniques for Static Analysis”, under the supervision of Professors Arceri and Zaffanella, where she implemented two abstract compilation techniques concerning the accuracy/efficiency trade-off.
-Greta is now a Ph.D. student at Ca’ Foscari University of Venice, where her research interests are static analysis, abstract interpretation, and, more in general, formal methods for program verification with a major focus on data science and artificial intelligence.
-During her Master’s degree, she collaborated with the Department of Food and Drugs at the University of Parma on a research project involving constraint programming and molecular modeling methods to predict possible protein mutations of the SARS-CoV-2 virus.
+I obtained my Bachelor's Degree in Computer Science in September 2021 and my Master's Degree in July 2023, both from the University of Parma. During my Master's thesis, titled "Abstract Compilation Techniques for Static Analysis", I began working in the field of static analysis by abstract interpretation. Under the supervision of Professors Arceri and Zaffanella, I implemented two abstract compilation techniques focusing on the accuracy/efficiency trade-off. During my Master's degree, I also collaborated with the Department of Food and Drugs at the University of Parma on a research project that involved using constraint programming and molecular modeling methods to predict possible protein mutations of the SARS-CoV-2 virus.
+
+I am currently a Ph.D. student at Ca’ Foscari University of Venice, where my research interests include static analysis, abstract interpretation, and, more broadly, formal methods for program verification with a major focus on data science and artificial intelligence.
+
+During my Ph.D. studies, I have further enriched my research experience through international research internships. In particular, I carried out a research internship at the École Normale Supérieure (Paris, France), where I worked on topics related to static analysis by abstract interpretation of data science and machine learning software, and a second research internship at IBM Research Dublin, focusing on the security of Generative AI (blue-teaming and guardrails).
 <br/><br/>
 
 <div class="div-person-table">

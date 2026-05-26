@@ -464,6 +464,13 @@
 - !!set
   authors: null
   journal/conference: null
+/0000-0002-0946-5440/work/215716755: !!python/tuple
+- Agostino Cortesi
+- On the Verification of ML Systems and Models
+- !!set
+  authors: null
+  doi: null
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
