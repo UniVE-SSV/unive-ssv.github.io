@@ -111,7 +111,7 @@ His research interests are relational databases theory, information security and
 		</div>
 		<div class="div-person-table-multicol">
 			<h3>Gianluca Caiazza</h3>
-			<h5>Assistant Professor @ Ca' Foscari University Of Venice</h5>
+			<h5>Tenure-Track Assistant Professor @ University Of Southern Denmark</h5>
 			
 			
 		</div>
