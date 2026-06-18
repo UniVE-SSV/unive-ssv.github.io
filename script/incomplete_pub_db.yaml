@@ -471,6 +471,12 @@
   authors: null
   doi: null
   journal/conference: null
+/0000-0002-0946-5440/work/218009225: !!python/tuple
+- Agostino Cortesi
+- Enhancing Requirements Change Risk Assessment through LLM-assisted and Rule-based
+  Analysis
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
