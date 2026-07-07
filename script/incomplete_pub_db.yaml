@@ -477,6 +477,11 @@
   Analysis
 - !!set
   journal/conference: null
+/0000-0002-0946-5440/work/219829270: !!python/tuple
+- Agostino Cortesi
+- Towards a Taxonomy of Sustainability Requirements for Software Design
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
