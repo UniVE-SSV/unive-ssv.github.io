@@ -4,6 +4,8 @@ title: Publications
 ---
 ## 2026
 
+Mandira Roy, Novarun Deb, Nabendu Chaki, Agostino Cortesi: _"SEER: S ustainability E nhanced E ngineering of S oftware R equirements"_, in ACM Transactions on Software Engineering and Methodology [[DOI]](https://doi.org/10.1145/3830904) [[LINK]](https://doi.org/10.1145/3830904)
+
 Soumik Das, Punyasha Chatterjee, Agostino Cortesi: _"A Recommendation System for Requirements Tuning of BVLoS Drones"_, in Expert Systems with Applications [[DOI]](https://doi.org/10.1016/j.eswa.2026.132506) [[LINK]](https://doi.org/10.1016/j.eswa.2026.132506)
 
 Alvise Spanò, Lorenzo Benetollo, Michele Bugliesi, Silvia Crafa, Dalila Ressi, Sabina Rossi: _"AlgoMove: Typed Abstractions for Algorand Smart Contracts"_, in Blockchain: Research and Applications [[DOI]](https://doi.org/10.1016/j.bcra.2026.100485) [[LINK]](https://doi.org/10.1016/j.bcra.2026.100485)
