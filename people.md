@@ -132,13 +132,13 @@ His research aims to explore the trade-off between security and usability for In
 		</div>
 		<div class="div-person-table-multicol">
 			<h3>Luca Negrini</h3>
-			<h5>Assistant Professor (Non-Tenure) @ Università Ca' Foscari Venezia</h5>
+			<h5>Researcher @ Ca' Foscari University Of Venice</h5>
 			Email: <a href="mailto:luca.negrini@unive.it">luca.negrini@unive.it</a><br/>
 			Website: <a href="https://lucaneg.github.io">https://lucaneg.github.io</a>
 		</div>
 	</div>
 </div>
-I got a Bachelor’s and Master’s degrees at the University of Verona, followed by a five years industrial experience on development and applications of Static Analysis and Abstract Interpretation with the Julia static analyzer. I got my PhD in Computer Science in January 2023 at the Ca’ Foscari University of Venice, focusing on Multi-language Static Analysis. I then joined Ca' Foscari as a research fellow, and I am currently an Assistant Professor (non-tenure) there.
+I got a Bachelor’s and Master’s degrees at the University of Verona, followed by a five years industrial experience on development and applications of Static Analysis and Abstract Interpretation with the Julia static analyzer. I got my PhD in Computer Science in January 2023 at the Ca’ Foscari University of Venice, focusing on Multi-language Static Analysis. I then joined Ca’ Foscari first as a research fellow, then as an Assistant Professor (non-tenure), and I am now a researcher there.
 <br/><br/>
 
 <div class="div-person-table">
