@@ -482,6 +482,17 @@
 - Towards a Taxonomy of Sustainability Requirements for Software Design
 - !!set
   journal/conference: null
+/0000-0002-0946-5440/work/223880646: !!python/tuple
+- Agostino Cortesi
+- A Double Fragmentation Approach for Improving Virtual Primary Key-Based Watermark
+  Synchronization
+- !!set
+  journal/conference: null
+/0000-0002-0946-5440/work/223880649: !!python/tuple
+- Agostino Cortesi
+- A Quantile-Based Watermarking Approach for Distortion Minimization
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/22489407: !!python/tuple
 - Agostino Cortesi
 - Preface
@@ -940,6 +951,17 @@
 - "A Quantile-Based Watermarking Approach for\_Distortion Minimization"
 - !!set
   authors: null
+/0000-0002-8818-7767/work/223885546: !!python/tuple
+- "Maikel L\xE1zaro P\xE9rez Gort"
+- A Double Fragmentation Approach for Improving Virtual Primary Key-Based Watermark
+  Synchronization
+- !!set
+  journal/conference: null
+/0000-0002-8818-7767/work/223885548: !!python/tuple
+- "Maikel L\xE1zaro P\xE9rez Gort"
+- A Quantile-Based Watermarking Approach for Distortion Minimization
+- !!set
+  journal/conference: null
 /0000-0003-1933-5348/work/103462241: !!python/tuple
 - Paolo Falcarin
 - Understanding the behaviour of hackers while performing attack tasks in a professional
