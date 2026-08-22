@@ -296,17 +296,15 @@ Purbasha Chowdhury is currently pursuing her PhD in the Department of Computer S
 			<h3>Teodors Lisovenko</h3>
 			<h5>Phd Student @ Università Ca' Foscari Venezia</h5>
 			Email: <a href="mailto:teodors.lisovenko@unive.it">teodors.lisovenko@unive.it</a><br/>
-			
+			Website: <a href="https://teodors.lisovenko.com">https://teodors.lisovenko.com</a>
 		</div>
 	</div>
 </div>
-Teodors is pursuing a PhD in CS at Università Ca’ Foscari Venezia after completing a professional B.Sc. (2021) and an M.Sc. (2023) in IT from Latvia University of Life Sciences and Technologies. Teodors has gained diverse experience across various domains, including .NET web development in Geographic Information Systems at Latvian State Forests, JavaScript backend development in the FinTech industry, and Java full-stack development in distributed systems integrated with Temenos Transact banking systems.
+I am a PhD student in Computer Science at Ca’ Foscari University of Venice, in Italy, now in my third year, supervised by Prof. Pietro Ferrara. I am a member of the Software and System Verification group there, where my research is focused on static analysis and its applications.
 
-His academic efforts are equally varied. His bachelor’s thesis explored using OGC standards as an alternative to ArcGIS REST API for serving georeferenced data, while his master’s thesis delved into privacy identification in web browsing through device memory analysis.
+My particular focus is the theory of abstract interpretation. My aim is to recover the architecture — the bigger picture — of software systems, and of microservice systems in particular. Such systems are hard to reason about: each microservice is independent, self-contained, and may be written in its own language with its own set of dependencies. This heterogeneous, scattered setting — where the system is fragmented into many isolated units of code (recovering it is like reassembling a mosaic with missing pieces) — remains a challenge for static analysis tools. My PhD aims to do some groundwork in this direction; concretely, I currently focus on the most widespread case: microservices built on Spring Boot (a Java web framework) that intercommunicate over HTTP in the style of a REST API.
 
-Teodors also completed five Erasmus study mobilities across Southern Europe, attending institutions such as The Malta College of Arts, Science & Technology, Universidad de Málaga, and Università di Bari Aldo Moro, where he also did an internship specializing in machine learning and visualization. His most recent stop was an internship at Università Ca’ Foscari, where he was introduced to static analysis, which he now sees how to apply on the web in a distributed context, particularly in microservices.
-
-Throughout his academic and professional journey, Teodor’s core interests have remained focused on APIs, web technologies, and distributed systems.
+What interests me most is the ability to think and act when the world is abundant with detail, too much detail. Hence the follow-up — what to reduce and what to abstract away to gain this ability. Real software is much the same: concrete, sprawling, often millions of lines long. How can one navigate it, hold it in one’s mind, and still reach holistic conclusions — capturing some of its system-wide properties?
 <br/><br/>
 
 <div class="div-person-table">
