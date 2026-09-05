@@ -4,6 +4,8 @@ title: Publications
 ---
 ## 2026
 
+Gianluca Caiazza, Davide Taibi, Davide Taibi: _"The New Generation of Code Translation Tools: Large Language Model–Based Versus Rule-Based Transpilers"_, in IEEE Software [[DOI]](https://doi.org/10.1109/MS.2026.3703115) [[LINK]](https://doi.org/10.1109/MS.2026.3703115)
+
 Mandira Roy, Novarun Deb, Nabendu Chaki, Agostino Cortesi: _"SEER: S ustainability E nhanced E ngineering of S oftware R equirements"_, in ACM Transactions on Software Engineering and Methodology [[DOI]](https://doi.org/10.1145/3830904) [[LINK]](https://doi.org/10.1145/3830904)
 
 Soumik Das, Punyasha Chatterjee, Agostino Cortesi: _"A Recommendation System for Requirements Tuning of BVLoS Drones"_, in Expert Systems with Applications [[DOI]](https://doi.org/10.1016/j.eswa.2026.132506) [[LINK]](https://doi.org/10.1016/j.eswa.2026.132506)

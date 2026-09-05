@@ -2785,3 +2785,15 @@
   url: https://doi.org/10.1145/3830904
   venue: ACM Transactions on Software Engineering and Methodology
   workid: /0000-0002-0946-5440/work/221093091
+- !Publication
+  contribs:
+  - Gianluca Caiazza
+  - Davide Taibi
+  - Davide Taibi
+  doi: 10.1109/MS.2026.3703115
+  pub_date: 2026-09-01
+  title: "The New Generation of Code Translation Tools: Large Language Model\u2013\
+    Based Versus Rule-Based Transpilers"
+  url: https://doi.org/10.1109/MS.2026.3703115
+  venue: IEEE Software
+  workid: /0000-0002-2820-7121/work/225822200
