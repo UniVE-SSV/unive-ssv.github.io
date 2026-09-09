@@ -16,6 +16,8 @@ Maikel Lázaro Pérez Gort, Agostino Cortesi: _"A qualitative and quantitative c
 
 Luca Negrini: _"Whole-value analysis by abstract interpretation"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1655377) [[LINK]](http://dx.doi.org/10.3389/fcomp.2025.1655377)
 
+Badaruddin Chachar, Joao F. Ferreira, Marc Cavazza, Pietro Ferrara, Agostino Cortesi: _"Benchmarking Prompt Engineering Against Fine-Tuning for Multi-Label Vulnerability Detection in Solidity Smart Contracts: An Empirical Study"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2026.3731743) [[LINK]](https://doi.org/10.1109/ACCESS.2026.3731743)
+
 ## 2025
 
 Souvick Das, Novarun Deb, Nabendu Chaki, Agostino Cortesi: _"A Multi-Agent RAG Framework for Regulatory Compliance Checking of Software Requirements"_, in ACM Transactions on Software Engineering and Methodology [[DOI]](https://doi.org/10.1145/3785472) [[LINK]](https://doi.org/10.1145/3785472)

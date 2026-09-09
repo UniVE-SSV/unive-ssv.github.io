@@ -2730,6 +2730,20 @@
   workid: /0000-0002-0946-5440/work/200505038
 - !Publication
   contribs:
+  - Badaruddin Chachar
+  - Joao F. Ferreira
+  - Marc Cavazza
+  - Pietro Ferrara
+  - Agostino Cortesi
+  doi: 10.1109/ACCESS.2026.3731743
+  pub_date: 2026-01-01
+  title: 'Benchmarking Prompt Engineering Against Fine-Tuning for Multi-Label Vulnerability
+    Detection in Solidity Smart Contracts: An Empirical Study'
+  url: https://doi.org/10.1109/ACCESS.2026.3731743
+  venue: IEEE Access
+  workid: /0000-0002-0946-5440/work/226138119
+- !Publication
+  contribs:
   - Luca Negrini
   doi: 10.3389/fcomp.2025.1655377
   pub_date: 2026-01-20
