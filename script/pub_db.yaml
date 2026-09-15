@@ -2744,6 +2744,19 @@
   workid: /0000-0002-0946-5440/work/226138119
 - !Publication
   contribs:
+  - Luca Olivieri
+  - Luca Pasetto
+  - Luca Negrini
+  - Pietro Ferrara
+  doi: 10.1007/978-3-032-12335-0_14
+  pub_date: 2026-01-01
+  title: "An Overview of\_Termination in\_the\_Ethereum Blockchain"
+  url: http://dx.doi.org/10.1007/978-3-032-12335-0_14
+  venue: Lecture Notes of the Institute for Computer Sciences, Social Informatics
+    and Telecommunications Engineering
+  workid: /0000-0001-9930-8854/work/226622024
+- !Publication
+  contribs:
   - Luca Negrini
   doi: 10.3389/fcomp.2025.1655377
   pub_date: 2026-01-20
@@ -2789,6 +2802,18 @@
   workid: /0000-0002-0946-5440/work/212580261
 - !Publication
   contribs:
+  - Luca Olivieri
+  - Vincenzo Arceri
+  - Luca Negrini
+  - Gianluca Caiazza
+  doi: 10.1007/s10009-026-00865-x
+  pub_date: 2026-06-01
+  title: "Challenges of Software Verification (CSV\u201925)"
+  url: http://dx.doi.org/10.1007/s10009-026-00865-x
+  venue: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0001-9930-8854/work/226621999
+- !Publication
+  contribs:
   - Mandira Roy
   - Novarun Deb
   - Nabendu Chaki
@@ -2811,3 +2836,13 @@
   url: https://doi.org/10.1109/MS.2026.3703115
   venue: IEEE Software
   workid: /0000-0002-2820-7121/work/225822200
+- !Publication
+  contribs:
+  - Kihong Heo
+  - Luca Negrini
+  doi: 10.1007/s10009-026-00867-9
+  pub_date: 2026-09-01
+  title: State of the art in program analysis
+  url: http://dx.doi.org/10.1007/s10009-026-00867-9
+  venue: International Journal on Software Tools for Technology Transfer
+  workid: /0000-0001-9930-8854/work/226621903

@@ -4,9 +4,13 @@ title: Publications
 ---
 ## 2026
 
+Kihong Heo, Luca Negrini: _"State of the art in program analysis"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-026-00867-9) [[LINK]](http://dx.doi.org/10.1007/s10009-026-00867-9)
+
 Gianluca Caiazza, Davide Taibi, Davide Taibi: _"The New Generation of Code Translation Tools: Large Language Model–Based Versus Rule-Based Transpilers"_, in IEEE Software [[DOI]](https://doi.org/10.1109/MS.2026.3703115) [[LINK]](https://doi.org/10.1109/MS.2026.3703115)
 
 Mandira Roy, Novarun Deb, Nabendu Chaki, Agostino Cortesi: _"SEER: S ustainability E nhanced E ngineering of S oftware R equirements"_, in ACM Transactions on Software Engineering and Methodology [[DOI]](https://doi.org/10.1145/3830904) [[LINK]](https://doi.org/10.1145/3830904)
+
+Luca Olivieri, Vincenzo Arceri, Luca Negrini, Gianluca Caiazza: _"Challenges of Software Verification (CSV’25)"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-026-00865-x) [[LINK]](http://dx.doi.org/10.1007/s10009-026-00865-x)
 
 Soumik Das, Punyasha Chatterjee, Agostino Cortesi: _"A Recommendation System for Requirements Tuning of BVLoS Drones"_, in Expert Systems with Applications [[DOI]](https://doi.org/10.1016/j.eswa.2026.132506) [[LINK]](https://doi.org/10.1016/j.eswa.2026.132506)
 
@@ -15,6 +19,8 @@ Alvise Spanò, Lorenzo Benetollo, Michele Bugliesi, Silvia Crafa, Dalila Ressi, 
 Maikel Lázaro Pérez Gort, Agostino Cortesi: _"A qualitative and quantitative comparative study of VPK schemes for relational data watermarking"_, in Information Sciences [[DOI]](https://doi.org/10.1016/j.ins.2026.123359) [[LINK]](https://doi.org/10.1016/j.ins.2026.123359)
 
 Luca Negrini: _"Whole-value analysis by abstract interpretation"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1655377) [[LINK]](http://dx.doi.org/10.3389/fcomp.2025.1655377)
+
+Luca Olivieri, Luca Pasetto, Luca Negrini, Pietro Ferrara: _"An Overview of Termination in the Ethereum Blockchain"_, in Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering [[DOI]](https://doi.org/10.1007/978-3-032-12335-0_14) [[LINK]](http://dx.doi.org/10.1007/978-3-032-12335-0_14)
 
 Badaruddin Chachar, Joao F. Ferreira, Marc Cavazza, Pietro Ferrara, Agostino Cortesi: _"Benchmarking Prompt Engineering Against Fine-Tuning for Multi-Label Vulnerability Detection in Solidity Smart Contracts: An Empirical Study"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2026.3731743) [[LINK]](https://doi.org/10.1109/ACCESS.2026.3731743)
 
