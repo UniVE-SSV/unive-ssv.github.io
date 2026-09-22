@@ -1037,6 +1037,27 @@
 - "Security Management of\_Threats with\_CyberGraph"
 - !!set
   journal/conference: null
+/0000-0003-1933-5348/work/227392696: !!python/tuple
+- Paolo Falcarin
+- The Ghidra Metrics Toolkit for obfuscated native code
+- !!set
+  authors: null
+  doi: null
+  journal/conference: null
+/0000-0003-1933-5348/work/227392727: !!python/tuple
+- Paolo Falcarin
+- Topic Modelling on the European AI Act
+- !!set
+  authors: null
+  doi: null
+  journal/conference: null
+/0000-0003-1933-5348/work/227392728: !!python/tuple
+- Paolo Falcarin
+- Retrieval-Augmented Question Answering using the EU AI Act
+- !!set
+  authors: null
+  doi: null
+  journal/conference: null
 /0009-0003-4022-9766/work/213938451: !!python/tuple
 - Purbasha Chowdhury
 - "Security Management of\_Threats with\_CyberGraph"
