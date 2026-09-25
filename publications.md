@@ -4,6 +4,8 @@ title: Publications
 ---
 ## 2026
 
+Maitri Kushwaha, Raju Halder, Agostino Cortesi: _"A Sound Semantics Approximation of Solidity for Enhanced Vulnerability Detection"_, in Distributed Ledger Technologies: Research and Practice [[DOI]](https://doi.org/10.1145/3849490) [[LINK]](https://doi.org/10.1145/3849490)
+
 Kihong Heo, Luca Negrini: _"State of the art in program analysis"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-026-00867-9) [[LINK]](http://dx.doi.org/10.1007/s10009-026-00867-9)
 
 Gianluca Caiazza, Davide Taibi, Davide Taibi: _"The New Generation of Code Translation Tools: Large Language Model–Based Versus Rule-Based Transpilers"_, in IEEE Software [[DOI]](https://doi.org/10.1109/MS.2026.3703115) [[LINK]](https://doi.org/10.1109/MS.2026.3703115)
