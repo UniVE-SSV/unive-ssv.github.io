@@ -518,6 +518,11 @@
 - Advanced computing and systems for security
 - !!set
   doi: null
+/0000-0002-0946-5440/work/228543562: !!python/tuple
+- Agostino Cortesi
+- 'Quantum Computing and Static Analysis: State of the Art and Research Opportunities'
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/26497607: !!python/tuple
 - Agostino Cortesi
 - Preface
