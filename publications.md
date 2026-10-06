@@ -22,6 +22,8 @@ Maikel Lázaro Pérez Gort, Agostino Cortesi: _"A qualitative and quantitative c
 
 Luca Negrini: _"Whole-value analysis by abstract interpretation"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1655377) [[LINK]](http://dx.doi.org/10.3389/fcomp.2025.1655377)
 
+Arceri, V., Chaki, N., Cortesi, A., Deb, N.: _"Editorial: Software specification and verification: models and tools"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2026.1845840) [[LINK]](https://www.scopus.com/inward/record.url?eid=2-s2.0-105046457913&partnerID=MN8TOARS)
+
 Luca Olivieri, Luca Pasetto, Luca Negrini, Pietro Ferrara: _"An Overview of Termination in the Ethereum Blockchain"_, in Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering [[DOI]](https://doi.org/10.1007/978-3-032-12335-0_14) [[LINK]](http://dx.doi.org/10.1007/978-3-032-12335-0_14)
 
 Badaruddin Chachar, Joao F. Ferreira, Marc Cavazza, Pietro Ferrara, Agostino Cortesi: _"Benchmarking Prompt Engineering Against Fine-Tuning for Multi-Label Vulnerability Detection in Solidity Smart Contracts: An Empirical Study"_, in IEEE Access [[DOI]](https://doi.org/10.1109/ACCESS.2026.3731743) [[LINK]](https://doi.org/10.1109/ACCESS.2026.3731743)
@@ -45,6 +47,18 @@ Dalila Ressi, Alvise Spanò, Lorenzo Benetollo, Michele Bugliesi, Carla Piazza, 
 Aradhita Mukherjee, Luca Olivieri, Nabendu Chaki, Agostino Cortesi: _"Double-Spending Attacks in Cross-Blockchain Ecosystems"_, in Blockchain: Research and Applications [[DOI]](https://doi.org/10.1016/j.bcra.2025.100378) [[LINK]](https://doi.org/10.1016/j.bcra.2025.100378)
 
 Vincenzo Arceri, Luca Negrini, Luca Olivieri, Pietro Ferrara: _"Challenges of software verification"_, in International Journal on Software Tools for Technology Transfer [[DOI]](https://doi.org/10.1007/s10009-024-00778-7) [[LINK]](http://dx.doi.org/10.1007/s10009-024-00778-7)
+
+Roy, M., Deb, N., Chaki, N., Cortesi, A.: _"Towards a Taxonomy of Sustainability Requirements for Software Design"_, in Arxiv [[DOI]](https://doi.org/10.48550/arXiv.2510.08990) [[LINK]](https://www.scopus.com/inward/record.url?eid=2-s2.0-105019716703&partnerID=MN8TOARS)
+
+Roy, M., Deb, N., Chaki, N., Cortesi, A.: _"SEER: Sustainability Enhanced Engineering of Software Requirements"_, in Arxiv [[DOI]](https://doi.org/10.48550/arXiv.2510.08981) [[LINK]](https://www.scopus.com/inward/record.url?eid=2-s2.0-105020778481&partnerID=MN8TOARS)
+
+Roy, M., Deb, N., Cortesi, A., Chaki, N.: _"Mapping System Requirements to Emotional Impact: A Semi-Automated approach"_, in Research Square [[DOI]](https://doi.org/10.21203/rs.3.rs-6578643/v1) [[LINK]](https://www.scopus.com/inward/record.url?eid=2-s2.0-105008463377&partnerID=MN8TOARS)
+
+Bag, R., Chaki, N., Cortesi, A.: _"Contextual Correlation Inference in Multi-fleet Robotic Systems"_, in Lecture Notes in Networks and Systems [[DOI]](https://doi.org/10.1007/978-981-97-9762-2_17) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-86000713107&partnerID=MN8TOARS)
+
+Das, S., Chatterjee, P., Cortesi, A.: _"A Recommendation System for Requirements Tuning of BVLoS Drones"_, in Ssrn [[DOI]](https://doi.org/10.2139/ssrn.5760732) [[LINK]](https://www.scopus.com/inward/record.url?eid=2-s2.0-105024118043&partnerID=MN8TOARS)
+
+Pérez Gort, M.L., Cortesi, A.: _"A Qualitative and Quantitative Comparative Study of VPK Schemes for Relational Data Watermarking"_, in Ssrn [[DOI]](https://doi.org/10.2139/ssrn.5818017) [[LINK]](https://www.scopus.com/inward/record.url?eid=2-s2.0-105024435443&partnerID=MN8TOARS)
 
 Olivieri, L., Spoto, F., Tagliaferro, F.: _"An application layer with protocol-based java smart contract verification"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1596804) [[LINK]](http://www.scopus.com/inward/record.url?eid=2-s2.0-105016473125&partnerID=MN8TOARS)
 

@@ -2618,6 +2618,75 @@
   workid: /0000-0001-8074-8980/work/200793931
 - !Publication
   contribs:
+  - "P\xE9rez Gort, M.L."
+  - Cortesi, A.
+  doi: 10.2139/ssrn.5818017
+  pub_date: 2025-01-01
+  title: A Qualitative and Quantitative Comparative Study of VPK Schemes for Relational
+    Data Watermarking
+  url: https://www.scopus.com/inward/record.url?eid=2-s2.0-105024435443&partnerID=MN8TOARS
+  venue: Ssrn
+  workid: /0000-0002-0946-5440/work/228766198
+- !Publication
+  contribs:
+  - Das, S.
+  - Chatterjee, P.
+  - Cortesi, A.
+  doi: 10.2139/ssrn.5760732
+  pub_date: 2025-01-01
+  title: A Recommendation System for Requirements Tuning of BVLoS Drones
+  url: https://www.scopus.com/inward/record.url?eid=2-s2.0-105024118043&partnerID=MN8TOARS
+  venue: Ssrn
+  workid: /0000-0002-0946-5440/work/228766199
+- !Publication
+  contribs:
+  - Bag, R.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.1007/978-981-97-9762-2_17
+  pub_date: 2025-01-01
+  title: "Contextual Correlation Inference in\_Multi-fleet Robotic Systems"
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-86000713107&partnerID=MN8TOARS
+  venue: Lecture Notes in Networks and Systems
+  workid: /0000-0002-0946-5440/work/186571687
+- !Publication
+  contribs:
+  - Roy, M.
+  - Deb, N.
+  - Cortesi, A.
+  - Chaki, N.
+  doi: 10.21203/rs.3.rs-6578643/v1
+  pub_date: 2025-01-01
+  title: 'Mapping System Requirements to Emotional Impact: A Semi-Automated approach'
+  url: https://www.scopus.com/inward/record.url?eid=2-s2.0-105008463377&partnerID=MN8TOARS
+  venue: Research Square
+  workid: /0000-0002-0946-5440/work/228766203
+- !Publication
+  contribs:
+  - Roy, M.
+  - Deb, N.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.48550/arXiv.2510.08981
+  pub_date: 2025-01-01
+  title: 'SEER: Sustainability Enhanced Engineering of Software Requirements'
+  url: https://www.scopus.com/inward/record.url?eid=2-s2.0-105020778481&partnerID=MN8TOARS
+  venue: Arxiv
+  workid: /0000-0002-0946-5440/work/228766212
+- !Publication
+  contribs:
+  - Roy, M.
+  - Deb, N.
+  - Chaki, N.
+  - Cortesi, A.
+  doi: 10.48550/arXiv.2510.08990
+  pub_date: 2025-01-01
+  title: Towards a Taxonomy of Sustainability Requirements for Software Design
+  url: https://www.scopus.com/inward/record.url?eid=2-s2.0-105019716703&partnerID=MN8TOARS
+  venue: Arxiv
+  workid: /0000-0002-0946-5440/work/228766200
+- !Publication
+  contribs:
   - Vincenzo Arceri
   - Luca Negrini
   - Luca Olivieri
@@ -2755,6 +2824,18 @@
   venue: Lecture Notes of the Institute for Computer Sciences, Social Informatics
     and Telecommunications Engineering
   workid: /0000-0001-9930-8854/work/226622024
+- !Publication
+  contribs:
+  - Arceri, V.
+  - Chaki, N.
+  - Cortesi, A.
+  - Deb, N.
+  doi: 10.3389/fcomp.2026.1845840
+  pub_date: 2026-01-01
+  title: 'Editorial: Software specification and verification: models and tools'
+  url: https://www.scopus.com/inward/record.url?eid=2-s2.0-105046457913&partnerID=MN8TOARS
+  venue: Frontiers in Computer Science
+  workid: /0000-0002-0946-5440/work/228766207
 - !Publication
   contribs:
   - Luca Negrini
