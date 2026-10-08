@@ -39,6 +39,12 @@
 - 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
 - !!set
   journal/conference: null
+/0000-0001-8074-8980/work/229079831: !!python/tuple
+- Luca Olivieri
+- 'GoLiSA: An Advanced Static Analysis Tool for Detecting Potential Risks and Vulnerabilities
+  in Hyperledger Fabric Smart Contracts'
+- !!set
+  journal/conference: null
 /0000-0001-9930-8854/work/133860769: !!python/tuple
 - Luca Negrini
 - Twinning automata and regular expressions for string static analysis
@@ -83,6 +89,12 @@
 /0000-0001-9930-8854/work/211799186: !!python/tuple
 - Luca Negrini
 - 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
+- !!set
+  journal/conference: null
+/0000-0001-9930-8854/work/229088412: !!python/tuple
+- Luca Negrini
+- 'GoLiSA: An Advanced Static Analysis Tool for Detecting Potential Risks and Vulnerabilities
+  in Hyperledger Fabric Smart Contracts'
 - !!set
   journal/conference: null
 /0000-0002-0946-5440/work/136165425: !!python/tuple
@@ -544,6 +556,12 @@
 - Preface
 - !!set
   doi: null
+/0000-0002-0946-5440/work/229084773: !!python/tuple
+- Agostino Cortesi
+- 'GoLiSA: An Advanced Static Analysis Tool for Detecting Potential Risks and Vulnerabilities
+  in Hyperledger Fabric Smart Contracts'
+- !!set
+  journal/conference: null
 /0000-0002-0946-5440/work/26497607: !!python/tuple
 - Agostino Cortesi
 - Preface
@@ -949,6 +967,12 @@
 /0000-0002-4678-933X/work/211797666: !!python/tuple
 - Pietro Ferrara
 - 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)'
+- !!set
+  journal/conference: null
+/0000-0002-4678-933X/work/229089911: !!python/tuple
+- Pietro Ferrara
+- 'GoLiSA: An Advanced Static Analysis Tool for Detecting Potential Risks and Vulnerabilities
+  in Hyperledger Fabric Smart Contracts'
 - !!set
   journal/conference: null
 /0000-0002-5150-0393/work/83026490: !!python/tuple

@@ -2838,6 +2838,22 @@
   workid: /0000-0002-0946-5440/work/228766207
 - !Publication
   contribs:
+  - Vincenzo Arceri
+  - Luca Negrini
+  - Giacomo Zanatta
+  - Filippo Bianchi
+  - Teodors Lisovenko
+  - Luca Olivieri
+  - Pietro Ferrara
+  doi: 10.1007/978-3-032-22749-2_30
+  pub_date: 2026-01-01
+  title: 'JLiSA: The Java Frontend of the Library for Static Analysis (Competition
+    Contribution)'
+  url: http://dx.doi.org/10.1007/978-3-032-22749-2_30
+  venue: Lecture Notes in Computer Science
+  workid: /0000-0001-9930-8854/work/228995473
+- !Publication
+  contribs:
   - Luca Negrini
   doi: 10.3389/fcomp.2025.1655377
   pub_date: 2026-01-20

@@ -22,6 +22,8 @@ Maikel Lázaro Pérez Gort, Agostino Cortesi: _"A qualitative and quantitative c
 
 Luca Negrini: _"Whole-value analysis by abstract interpretation"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2025.1655377) [[LINK]](http://dx.doi.org/10.3389/fcomp.2025.1655377)
 
+Vincenzo Arceri, Luca Negrini, Giacomo Zanatta, Filippo Bianchi, Teodors Lisovenko, Luca Olivieri, Pietro Ferrara: _"JLiSA: The Java Frontend of the Library for Static Analysis (Competition Contribution)"_, in Lecture Notes in Computer Science [[DOI]](https://doi.org/10.1007/978-3-032-22749-2_30) [[LINK]](http://dx.doi.org/10.1007/978-3-032-22749-2_30)
+
 Arceri, V., Chaki, N., Cortesi, A., Deb, N.: _"Editorial: Software specification and verification: models and tools"_, in Frontiers in Computer Science [[DOI]](https://doi.org/10.3389/fcomp.2026.1845840) [[LINK]](https://www.scopus.com/inward/record.url?eid=2-s2.0-105046457913&partnerID=MN8TOARS)
 
 Luca Olivieri, Luca Pasetto, Luca Negrini, Pietro Ferrara: _"An Overview of Termination in the Ethereum Blockchain"_, in Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering [[DOI]](https://doi.org/10.1007/978-3-032-12335-0_14) [[LINK]](http://dx.doi.org/10.1007/978-3-032-12335-0_14)
